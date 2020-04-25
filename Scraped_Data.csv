@@ -1,0 +1,912 @@
+title,author_1,author_2,author_3,email_1,email_2,email_3,random_rating,accepted,submitted_arxiv,author_1_h_index,author_2_h_index,author_3_h_index,avg_h_index
+Certifying Some Distributional Robustness with Principled Adversarial Training,Aman Sinha,Hongseok Namkoong,John Duchi,amans@stanford.edu,hnamk@stanford.edu,jduchi@stanford.edu,9,a,1,7,9,41,19
+Parametric Information Bottleneck to Optimize Stochastic Neural Networks,Thanh T. Nguyen,Jaesik Choi,,thanhnguyen2792@gmail.com,jaesik@unist.ac.kr,,4,r,0,2,18,-2,10
+Towards Neural Phrase-based Machine Translation,Po-Sen Huang,Chong Wang,Sitao Huang,huang.person@gmail.com,chongw@google.com,shuang91@illinois.edu,6,ap,1,18,34,7,20
+Weightless: Lossy Weight Encoding For Deep Neural Network Compression,Brandon Reagen,Udit Gupta,Robert Adolf,reagen@fas.harvard.edu,ugupta@g.harvard.edu,rdadolf@seas.harvard.edu,6,wp,1,12,9,196,72
+Interactive Grounded Language Acquisition and Generalization in a 2D World,Haonan Yu,Haichao Zhang,Wei Xu,haonanyu@baidu.com,zhanghaichao@baidu.com,wei.xu@baidu.com,7,ap,1,11,22,58,30
+A Boo(n) for Evaluating Architecture Performance,Ondrej Bajgar,Rudolf Kadlec,and Jan Kleindienst,ondrej@bajgar.org,rudolf_kadlec@cz.ibm.com,jankle@cz.ibm.com,4,r,1,4,12,-1,5
+Countering Adversarial Images using Input Transformations,Chuan Guo,Mayank Rana,Moustapha Cisse,cg563@cornell.edu,mayankrana@fb.com,moustaphacisse@fb.com,4,ap,1,9,3,13,8
+A Neural Representation of Sketch Drawings,David Ha,Douglas Eck,,hadavid@google.com,deck@google.com,,8,ap,1,11,44,-2,28
+The Kanerva Machine: A Generative Distributed Memory,Yan Wu,Greg Wayne,Alex Graves,yanwu@google.com,gregwayne@google.com,gravesa@google.com,6,ap,1,74,42,52,56
+Minimax Curriculum Learning: Machine Teaching with Desirable Difficulties and Scheduled Diversity,Tianyi Zhou,Jeff Bilmes,,tianyi.david.zhou@gmail.com,bilmes@uw.edu,,5,ap,0,14,64,-2,39
+Multi-View Data Generation Without View Supervision,Mickael Chen,Ludovic Denoyer,Thierry Artières,mickael.chen@lip6.fr,ludovic.denoyer@lip6.fr,thierry.artieres@lif.univ-mrs.fr,7,ap,1,45,28,20,31
+Towards Binary-Valued Gates for Robust LSTM Training ,Zhuohan Li,Di He,Fei Tian,lizhuohan@pku.edu.cn,di_he@pku.edu.cn,fetia@microsoft.com,6,r,1,4,25,15,15
+On the importance of single directions for generalization,Ari S. Morcos,David G.T. Barrett,Neil C. Rabinowitz,arimorcos@google.com,barrettdavid@google.com,ncr@google.com,7,ap,1,10,11,15,12
+Variational Continual Learning,Cuong V. Nguyen,Yingzhen Li,Thang D. Bui,vcn22@cam.ac.uk,yl494@cam.ac.uk,tdb40@cam.ac.uk,6,ap,1,10,11,10,10
+Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning,Rajarshi Das,Shehzaad Dhuliawala,Manzil Zaheer,rajarshi@cs.umass.edu,sdhuliawala@cs.umass.edu,manzil@cmu.edu,7,ap,1,10,4,16,10
+Learning to Represent Programs with Graphs,Miltiadis Allamanis,Marc Brockschmidt,Mahmoud Khademi,miallama@microsoft.com,mabrocks@microsoft.com,mkhademi@sfu.ca,8,a,1,16,21,3,13
+Variational image compression with a scale hyperprior,Johannes Ballé,David Minnen,Saurabh Singh,jballe@google.com,dminnen@google.com,saurabhsingh@google.com,7,ap,1,15,21,12,16
+Simulating Action Dynamics with Neural Process Networks,Antoine Bosselut,Omer Levy,Ari Holtzman,antoineb@cs.washington.edu,omerlevy@cs.washington.edu,ahai@cs.washington.edu,6,ap,1,8,27,9,15
+Evidence Aggregation for Answer Re-Ranking in Open-Domain Question Answering,Shuohang Wang,Mo Yu,Jing Jiang,shwang.2014@phdis.smu.edu.sg,yum@us.ibm.com,jingjiang@smu.edu.sg,6,ap,1,6,23,55,28
+QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension,Adams Wei Yu,David Dohan,Minh-Thang Luong,weiyu@cs.cmu.edu,ddohan@google.com,thangluong@google.com,8,ap,1,14,4,24,14
+Measuring the Intrinsic Dimension of Objective Landscapes,Chunyuan Li,Heerad Farkhoor,Rosanne Liu,chunyuan.li@duke.edu,heerad@uber.com,rosanne@uber.com,7,ap,1,27,-1,11,13
+Residual Loss Prediction: Reinforcement Learning With No Incremental Feedback,Hal Daumé III,John Langford,Amr Sharaf,hal@umiacs.umd.edu,jl@hunch.net,amr@cs.umd.edu,7,ap,0,50,62,3,38
+Reinforcement Learning Algorithm Selection,Romain Laroche,Raphael Feraud,,romain.laroche@gmail.com,raphael.feraud@orange.com,,6,ap,1,15,17,-2,16
+Feature Incay for Representation Regularization,Yuhui Yuan,Kuiyuan Yang,Jianyuan Guo,yuyua@microsoft.com,kuiyuanyang@deepmotion.ai,1701214082@pku.edu.cn,6,wp,1,5,19,-1,8
+Zero-Shot Visual Imitation,Deepak Pathak,Parsa Mahmoudieh,Guanghao Luo,pathak@berkeley.edu,parsa.m@berkeley.edu,michaelluo@berkeley.edu,8,a,1,13,4,-1,6
+"Emergent Communication in a Multi-Modal, Multi-Step Referential Game",Katrina Evtimova,Andrew Drozdov,Douwe Kiela,kve216@nyu.edu,apd283@nyu.edu,dkiela@fb.com,7,ap,1,1,3,27,10
+Distributed Fine-tuning of Language Models on Private Data,Vadim Popov,Mikhail Kudinov,Irina Piontkovskaya,v.popov@samsung.com,m.kudinov@samsung.com,p.irina@samsung.com,5,ap,0,5,-1,-1,2
+Preliminary theoretical troubleshooting in Variational Autoencoder,Shiqi Liu,Qian Zhao,Xiangyong Cao,liushiqi@stu.xjtu.edu.cn,dymeng@mail.xjtu.edu.cn,timmy.zhaoqian@gmail.com,5,r,0,5,27,18,17
+On the Convergence of Adam and Beyond,Sashank J. Reddi,Satyen Kale,Sanjiv Kumar,sashank@google.com,satyenkale@google.com,sanjivk@google.com,9,r,0,17,32,47,32
+Spatially Transformed Adversarial Examples,Chaowei Xiao,Jun-Yan Zhu,Bo Li,xiaocw@umich.edu,junyanzhu89@gmail.com,lxbosky@gmail.com,7,ap,1,11,24,74,36
+Parametrized Hierarchical Procedures for Neural Programming,Roy Fox,Richard Shin,Sanjay Krishnan,roy.d.fox@gmail.com,shin.richard@gmail.com,sanjay@eecs.berkeley.edu,6,ap,0,10,13,54,26
+Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality,Xingjun Ma,Bo Li,Yisen Wang,xingjunm@student.unimelb.edu.au,crystalboli@berkeley.edu,wangys14@mails.tsinghua.edu.cn,8,a,1,8,74,11,31
+Generating Adversarial Examples with Adversarial Networks,Chaowei Xiao,Bo Li,Jun-Yan Zhu,xiaocw@umich.edu,lxbosky@gmail.com,junyanz@berkeley.edu,4,r,1,11,74,24,36
+Decision Boundary Analysis of Adversarial Examples,Warren He,Bo Li,Dawn Song,_w@eecs.berkeley.edu,lxbosky@gmail.com,dawnsong.travel@gmail.com,6,ap,0,-1,74,110,61
+Learning Sparse Latent Representations with the Deep Copula Information Bottleneck,Aleksander Wieczorek*,Mario Wieser*,Damian Murezzan,aleksander.wieczorek@unibas.ch,mario.wieser@unibas.ch,d.murezzan@unibas.ch,5,ap,1,-1,-1,2,1
+Demystifying MMD GANs,Mikołaj Bińkowski,Dougal J. Sutherland,Michael Arbel,mikbinkowski@gmail.com,dougal@gmail.com,michael.n.arbel@gmail.com,4,ap,1,5,13,5,8
+Fix your classifier: the marginal value of training the last weight layer,Elad Hoffer,Itay Hubara,Daniel Soudry,elad.hoffer@gmail.com,itayhubara@gmail.com,daniel.soudry@gmail.com,6,ap,1,9,10,22,14
+Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches,Yeming Wen,Paul Vicol,Jimmy Ba,wenyemin@cs.toronto.edu,pvicol@cs.toronto.edu,jimmy@psi.toronto.edu,6,ap,1,3,-1,20,8
+Tree-to-tree Neural Networks for Program Translation,Xinyun Chen,Chang Liu,Dawn Song,xinyun.chen@berkeley.edu,liuchang@eecs.berkeley.edu,dawnsong.travel@gmail.com,6,wp,1,10,21,110,47
+Towards Synthesizing Complex Programs From Input-Output Examples,Xinyun Chen,Chang Liu,Dawn Song,xinyun.chen@berkeley.edu,liuchang@eecs.berkeley.edu,dawnsong.travel@gmail.com,8,ap,1,10,21,110,47
+A DIRT-T Approach to Unsupervised Domain Adaptation,Rui Shu,Hung Bui,Hirokazu Narui,ruishu@stanford.edu,buih@google.com,hirokaz2@stanford.edu,8,ap,0,11,32,4,16
+SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data,Alon Brutzkus,Amir Globerson,Eran Malach,alonbrutzkus@mail.tau.ac.il,amir.globerson@gmail.com,eran.malach@mail.huji.ac.il,7,ap,1,4,33,4,14
+NerveNet: Learning Structured Policy with Graph Neural Networks,Tingwu Wang,Renjie Liao,Jimmy Ba,tingwuwang@cs.toronto.edu,rjliao@cs.toronto.edu,jimmy@psi.toronto.edu,7,ap,0,5,20,20,15
+Matrix capsules with EM routing,Geoffrey E Hinton,Sara Sabour,Nicholas Frosst,geoffhinton@google.com,sasabour@google.com,frosst@google.com,7,ap,0,-1,7,6,4
+Towards better understanding of gradient-based attribution methods for Deep Neural Networks,Marco Ancona,Enea Ceolini,Cengiz Öztireli,marco.ancona@inf.ethz.ch,enea.ceolini@ini.uzh.ch,cengizo@inf.ethz.ch,7,ap,1,3,6,-1,3
+Linearly Constrained Weights: Resolving the Vanishing Gradient Problem by Reducing Angle Bias,Takuro Kutsuna,,,kutsuna@mosk.tytlabs.co.jp,,,5,r,0,-1,-2,-2,0
+Understanding Short-Horizon Bias in Stochastic Meta-Optimization,Yuhuai Wu,Mengye Ren,Renjie Liao,ywu@cs.toronto.edu,mren@cs.toronto.edu,rjliao@cs.toronto.edu,7,ap,1,14,10,20,15
+Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks,Youngjin Kim,Minjung Kim,Gunhee Kim,youngjin.kim@vision.snu.ac.kr,minjung.kim1994@gmail.com,gunhee@snu.ac.kr,6,ap,1,26,22,26,25
+Universal Agent for Disentangling Environments and Tasks,Jiayuan Mao,Honghua Dong,Joseph J. Lim,mjy14@mails.tsinghua.edu.cn,dhh14@mails.tsinghua.edu.cn,limjj@usc.edu,6,ap,0,6,3,20,10
+Breaking the Softmax Bottleneck: A High-Rank RNN Language Model,Zhilin Yang,Zihang Dai,Ruslan Salakhutdinov,zhiliny@cs.cmu.edu,zander.dai@gmail.com,rsalakhu@cs.cmu.edu,7,a,1,103,-1,83,62
+Meta-Learning for Semi-Supervised Few-Shot Classification,Mengye Ren,Eleni Triantafillou,Sachin Ravi,mren@cs.toronto.edu,eleni@cs.toronto.edu,sachinr@princeton.edu,6,ap,1,10,6,5,7
+Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields,Thomas Unterthiner,Bernhard Nessler,Calvin Seward,unterthiner@bioinf.jku.at,nessler@bioinf.jku.at,seward@bioinf.jku.at,5,ap,1,16,11,3,10
+Memory Architectures in Recurrent Neural Network Language Models,Dani Yogatama,Yishu Miao,Gabor Melis,dyogatama@google.com,yishu.miao@cs.ox.ac.uk,melisgl@google.com,6,ap,0,20,9,7,12
+Mitigating Adversarial Effects Through Randomization,Cihang Xie,Jianyu Wang,Zhishuai Zhang,cihangxie306@gmail.com,wjyouch@gmail.com,zhshuai.zhang@gmail.com,6,ap,1,11,10,11,11
+Learning Awareness Models,Brandon Amos,Laurent Dinh,Serkan Cabi,bamos@cs.cmu.edu,dinh.laurent@gmail.com,cabi@google.com,7,ap,1,19,15,7,14
+Generating Wikipedia by Summarizing Long Sequences,Peter J. Liu*,Mohammad Saleh*,Etienne Pot,peterjliu@google.com,msaleh@google.com,epot@google.com,7,ap,1,-1,-1,2,1
+MaskGAN: Better Text Generation via Filling in the _______,William Fedus,Ian Goodfellow,Andrew M. Dai,liam.fedus@gmail.com,goodfellow@google.com,adai@google.com,7,ap,0,10,64,19,31
+Detecting Statistical Interactions from Neural Network Weights,Michael Tsang,Dehua Cheng,Yan Liu,tsangm@usc.edu,dehuache@usc.edu,yanliu.cs@usc.edu,7,ap,1,32,7,43,27
+Model-Ensemble Trust-Region Policy Optimization,Thanard Kurutach,Ignasi Clavera,Yan Duan,thanard.kurutach@berkeley.edu,iclavera@berkeley.edu,rockyduan@eecs.berkeley.edu,7,ap,1,4,7,18,10
+Compositional Obverter Communication Learning from Raw Visual Input,Edward Choi,Angeliki Lazaridou,Nando de Freitas,mp2893@gatech.edu,angeliki@google.com,nandodefreitas@google.com,9,ap,1,16,19,60,32
+Quantitatively Evaluating GANs With Divergences Proposed for Training,Daniel Jiwoong Im,He Ma,Graham W. Taylor,daniel.im@aifounded.com,hma02@uoguelph.ca,gwtaylor@uoguelph.ca,7,ap,1,8,31,33,24
+Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy,Asit Mishra,Debbie Marr,,asit.k.mishra@intel.com,debbie.marr@intel.com,,7,ap,1,31,-1,-2,16
+Semi-parametric topological memory for navigation,Nikolay Savinov,Alexey Dosovitskiy,Vladlen Koltun,nikolay.savinov@inf.ethz.ch,adosovitskiy@gmail.com,vkoltun@gmail.com,7,ap,1,9,32,63,35
+Automatically Inferring Data Quality for Spatiotemporal Forecasting,Sungyong Seo,Arash Mohegh,George Ban-Weiss,sungyons@usc.edu,mohegh@usc.edu,banweiss@usc.edu,6,ap,0,9,5,25,13
+"Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks",Pratik Chaudhari,Stefano Soatto,,pratikac@ucla.edu,soatto@ucla.edu,,8,ap,1,9,72,-2,40
+Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning,Tianmin Shu,Caiming Xiong,Richard Socher,tianmin.shu@ucla.edu,cxiong@salesforce.com,richard@socher.org,6,ap,1,8,29,47,28
+Not-So-Random Features,Brian Bullins,Cyril Zhang,Yi Zhang,bbullins@cs.princeton.edu,cyril.zhang@cs.princeton.edu,y.zhang@cs.princeton.edu,7,ap,1,7,6,9,7
+Learning a Generative Model for Validity in Complex Discrete Structures,Dave Janz,Jos van der Westhuizen,Brooks Paige,david.janz93@gmail.com,josvdwest@gmail.com,tbpaige@gmail.com,6,ap,1,37,5,12,18
+Learning to Multi-Task by Active Sampling,Sahil Sharma*,Ashutosh Kumar Jha*,Parikshit S Hegde,sahil@cse.iitm.ac.in,me14b148@smail.iitm.ac.in,ee14b123@ee.iitm.ac.in,5,ap,1,-1,-1,-1,0
+Consequentialist conditional cooperation in social dilemmas with imperfect information,Alexander Peysakhovich,Adam Lerer,,alexpeys@gmail.com,alerer@fb.com,,7,ap,1,16,17,-2,16
+MGAN: Training Generative Adversarial Nets with Multiple Generators,Quan Hoang,Tu Dinh Nguyen,Trung Le,qhoang@umass.edu,tu.nguyen@deakin.edu.au,trung.l@deakin.edu.au,5,ap,0,27,14,24,22
+Residual Connections Encourage Iterative Inference,Stanisław Jastrzebski,Devansh Arpit,Nicolas Ballas,staszek.jastrzebski@gmail.com,devansharpit@gmail.com,ballas.n@gmail.com,6,ap,1,11,13,19,14
+Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis,Rudy Bunel,Matthew Hausknecht,Jacob Devlin,rudy@robots.ox.ac.uk,mahauskn@microsoft.com,jacobdevlin@google.com,5,ap,1,10,18,-1,9
+Stochastic Activation Pruning for Robust Adversarial Defense,Guneet S. Dhillon,Kamyar Azizzadenesheli,Zachary C. Lipton,guneetdhillon@utexas.edu,kazizzad@uci.edu,zlipton@cmu.edu,6,ap,1,2,10,26,13
+Online Learning Rate Adaptation with Hypergradient Descent,Atilim Gunes Baydin,Robert Cornish,David Martinez Rubio,gunes@robots.ox.ac.uk,rcornish@robots.ox.ac.uk,david.martinez2@wadh.ox.ac.uk,6,ap,1,10,4,4,6
+Temporal Difference Models: Model-Free Deep RL for Model-Based Control,Vitchyr Pong*,Shixiang Gu*,Murtaza Dalal,vitchyr@berkeley.edu,sg717@cam.ac.uk,mdalal@berkeley.edu,7,ap,1,-1,17,4,7
+Generative Models of Visually Grounded Imagination,Ramakrishna Vedantam,Ian Fischer,Jonathan Huang,vrama@gatech.edu,iansf@google.com,jonathanhuang@google.com,7,ap,1,10,15,26,17
+Spherical CNNs,Taco S. Cohen,Mario Geiger,Jonas Köhler,taco.cohen@gmail.com,geiger.mario@gmail.com,jonas.koehler.ks@gmail.com,8,a,1,17,12,4,11
+Neural Speed Reading via Skim-RNN,Minjoon Seo,Sewon Min,Ali Farhadi,minjoon@cs.washington.edu,shmsw25@snu.ac.kr,ali@cs.washington.edu,7,ap,1,11,7,46,21
+On Unifying Deep Generative Models,Zhiting Hu,Zichao Yang,Ruslan Salakhutdinov,zhitinghu@gmail.com,yangtze2301@gmail.com,rsalakhu@cs.cmu.edu,7,ap,1,26,17,83,42
+Cascade Adversarial Machine Learning Regularized with a Unified Embedding,Taesik Na,Jong Hwan Ko,Saibal Mukhopadhyay,taesik.na@gatech.edu,jonghwan.ko@gatech.edu,saibal.mukhopadhyay@ece.gatech.edu,6,ap,1,10,9,43,21
+Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines,Cathy Wu,Aravind Rajeswaran,Yan Duan,cathywu@eecs.berkeley.edu,aravraj@cs.washington.edu,rockyduan@eecs.berkeley.edu,7,a,1,100,12,18,43
+Lifelong Learning with Dynamically Expandable Networks,Jaehong Yoon,Eunho Yang,Jeongtae Lee,mmvc98@unist.ac.kr,eunhoy@kaist.ac.kr,jtlee@unist.ac.kr,7,ap,1,3,-1,13,5
+A Simple Neural Attentive Meta-Learner,Nikhil Mishra,Mostafa Rohaninejad,Xi Chen,nmishra@berkeley.edu,rohaninejadm@berkeley.edu,adslcx@gmail.com,7,ap,1,5,5,97,36
+Emergence of grid-like representations by training recurrent neural networks to perform spatial localization,Christopher J. Cueva,Xue-Xin Wei,,ccueva@gmail.com,weixxpku@gmail.com,,8,ap,1,5,9,-2,7
+Certified Defenses against Adversarial Examples ,Aditi Raghunathan,Jacob Steinhardt,Percy Liang,aditir@stanford.edu,jsteinhardt@cs.stanford.edu,pliang@cs.stanford.edu,8,ap,1,6,18,49,24
+Emergence of Linguistic Communication from  Referential Games with Symbolic and Pixel Input,Angeliki Lazaridou,Karl Moritz Hermann,Karl Tuyls,angeliki@google.com,kmh@google.com,karltuyls@google.com,7,r,1,19,21,39,26
+Unsupervised Representation Learning by Predicting Image Rotations,Spyros Gidaris,Praveer Singh,Nikos Komodakis,spyros.gidaris@enpc.fr,praveer.singh@enpc.fr,nikos.komodakis@enpc.fr,6,ap,1,9,6,42,19
+Learn to Pay Attention,Saumya Jetley,Nicholas A. Lord,Namhoon Lee,saumya.jetley@stx.ox.ac.uk,nicklord@robots.ox.ac.uk,namhoon.lee@eng.ox.ac.uk,5,ap,1,10,8,8,9
+Auto-Encoding Sequential Monte Carlo,Tuan Anh Le,Maximilian Igl,Tom Rainforth,tuananh@robots.ox.ac.uk,maximilian.igl@gmail.com,twgr@robots.ox.ac.uk,7,ap,1,21,4,11,12
+Divide-and-Conquer Reinforcement Learning,Dibya Ghosh,Avi Singh,Aravind Rajeswaran,dibya.ghosh@berkeley.edu,avisingh@cs.berkeley.edu,aravraj@cs.washington.edu,7,ap,1,3,8,12,8
+SMASH: One-Shot Model Architecture Search through HyperNetworks,Andrew Brock,Theo Lim,J.M. Ritchie,ajb5@hw.ac.uk,t.lim@hw.ac.uk,j.m.ritchie@hw.ac.uk,7,ap,1,7,27,28,21
+Recasting Gradient-Based Meta-Learning as Hierarchical Bayes,Erin Grant,Chelsea Finn,Sergey Levine,eringrant@berkeley.edu,cbfinn@eecs.berkeley.edu,svlevine@eecs.berkeley.edu,6,ap,1,5,31,74,37
+Neural Sketch Learning for Conditional Program Generation,Vijayaraghavan Murali,Letao Qi,Swarat Chaudhuri,vijay@rice.edu,letao.qi@rice.edu,swarat@rice.edu,7,a,1,8,-1,27,12
+Synthetic and Natural Noise Both Break Neural Machine Translation,Yonatan Belinkov,Yonatan Bisk,,belinkov@mit.edu,ybisk@yonatanbisk.com,,7,r,1,19,17,-2,18
+Policy Optimization by Genetic Distillation ,Tanmay Gangwani,Jian Peng,,gangwan2@illinois.edu,jianpeng@illinois.edu,,8,ap,1,4,39,-2,22
+Active Neural Localization,Devendra Singh Chaplot,Emilio Parisotto,Ruslan Salakhutdinov,chaplot@cs.cmu.edu,eparisot@andrew.cmu.edu,rsalakhu@cs.cmu.edu,6,ap,1,12,8,83,34
+Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration,Evan Zheran Liu,Kelvin Guu,Panupong Pasupat,evzliu@gmail.com,kguu@stanford.edu,ppasupat@cs.stanford.edu,7,ap,1,2,8,14,8
+Training GANs with Optimism,Constantinos Daskalakis,Andrew Ilyas,Vasilis Syrgkanis,costis@mit.edu,ailyas@mit.edu,vasy@microsoft.com,7,ap,1,44,11,22,26
+"A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs",Sanjeev Arora,Mikhail Khodak,Nikunj Saunshi,arora@cs.princeton.edu,mkhodak@princeton.edu,nsaunshi@cs.princeton.edu,7,ap,0,61,12,4,26
+Scalable Private Learning with PATE,Nicolas Papernot,Shuang Song,Ilya Mironov,ngp5056@cse.psu.edu,shs037@eng.ucsd.edu,mironov@google.com,6,ap,1,25,17,30,24
+Deep Bayesian Bandits Showdown:  An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling,Carlos Riquelme,George Tucker,Jasper Snoek,rikel@google.com,gjt@google.com,jsnoek@google.com,5,ap,1,28,82,22,44
+Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training,Yujun Lin,Song Han,Huizi Mao,yujunlin@stanford.edu,songhan@stanford.edu,huizi@stanford.edu,7,ap,1,-1,23,9,11
+The power of deeper networks for expressing natural functions,David Rolnick,Max Tegmark,,drolnick@mit.edu,tegmark@mit.edu,,7,ap,1,11,113,-2,62
+Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis,Yi Zhou,Zimo Li,Shuangjiu Xiao,zhou859@usc.edu,zimoli@usc.edu,xsjiu99@sjtu.edu.cn,7,ap,1,75,8,-1,28
+A Hierarchical Model for Device Placement,Azalia Mirhoseini,Anna Goldie,Hieu Pham,azalia@google.com,agoldie@google.com,hyhieu@cmu.edu,5,ap,0,14,6,9,10
+Improving GANs Using Optimal Transport,Tim Salimans,Han Zhang,Alec Radford,tim@openai.com,han.zhang@cs.rutgers.edu,alec@openai.com,8,ap,1,14,13,12,13
+Improving GAN Training via Binarized Representation Entropy (BRE) Regularization,Yanshuai Cao,Gavin Weiguang Ding,Kry Yik-Chau Lui,yanshuai.cao@borealisai.com,gavin.ding@borealisai.com,yikchau.y.lui@borealisai.com,6,ap,1,6,10,-1,5
+Hierarchical Density Order Embeddings,Ben Athiwaratkun,Andrew Gordon Wilson,,pa338@cornell.edu,andrew@cornell.edu,,4,ap,1,6,27,-2,16
+Stabilizing Adversarial Nets with Prediction Methods,Abhay Yadav,Sohil Shah,Zheng Xu,jaiabhay@cs.umd.edu,sohilas@umd.edu,xuzh@cs.umd.edu,4,ap,1,5,6,17,9
+Boosting the Actor with Dual Critic,Bo Dai,Albert Shaw,Niao He,bohr.dai@gmail.com,ashaw596@gatech.edu,niaohe@illinois.edu,7,ap,1,16,4,11,10
+On the Information Bottleneck Theory of Deep Learning,Andrew Michael Saxe,Yamini Bansal,Joel Dapello,asaxe@fas.harvard.edu,ybansal@g.harvard.edu,dapello@g.harvard.edu,6,ap,0,16,3,2,7
+Syntax-Directed Variational Autoencoder for Structured Data,Hanjun Dai,Yingtao Tian,Bo Dai,hanjundai@gatech.edu,yittian@cs.stonybrook.edu,bohr.dai@gmail.com,3,ap,1,16,7,16,13
+Do GANs learn the distribution? Some Theory and Empirics,Sanjeev Arora,Andrej Risteski,Yi Zhang,arora@cs.princeton.edu,risteski@cs.princeton.edu,y.zhang@cs.princeton.edu,7,ap,0,61,12,9,27
+TRUNCATED HORIZON POLICY SEARCH: COMBINING REINFORCEMENT LEARNING & IMITATION LEARNING,Wen Sun,J. Andrew Bagnell,Byron Boots,wensun@cs.cmu.edu,dbagnell@cs.cmu.edu,bboots@cc.gatech.edu,7,ap,0,116,59,28,68
+Understanding Deep Neural Networks with Rectified Linear Units,Raman Arora,Amitabh Basu,Poorya Mianjy,arora@cs.jhu.edu,basu.amitabh@jhu.edu,mianjy@jhu.edu,6,ap,1,23,18,7,16
+Deep Neural Networks as Gaussian Processes,Jaehoon Lee,Yasaman Bahri,Roman Novak,jaehlee@google.com,yasamanb@google.com,romann@google.com,4,ap,1,10,10,7,9
+Deep Complex Networks,Chiheb Trabelsi,Olexa Bilaniuk,Ying Zhang,chiheb.trabelsi@polymtl.ca,olexa.bilaniuk@umontreal.ca,ying.zhang@umontreal.ca,7,ap,1,4,6,9,6
+Non-Autoregressive Neural Machine Translation,Jiatao Gu,James Bradbury,Caiming Xiong,jiataogu@eee.hku.hk,james.bradbury@salesforce.com,cxiong@salesforce.com,7,ap,1,11,9,29,16
+Depthwise Separable Convolutions for Neural Machine Translation,Lukasz Kaiser,Aidan N. Gomez,Francois Chollet,lukaszkaiser@google.com,aidan.n.gomez@gmail.com,fchollet@google.com,5,ap,1,27,7,49,28
+Learning a neural response metric for retinal prosthesis,Nishal P Shah,Sasidhar Madugula,EJ Chichilnisky,nishalps@stanford.edu,sasidhar@stanford.edu,ej@stanford.edu,5,ap,0,-1,-1,46,15
+Distributed Distributional Deterministic Policy Gradients,Gabriel Barth-Maron,Matthew W. Hoffman,David Budden,gabrielbm@google.com,mwhoffman@google.com,budden@google.com,9,ap,1,7,19,19,15
+Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples,Ashwin Kalyan,Abhishek Mohta,Oleksandr Polozov,ashwinkv@gatech.edu,t-abmoht@microsoft.com,polozov@microsoft.com,6,ap,1,4,4,9,6
+Learning an Embedding Space for Transferable Robot Skills,Karol Hausman,Jost Tobias Springenberg,Ziyu Wang,hausmankarol@gmail.com,springenberg@google.com,ziyu@google.com,7,ap,0,15,26,21,21
+Multi-Mention Learning for Reading Comprehension with Neural Cascades,Swabha Swayamdipta,Ankur P. Parikh,Tom Kwiatkowski,swabha@cs.cmu.edu,aparikh@google.com,tomkwiat@google.com,7,ap,1,10,14,14,13
+Learning Differentially Private Recurrent Language Models,H. Brendan McMahan,Daniel Ramage,Kunal Talwar,mcmahan@google.com,dramage@google.com,kunal@google.com,7,ap,1,32,32,48,37
+Learning Approximate Inference Networks for Structured Prediction,Lifu Tu,Kevin Gimpel,,lifu@ttic.edu,kgimpel@ttic.edu,,7,ap,1,37,30,-2,34
+Emergent Communication through Negotiation,Kris Cao,Angeliki Lazaridou,Marc Lanctot,kc391@cam.ac.uk,angeliki@google.com,lanctot@google.com,6,ap,1,4,19,25,16
+Ensemble Adversarial Training: Attacks and Defenses,Florian Tramèr,Alexey Kurakin,Nicolas Papernot,tramer@cs.stanford.edu,alexey@kurakin.me,ngp5056@cse.psu.edu,6,ap,1,18,15,25,19
+Maximum a Posteriori Policy Optimisation,Abbas Abdolmaleki,Jost Tobias Springenberg,Yuval Tassa,abbas.abdolmaleky@gmail.com,springenberg@google.com,heess@google.com,7,ap,1,11,26,25,21
+Global Optimality Conditions for Deep Neural Networks,Chulhee Yun,Suvrit Sra,Ali Jadbabaie,chulheey@mit.edu,suvrit@mit.edu,jadbabai@mit.edu,5,ap,1,4,45,57,35
+Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning,Benjamin Eysenbach,Shixiang Gu,Julian Ibarz,eysenbach@google.com,sg717@cam.ac.uk,julianibarz@google.com,7,ap,1,7,17,15,13
+Sensitivity and Generalization in Neural Networks: an Empirical Study,Roman Novak,Yasaman Bahri,Daniel A. Abolafia,romann@google.com,yasamanb@google.com,danabo@google.com,8,ap,1,7,10,-1,6
+Combining Symbolic Expressions and Black-box Function Evaluations in Neural Programs,Forough Arabshahi,Sameer Singh,Animashree Anandkumar,farabsha@uci.edu,sameer@uci.edu,animakumar@gmail.com,6,ap,1,-1,68,42,37
+Dynamic Neural Program Embeddings for Program Repair,Ke Wang,Rishabh Singh,Zhendong Su,kbwang@ucdavis.edu,risin@microsoft.com,su@cs.ucdavis.edu,6,ap,1,7,28,49,28
+Generating Natural Adversarial Examples,Zhengli Zhao,Dheeru Dua,Sameer Singh,zhengliz@uci.edu,ddua@uci.edu,sameer@uci.edu,6,ap,1,4,4,68,25
+mixup: Beyond Empirical Risk Minimization,Hongyi Zhang,Moustapha Cisse,Yann N. Dauphin,hongyiz@mit.edu,moustaphacisse@fb.com,ynd@fb.com,6,ap,1,10,13,28,17
+Backpropagation through the Void: Optimizing control variates for black-box gradient estimation,Will Grathwohl,Dami Choi,Yuhuai Wu,wgrathwohl@cs.toronto.edu,choidami@cs.toronto.edu,ywu@cs.toronto.edu,8,ap,0,6,4,14,8
+"Don't Decay the Learning Rate, Increase the Batch Size",Samuel L. Smith,Pieter-Jan Kindermans,Chris Ying,slsmith@google.com,pikinder@google.com,chrisying@google.com,6,ap,1,7,20,3,10
+Fidelity-Weighted Learning,Mostafa Dehghani,Arash Mehrjou,Stephan Gouws,dehghani@uva.nl,amehrjou@tuebingen.mpg.de,sgouws@google.com,7,ap,1,13,7,13,11
+Emergent Complexity via Multi-Agent Competition,Trapit Bansal,Jakub Pachocki,Szymon Sidor,tbansal@cs.umass.edu,jakub@openai.com,szymon@openai.com,3,ap,1,8,-1,12,7
+A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks,Behnam Neyshabur,Srinadh Bhojanapalli,Nathan Srebro,bneyshabur@ttic.edu,srinadh@ttic.edu,nati@ttic.edu,9,ap,1,19,15,55,30
+N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning,Anubhav Ashok,Nicholas Rhinehart,Fares Beainy,anubhava@andrew.cmu.edu,nrhineha@cs.cmu.edu,fares.beainy@volvo.com,5,ap,1,2,8,11,7
+AmbientGAN: Generative models from lossy measurements,Ashish Bora,Eric Price,Alexandros G. Dimakis,ashish.bora@utexas.edu,ecprice@cs.utexas.edu,dimakis@austin.utexas.edu,7,a,0,4,19,48,24
+Eigenoption Discovery through the Deep Successor Representation,Marlos C. Machado,Clemens Rosenbaum,Xiaoxiao Guo,machado@ualberta.ca,crosenbaum@umass.edu,xiaoxiao.guo@ibm.com,6,ap,1,11,10,13,11
+Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning,Sandeep Subramanian,Adam Trischler,Yoshua Bengio,sandeep.subramanian.1@umontreal.ca,adam.trischler@microsoft.com,yoshua.umontreal@gmail.com,8,ap,1,11,19,158,63
+Communication Algorithms via Deep Learning,Hyeji Kim,Yihan Jiang,Ranvir B. Rana,hyejikim@illinois.edu,yihanrogerjiang@gmail.com,rbrana2@illinois.edu,2,ap,1,11,6,-1,6
+Variational Inference of Disentangled Latent Concepts from Unlabeled Observations,Abhishek Kumar,Prasanna Sattigeri,Avinash Balakrishnan,abhishk@us.ibm.com,psattig@us.ibm.com,avinash.bala@us.ibm.com,6,ap,1,20,11,26,19
+Variational Message Passing with Structured Inference Networks,Wu Lin,Nicolas Hubacher,Mohammad Emtiyaz Khan,wlin2018@cs.ubc.ca,nicolas.hubacher@outlook.com,emtiyaz@gmail.com,7,ap,1,6,-1,15,7
+On the insufficiency of existing momentum schemes for Stochastic Optimization,Rahul Kidambi,Praneeth Netrapalli,Prateek Jain,rkidambi@uw.edu,praneeth@microsoft.com,prajain@microsoft.com,7,a,1,7,24,45,25
+CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training,Murat Kocaoglu,Christopher Snyder,Alexandros G. Dimakis,mkocaoglu@utexas.edu,22csnyder@gmail.com,dimakis@austin.utexas.edu,6,ap,1,10,30,48,29
+Unsupervised Neural Machine Translation,Mikel Artetxe,Gorka Labaka,Eneko Agirre,mikel.artetxe@ehu.eus,gorka.labaka@ehu.eus,e.agirre@ehu.eus,6,ap,1,10,16,50,25
+Understanding image motion with group representations ,Andrew Jaegle,Stephen Phillips,Daphne Ippolito,ajaegle@upenn.edu,stephi@seas.upenn.edu,daphnei@seas.upenn.edu,7,ap,1,5,96,4,35
+Deep Learning with Logged Bandit Feedback,Thorsten Joachims,Adith Swaminathan,Maarten de Rijke,tj@cs.cornell.edu,adswamin@microsoft.com,derijke@uva.nl,7,ap,0,71,14,74,53
+FearNet: Brain-Inspired Model for Incremental Learning,Ronald Kemker,Christopher Kanan,,rmk6217@rit.edu,kanan@rit.edu,,7,ap,1,7,20,-2,14
+On the Discrimination-Generalization Tradeoff in GANs,Pengchuan Zhang,Qiang Liu,Dengyong Zhou,penzhan@microsoft.com,qiang.liu@dartmouth.edu,dennyzhou@google.com,6,ap,1,9,59,36,35
+Learning Latent Permutations with Gumbel-Sinkhorn Networks,Gonzalo Mena,David Belanger,Scott Linderman,gem2131@columbia.edu,dbelanger@google.com,scott.linderman@gmail.com,8,ap,1,5,15,12,11
+Towards Deep Learning Models Resistant to Adversarial Attacks,Aleksander Madry,Aleksandar Makelov,Ludwig Schmidt,madry@mit.edu,amakelov@mit.edu,ludwigs@mit.edu,7,ap,1,26,3,22,17
+Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking,Aleksandar Bojchevski,Stephan Günnemann,,a.bojchevski@in.tum.de,guennemann@in.tum.de,,7,ap,1,10,30,-2,20
+Predicting Floor-Level for 911 Calls with Neural Networks and Smartphone Sensor Data,William Falcon,Henning Schulzrinne,,waf2107@columbia.edu,hgs@cs.columbia.edu,,6,ap,1,2,91,-2,46
+Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples,Kimin Lee,Honglak Lee,Kibok Lee,kiminlee@kaist.ac.kr,honglak@eecs.umich.edu,kibok@umich.edu,6,ap,1,6,61,7,25
+Ask the Right Questions: Active Question Reformulation with Reinforcement Learning,Christian Buck,Jannis Bulian,Massimiliano Ciaramita,cbuck@google.com,jbulian@google.com,massi@google.com,7,a,1,12,4,33,16
+Towards Image Understanding from Deep Compression Without Decoding,Robert Torfason,Fabian Mentzer,Eirikur Agustsson,robertto@student.ethz.ch,mentzerf@vision.ee.ethz.ch,aeirikur@vision.ee.ethz.ch,6,ap,1,-1,6,13,6
+The Implicit Bias of Gradient Descent on Separable Data,Daniel Soudry,Elad Hoffer,Mor Shpigel Nacson,daniel.soudry@gmail.com,elad.hoffer@gmail.com,mor.shpigel@gmail.com,5,ap,1,22,9,4,12
+Distributed Prioritized Experience Replay,Dan Horgan,John Quan,David Budden,horgan@google.com,johnquan@google.com,budden@google.com,9,ap,1,9,4,19,11
+Learning One-hidden-layer Neural Networks with Landscape Design,Rong Ge,Jason D. Lee,Tengyu Ma,rongge@cs.duke.edu,jasondlee88@gmail.com,tengyuma@cs.stanford.edu,6,ap,1,30,36,27,31
+Learning to cluster in order to transfer across domains and tasks,Yen-Chang Hsu,Zhaoyang Lv,Zsolt Kira,yenchang.hsu@gatech.edu,zhaoyang.lv@gatech.edu,zkira@gatech.edu,7,ap,1,8,7,15,10
+Mixed Precision Training of Convolutional Neural Networks using Integer Operations,Dipankar Das,Naveen Mellempudi,Dheevatsa Mudigere,dipankar.das@intel.com,naveen.k.mellempudi@intel.com,dheevatsa.mudigere@intel.com,7,ap,1,75,7,15,32
+Generative networks as inverse problems with Scattering transforms,Tomás Angles,Stéphane Mallat,,tomas.angles@ens.fr,stephane.mallat@ens.fr,,7,ap,1,3,62,-2,32
+Sparse Persistent RNNs: Squeezing Large Recurrent Networks On-Chip,Feiwen Zhu,Jeff Pool,Michael Andersch,mzhu@nvidia.com,jpool@nvidia.com,mandersch@nvidia.com,6,ap,1,-1,12,-1,4
+Robustness of Classifiers to Universal Perturbations: A Geometric Perspective,Seyed-Mohsen Moosavi-Dezfooli,Alhussein Fawzi,Omar Fawzi,seyed.moosavi@epfl.ch,fawzi@cs.ucla.edu,omar.fawzi@ens-lyon.fr,6,ap,0,11,16,18,15
+Deep Learning as a Mixed Convex-Combinatorial Optimization Problem,Abram L. Friesen,Pedro Domingos,,afriesen@cs.washington.edu,pedrod@cs.washington.edu,,7,ap,1,8,16,-2,12
+Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments,Maruan Al-Shedivat,Trapit Bansal,Yura Burda,alshedivat@cs.cmu.edu,tbansal@cs.umass.edu,yburda@openai.com,8,a,1,13,8,8,10
+Unsupervised Cipher Cracking Using Discrete GANs,Aidan N. Gomez,Sicong Huang,Ivan Zhang,aidan.n.gomez@gmail.com,huang@cs.toronto.edu,ivan@for.ai,7,ap,1,7,3,6,5
+Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play,Sainbayar Sukhbaatar,Zeming Lin,Ilya Kostrikov,sainbar@cs.nyu.edu,zlin@fb.com,kostrikov@cs.nyu.edu,8,ap,1,11,10,8,10
+Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent,Zhilin Yang,Saizheng Zhang,Jack Urbanek,zhiliny@cs.cmu.edu,saizheng.zhang@umontreal.ca,jju@fb.com,7,ap,1,103,13,4,40
+Gradient Estimators for Implicit Models,Yingzhen Li,Richard E. Turner,,yl494@cam.ac.uk,ret26@cam.ac.uk,,7,ap,1,11,29,-2,20
+ Neural Map: Structured Memory for Deep Reinforcement Learning,Emilio Parisotto,Ruslan Salakhutdinov,,eparisot@andrew.cmu.edu,rsalakhu@cs.cmu.edu,,7,ap,1,8,83,-2,46
+Memory-based Parameter Adaptation,Pablo Sprechmann,Siddhant M. Jayakumar,Jack W. Rae,psprechmann@google.com,sidmj@google.com,jwrae@google.com,6,ap,1,19,7,-1,9
+Model compression via distillation and quantization,Antonio Polino,Razvan Pascanu,Dan Alistarh,antonio.polino1@gmail.com,razp@google.com,d.alistarh@gmail.com,7,ap,1,1,46,20,22
+Learning Wasserstein Embeddings,Nicolas Courty,Rémi Flamary,Mélanie Ducoffe,ncourty@irisa.fr,remi.flamary@unice.fr,ducoffe@i3s.unice.fr,7,ap,1,26,19,7,17
+Loss-aware Weight Quantization of Deep Networks,Lu Hou,James T. Kwok,,lhouab@cse.ust.hk,jamesk@cse.ust.hk,,8,ap,1,4,59,-2,32
+Kernel Implicit Variational Inference,Jiaxin Shi,Shengyang Sun,Jun Zhu,shijx15@mails.tsinghua.edu.cn,ssy@cs.toronto.edu,dcszj@tsinghua.edu.cn,5,ap,1,6,9,59,25
+Adversarial Dropout Regularization,Kuniaki Saito,Yoshitaka Ushiku,Tatsuya Harada,k-saito@mi.t.u-tokyo.ac.jp,ushiku@mi.t.u-tokyo.ac.jp,harada@mi.t.u-tokyo.ac.jp,5,ap,1,9,16,31,19
+Hierarchical Subtask Discovery with Non-Negative Matrix Factorization,Adam C. Earle,Andrew M. Saxe,Benjamin Rosman,adam.earle@ymail.com,asaxe@fas.harvard.edu,benjros@gmail.com,6,ap,1,3,16,13,11
+A Scalable Laplace Approximation for Neural Networks,Hippolyt Ritter,Aleksandar Botev,David Barber,j.ritter@cs.ucl.ac.uk,botevmg@gmail.com,d.barber@cs.ucl.ac.uk,9,ap,0,-1,7,51,19
+TreeQN and ATreeC: Differentiable Tree-Structured Models for Deep Reinforcement Learning,Gregory Farquhar,Tim Rocktäschel,Maximilian Igl,gregory.farquhar@cs.ox.ac.uk,tim.rocktaeschel@gmail.com,maximilian.igl@gmail.com,4,ap,1,8,21,4,11
+Training wide residual networks for deployment using a single bit for each weight,Mark D. McDonnell,,,mark.mcdonnell@unisa.edu.au,,,6,ap,1,24,-2,-2,24
+Can Neural Networks Understand Logical Entailment?,Richard Evans,David Saxton,David Amos,richardevans@google.com,saxton@google.com,davidamos@google.com,7,ap,1,9,10,14,11
+Learning Sparse Neural Networks through L_0 Regularization,Christos Louizos,Max Welling,Diederik P. Kingma,c.louizos@uva.nl,m.welling@uva.nl,dpkingma@openai.com,6,ap,1,10,68,18,32
+Unsupervised Learning of Goal Spaces for Intrinsically Motivated Goal Exploration,Alexandre Péré,Sébastien Forestier,Olivier Sigaud,alexandre.pere@inria.fr,sebastien.forestier@inria.fr,olivier.sigaud@upmc.fr,7,ap,1,-1,9,27,12
+Learning From Noisy Singly-labeled Data,Ashish Khetan,Zachary C. Lipton,Animashree Anandkumar,khetan2@illinois.edu,zlipton@cmu.edu,anima@amazon.com,7,ap,1,8,26,42,25
+SEARNN: Training RNNs with global-local losses,Rémi Leblond,Jean-Baptiste Alayrac,Anton Osokin,remi.leblond@inria.fr,jean-baptiste.alayrac@inria.fr,aosokin@hse.ru,8,ap,1,6,8,12,9
+"Progressive Growing of GANs for Improved Quality, Stability, and Variation",Tero Karras,Timo Aila,Samuli Laine,tkarras@nvidia.com,taila@nvidia.com,slaine@nvidia.com,8,a,1,22,35,27,28
+Graph Attention Networks,Petar Veličković,Guillem Cucurull,Arantxa Casanova,petar.velickovic@cst.cam.ac.uk,gcucurull@gmail.com,ar.casanova.8@gmail.com,6,ap,1,9,7,3,6
+i-RevNet: Deep Invertible Networks,Jörn-Henrik Jacobsen,Arnold W.M. Smeulders,Edouard Oyallon,joern.jacobsen@bethgelab.org,a.w.m.smeulders@uva.nl,edouard.oyallon@ens.fr,8,ap,0,10,-1,10,7
+On the regularization of Wasserstein GANs,Henning Petzka,Asja Fischer,Denis Lukovnikov,henning.petzka@iais.fraunhofer.de,asja.fischer@gmail.com,lukovnik@cs.uni-bonn.de,7,ap,1,5,17,5,9
+Initialization matters: Orthogonal Predictive State Recurrent Neural Networks,Krzysztof Choromanski,Carlton Downey,Byron Boots,kchoro@google.com,cmdowney@cs.cmu.edu,bboots@cc.gatech.edu,4,ap,0,17,9,28,18
+Adaptive Quantization of Neural Networks,Soroosh Khoram,Jing Li,,khoram@wisc.edu,jli@ece.wisc.edu,,6,ap,0,6,127,-2,66
+Large Scale Optimal Transport and Mapping Estimation,Vivien Seguy,Bharath Bhushan Damodaran,Remi Flamary,vivienseguy@gmail.com,bharath-bhushan.damodaran@irisa.fr,remi.flamary@unice.fr,7,ap,1,6,8,19,11
+Generalizing Across Domains via Cross-Gradient Training,Shiv Shankar*,Vihari Piratla*,Soumen Chakrabarti,shivshankariitb@gmail.com,viharipiratla@gmail.com,soumen@cse.iitb.ac.in,7,ap,1,4,2,53,20
+Action-dependent Control Variates for Policy Optimization via Stein Identity,Hao Liu*,Yihao Feng*,Yi Mao,uestcliuhao@gmail.com,yihao@cs.utexas.edu,maoyi@microsoft.com,7,ap,0,5,5,12,7
+Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling,Tao Shen,Tianyi Zhou,Guodong Long,tao.shen@student.uts.edu.au,tianyizh@uw.edu,guodong.long@uts.edu.au,6,ap,1,4,14,17,12
+Generalizing Hamiltonian Monte Carlo with Neural Networks,Daniel Levy,Matt D. Hoffman,Jascha Sohl-Dickstein,danilevy@cs.stanford.edu,mhoffman@google.com,jaschasd@google.com,7,ap,1,5,28,34,22
+Beyond Word Importance:  Contextual Decomposition to Extract Interactions from LSTMs,W. James Murdoch,Peter J. Liu,Bin Yu,jmurdoch@berkeley.edu,peterjliu@google.com,binyu@berkeley.edu,7,a,1,5,4,62,24
+Temporally Efficient Deep Learning with Spikes,Peter O'Connor,Efstratios Gavves,Matthias Reisser,peter.ed.oconnor@gmail.com,e.gavves@uva.nl,reisser.matthias@gmail.com,7,ap,1,31,26,-1,19
+Learning Deep Mean Field Games for Modeling Large Population Behavior,Jiachen Yang,Xiaojing Ye,Rakshit Trivedi,yjiachen@gmail.com,xye@gsu.edu,rstrivedi@gatech.edu,8,a,1,22,18,10,17
+Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models,Pouya Samangouei,Maya Kabkab,Rama Chellappa,pouya@umiacs.umd.edu,mayak@umiacs.umd.edu,rama@umiacs.umd.edu,6,ap,0,7,4,123,45
+Learning from Between-class Examples for Deep Sound Recognition,Yuji Tokozume,Yoshitaka Ushiku,Tatsuya Harada,tokozume@mi.t.u-tokyo.ac.jp,ushiku@mi.t.u-tokyo.ac.jp,harada@mi.t.u-tokyo.ac.jp,9,ap,1,-1,16,31,16
+META LEARNING SHARED HIERARCHIES,Kevin Frans,Jonathan Ho,Xi Chen,kevinfrans2@gmail.com,jonathanho@berkeley.edu,c.xi@eecs.berkeley.edu,6,ap,0,10,12,97,40
+Stochastic Variational Video Prediction,Mohammad Babaeizadeh,Chelsea Finn,Dumitru Erhan,mb2@uiuc.edu,cbfinn@eecs.berkeley.edu,dumitru@google.com,7,ap,1,9,31,32,24
+An efficient framework for learning sentence representations,Lajanugen Logeswaran,Honglak Lee,,llajan@umich.edu,honglak@eecs.umich.edu,,6,ap,1,5,61,-2,33
+Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach,Tsui-Wei Weng*,Huan Zhang*,Pin-Yu Chen,twweng@mit.edu,ecezhang@ucdavis.edu,pin-yu.chen@ibm.com,7,ap,1,-1,-1,27,9
+Thermometer Encoding: One Hot Way To Resist Adversarial Examples,Jacob Buckman,Aurko Roy,Colin Raffel,buckman@google.com,aurkor@google.com,craffel@google.com,6,ap,0,5,11,26,14
+Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings,Kangwook Lee,Hoon Kim,Changho Suh,kw1jjang@gmail.com,gnsrla12@kaist.ac.kr,chsuh@kaist.ac.kr,6,ap,0,14,96,33,48
+Interpretable Counting for Visual Question Answering,Alexander Trott,Caiming Xiong,Richard Socher,atrott@salesforce.com,cxiong@salesforce.com,rsocher@salesforce.com,6,ap,1,5,29,47,27
+Hierarchical Representations for Efficient Architecture Search,Hanxiao Liu,Karen Simonyan,Oriol Vinyals,hanxiaol@cs.cmu.edu,simonyan@google.com,vinyals@google.com,6,ap,1,12,36,67,38
+Multi-Scale Dense Networks for Resource Efficient Image Classification,Gao Huang,Danlu Chen,Tianhong Li,gh349@cornell.edu,taineleau@gmail.com,lth14@mails.tsinghua.edu.cn,8,r,1,21,3,5,10
+Sobolev GAN,Youssef Mroueh,Chun-Liang Li,Tom Sercu,mroueh@us.ibm.com,chunlial@cs.cmu.edu,tom.sercu1@ibm.com,8,ap,1,12,15,10,12
+Compositional Attention Networks for Machine Reasoning,Drew A. Hudson,Christopher D. Manning,,dorarad@cs.stanford.edu,manning@cs.stanford.edu,,7,ap,1,3,121,-2,62
+DCN+: Mixed Objective And Deep Residual Coattention for Question Answering,Caiming Xiong,Victor Zhong,Richard Socher,cxiong@salesforce.com,richard@socher.org,victor@victorzhong.com,7,ap,0,29,47,10,29
+Empirical Risk Landscape Analysis for Understanding Deep Neural Networks,Pan Zhou,Jiashi Feng,,pzhou@u.nus.edu,elefjia@nus.edu.sg,panzhou3@gmail.com,3,ap,0,10,51,10,24
+Monotonic Chunkwise Attention,Chung-Cheng Chiu*,Colin Raffel*,,chungchengc@google.com,craffel@gmail.com,,7,ap,1,-1,26,-2,13
+Compressing Word Embeddings via Deep Compositional Code Learning,Raphael Shu,Hideki Nakayama,,shu@nlab.ci.i.u-tokyo.ac.jp,nakayama@ci.i.u-tokyo.ac.jp,,8,ap,1,4,17,-2,10
+A Framework for the Quantitative Evaluation of Disentangled Representations,Cian Eastwood,Christopher K. I. Williams,,s1668298@ed.ac.uk,ckiw@inf.ed.ac.uk,,7,ap,0,1,59,-2,30
+Adaptive Dropout with Rademacher Complexity Regularization,Ke Zhai,Huan Wang,,zhaikedavy@gmail.com,joyousprince@gmail.com,,6,ap,0,8,13,-2,10
+An Online Learning Approach to Generative Adversarial Networks,Paulina Grnarova,Kfir Y Levy,Aurelien Lucchi,paulina.grnarova@inf.ethz.ch,yehuda.levy@inf.ethz.ch,aurelien.lucchi@inf.ethz.ch,7,ap,1,5,12,24,14
+Learning Robust Rewards with Adverserial Inverse Reinforcement Learning,Justin Fu,Katie Luo,Sergey Levine,justinjfu@eecs.berkeley.edu,katieluo@berkeley.edu,svlevine@eecs.berkeley.edu,6,ap,0,10,1,74,28
+Variational Network Quantization,Jan Achterhold,Jan Mathias Koehler,Anke Schmeink,mail@janachterhold.de,jan.koehler@de.bosch.com,anke.schmeink@rwth-aachen.de,7,ap,0,2,5,17,8
+Identifying Analogies Across Domains,Yedid Hoshen,Lior Wolf,,yedidh@fb.com,wolf@fb.com,,7,ap,0,9,56,-2,32
+Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect,Xiang Wei,Boqing Gong,Zixia Liu,yqweixiang@knights.ucf.edu,boqinggo@outlook.com,zixia@knights.ucf.edu,4,ap,1,33,24,-1,19
+Unbiased Online Recurrent Optimization,Corentin Tallec,Yann Ollivier,,corentin.tallec@polytechnique.edu,yann@yann-ollivier.org,,6,ap,1,5,3,-2,4
+Can recurrent neural networks warp time?,Corentin Tallec,Yann Ollivier,,corentin.tallec@polytechnique.edu,yol@fb.com,,8,ap,1,5,3,-2,4
+Twin Networks: Matching the Future for Sequence Generation,Dmitriy Serdyuk,Nan Rosemary Ke,Alessandro Sordoni,serdyuk.dmitriy@gmail.com,rosemary.nan.ke@gmail.com,alessandro.sordoni@gmail.com,6,ap,1,11,13,17,14
+Semantically Decomposing the Latent Spaces of Generative Adversarial Networks,Chris Donahue,Zachary C. Lipton,Akshay Balsubramani,cdonahue@ucsd.edu,zlipton@cmu.edu,abalsubr@stanford.edu,6,ap,1,6,26,7,13
+Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting,Yaguang Li,Rose Yu,Cyrus Shahabi,yaguang@usc.edu,rose@caltech.edu,shahabi@usc.edu,5,ap,1,12,12,65,30
+PixelNN: Example-based Image Synthesis,Aayush Bansal,Yaser Sheikh,Deva Ramanan,aayushb@cs.cmu.edu,yaser@cs.cmu.edu,deva@cs.cmu.edu,8,ap,1,7,39,61,36
+Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers,Jianbo Ye,Xin Lu,Zhe Lin,jxy198@ist.psu.edu,xinl@adobe.com,zlin@adobe.com,5,ap,1,13,20,50,28
+A Deep Reinforced Model for Abstractive Summarization,Romain Paulus,Caiming Xiong,Richard Socher,rpaulus@salesforce.com,cxiong@salesforce.com,richard@socher.org,8,ap,1,6,29,47,27
+The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings,Tomer Galanti,Lior Wolf,Sagie Benaim,tomer22g@gmail.com,liorwolf@gmail.com,sagiebenaim@gmail.com,7,ap,1,5,56,6,22
+Emergent Translation in Multi-Agent Communication,Jason Lee,Kyunghyun Cho,Jason Weston,jason@cs.nyu.edu,kyunghyun.cho@nyu.edu,jase@fb.com,8,ap,1,4,58,91,51
+Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions,Scott Reed,Yutian Chen,Thomas Paine,reedscot@google.com,yutianc@google.com,tpaine@google.com,6,ap,1,19,14,13,15
+Kronecker-factored Curvature Approximations for Recurrent Neural Networks,James Martens,Jimmy Ba,Matt Johnson,james.martens@gmail.com,jimmy@psi.toronto.edu,mattjj@csail.mit.edu,7,ap,0,76,20,15,37
+DORA The Explorer: Directed Outreaching Reinforcement Action-Selection,Lior Fox,Leshem Choshen,Yonatan Loewenstein,lior.fox@mail.huji.ac.il,leshem.choshen@mail.huji.ac.il,yonatan.loewenstein@mail.huji.ac.il,7,ap,1,-1,6,22,9
+The Reactor: A fast and sample-efficient Actor-Critic agent for  Reinforcement Learning,Audrunas Gruslys,Will Dabney,Mohammad Gheshlaghi Azar,audrunas@google.com,wdabney@google.com,mazar@google.com,7,ap,1,12,16,14,14
+Gaussian Process Behaviour in Wide Deep Neural Networks,Alexander G. de G. Matthews,Jiri Hron,Mark Rowland,am554@cam.ac.uk,jh2084@cam.ac.uk,mr504@cam.ac.uk,6,ap,1,12,5,9,9
+On the Expressive Power of Overlapping Architectures of Deep Learning,Or Sharir,Amnon Shashua,,or.sharir@cs.huji.ac.il,shashua@cs.huji.ac.il,,6,ap,1,8,67,-2,38
+An image representation based convolutional network for DNA classification,Bojian Yin,Marleen Balvert,Davide Zambrano,yinbojian93@gmail.com,m.balvert@cwi.nl,d.zambrano@cwi.nl,7,ap,1,-1,4,9,4
+Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design,Yoav Levine,David Yakira,Nadav Cohen,yoavlevine@cs.huji.ac.il,davidyakira@cs.huji.ac.il,cohennadav@cs.huji.ac.il,6,ap,1,6,-1,14,7
+Critical Percolation as a Framework to Analyze the Training of Deep Networks,Zohar Ringel,Rodrigo Andrade de Bem,,zoharahoz@gmail.com,rodrigo.bem@gmail.com,,7,ap,1,10,-1,-2,5
+Parallelizing Linear Recurrent Neural Nets Over Sequence Length,Eric Martin,Chris Cundy,,eric@ericmart.in,chris.j.cundy@gmail.com,,6,ap,1,24,2,-2,13
+Guide Actor-Critic for Continuous Control,Voot Tangkaratt,Abbas Abdolmaleki,Masashi Sugiyama,voot.tangkaratt@riken.jp,abbas.a@ua.pt,masashi.sugiyama@riken.jp,6,ap,1,9,11,57,26
+Multi-Task Learning for Document Ranking and Query Suggestion,Wasi Uddin Ahmad,Kai-Wei Chang,Hongning Wang,wasiahmad@cs.ucla.edu,kwchang@cs.ucla.edu,hw5x@virginia.edu,4,ap,0,5,28,6,13
+Hyperparameter optimization: a spectral approach,Elad Hazan,Adam Klivans,Yang Yuan,ehazan@cs.princeton.edu,klivans@cs.utexas.edu,yangyuan@cs.cornell.edu,6,ap,1,45,29,15,30
+Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning,Wei Ping,Kainan Peng,Andrew Gibiansky,pingwei01@baidu.com,pengkainan@baidu.com,gibianskyandrew@baidu.com,7,ap,1,11,5,8,8
+Divide and Conquer Networks,Alex Nowak,David Folqué,Joan Bruna,alexnowakvila@gmail.com,david.folque@gmail.com,bruna@cims.nyu.edu,6,ap,1,18,-1,27,15
+When is a Convolutional Filter Easy to Learn?,Simon S. Du,Jason D. Lee,Yuandong Tian,ssdu@cs.cmu.edu,jasonlee@marshall.usc.edu,yuandong@fb.com,6,ap,1,181,36,23,80
+SpectralNet: Spectral Clustering using Deep Neural Networks,Uri Shaham,Kelly Stanton,Henry Li,uri.shaham@yale.edu,kelly.stanton@yale.edu,henry.li@yale.edu,6,ap,1,10,-1,14,8
+Boundary Seeking GANs,R Devon Hjelm,Athul Paul Jacob,Adam Trischler,erroneus@gmail.com,apjacob@uwaterloo.ca,adam.trischler@microsoft.com,7,ap,0,12,4,19,12
+Natural Language Inference over Interaction Space,Yichen Gong,Heng Luo,Jian Zhang,yichen.gong@nyu.edu,heng.luo@hobot.cc,jian.zhang@hobot.cc,5,ap,1,3,8,116,42
+Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks,Shiyu Liang,Yixuan Li,R. Srikant,sliang26@illinois.edu,yli@cs.cornell.edu,rsrikant@illinois.edu,6,ap,1,4,14,74,31
+Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection,Bo Zong,Qi Song,Martin Renqiang Min,bzong@nec-labs.com,qsong@nec-labs.com,renqiang@nec-labs.com,8,ap,0,12,5,-1,6
+Smooth Loss Functions for Deep Top-k Classification,Leonard Berrada,Andrew Zisserman,M. Pawan Kumar,lberrada@robots.ox.ac.uk,az@robots.ox.ac.uk,pawan@robots.ox.ac.uk,6,ap,0,3,157,24,61
+Active Learning for Convolutional Neural Networks: A Core-Set Approach,Ozan Sener,Silvio Savarese,,ozansener@cs.stanford.edu,ssilvio@stanford.edu,,7,ap,1,12,71,-2,42
+Debiasing Evidence Approximations: On Importance-weighted Autoencoders and Jackknife Variational Inference,Sebastian Nowozin,,,sebastian.nowozin@microsoft.com,,,7,ap,0,40,-2,-2,40
+Unsupervised Machine Translation Using Monolingual Corpora Only,Guillaume Lample,Alexis Conneau,Ludovic Denoyer,glample@fb.com,aconneau@fb.com,ludovic.denoyer@lip6.fr,8,ap,1,16,12,28,19
+Word translation without parallel data,Guillaume Lample,Alexis Conneau,Marc'Aurelio Ranzato,glample@fb.com,aconneau@fb.com,ranzato@fb.com,9,ap,0,16,-1,45,20
+Wavelet Pooling for Convolutional Neural Networks,Travis Williams,Robert Li,,tlwilli3@aggies.ncat.edu,eeli@ncat.edu,,7,ap,0,4,95,-2,50
+WRPN: Wide Reduced-Precision Networks,Asit Mishra,Eriko Nurvitadhi,Jeffrey J Cook,asit.k.mishra@intel.com,eriko.nurvitadhi@intel.com,jeffrey.j.cook@intel.com,5,ap,1,31,-1,36,22
+Skip Connections Eliminate Singularities,Emin Orhan,Xaq Pitkow,,aeminorhan@gmail.com,xaq@rice.edu,,8,ap,1,8,12,-2,10
+Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step,William Fedus*,Mihaela Rosca*,Balaji Lakshminarayanan,liam.fedus@gmail.com,mihaelacr@google.com,balajiln@google.com,8,ap,1,-1,7,23,10
+YellowFin and the Art of Momentum Tuning,Jian Zhang,Ioannis Mitliagkas,Christopher Re,zjian@cs.stanford.edu,ioannis@iro.umontreal.ca,chrismre@cs.stanford.edu,4,r,1,9,18,55,27
+HexaConv,Emiel Hoogeboom,Jorn W.T. Peters,Taco S. Cohen,e.hoogeboom@gmail.com,jornpeters@gmail.com,taco.cohen@gmail.com,7,ap,1,3,14,17,11
+Few-Shot Learning with Graph Neural Networks,Victor Garcia Satorras,Joan Bruna Estrach,,vgsatorras@gmail.com,bruna@cims.nyu.edu,,7,ap,1,1,27,-2,14
+Proximal Backpropagation,Thomas Frerix,Thomas Möllenhoff,Michael Moeller,thomas.frerix@tum.de,thomas.moellenhoff@in.tum.de,michael.moeller@uni-siegen.de,6,ap,1,3,6,18,9
+Wasserstein Auto-Encoders,Ilya Tolstikhin,Olivier Bousquet,Sylvain Gelly,iliya.tolstikhin@gmail.com,obousquet@gmail.com,sylvain.gelly@gmail.com,8,a,1,10,43,25,26
+The High-Dimensional Geometry of Binary Neural Networks,Alexander G. Anderson,Cory P. Berg,,aga@berkeley.edu,cberg500@berkeley.edu,,7,ap,1,8,-1,-2,4
+Critical Points of Linear Neural Networks: Analytical Forms and Landscape Properties,Yi Zhou,Yingbin Liang,,zhou.1172@osu.edu,liang.889@osu.edu,,7,ap,0,75,29,-2,52
+Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation,Xu He,Herbert Jaeger,,x.he@jacobs-university.de,h.jaeger@jacobs-university.de,,7,ap,0,67,30,-2,48
+Self-ensembling for visual domain adaptation,Geoff French,Michal Mackiewicz,Mark Fisher,g.french@uea.ac.uk,m.mackiewicz@uea.ac.uk,m.fisher@uea.ac.uk,7,ap,1,6,17,13,12
+Synthesizing realistic neural population activity patterns using Generative Adversarial Networks,Manuel Molano-Mazon,Arno Onken,Eugenio Piasini*,manuel.molano@iit.it,aonken@inf.ed.ac.uk,epiasini@sas.upenn.edu,8,ap,1,6,7,9,7
+Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation,Pietro Morerio,Jacopo Cavazza,Vittorio Murino,pietro.morerio@iit.it,jacopo.cavazza@iit.it,vittorio.murino@iit.it,6,ap,1,14,6,51,24
+Activation Maximization Generative Adversarial Nets,Zhiming Zhou,Han Cai,Shu Rong,heyohai@apex.sjtu.edu.cn,hcai@apex.sjtu.edu.cn,shu.rong@yitu-inc.com,5,ap,1,21,10,26,19
+Efficient Sparse-Winograd Convolutional Neural Networks,Xingyu Liu,Jeff Pool,Song Han,xyl@stanford.edu,jpool@nvidia.com,songhan@stanford.edu,7,ap,1,7,12,23,14
+Neural Language Modeling by Jointly Learning Syntax and Lexicon,Yikang Shen,Zhouhan Lin,Chin-wei Huang,yikang.shn@gmail.com,lin.zhouhan@gmail.com,chin-wei.huang@umontreal.ca,7,ap,1,7,13,15,12
+Imitation Learning from Visual Data with Multiple Intentions,Aviv Tamar,Khashayar Rohanimanesh,Yinlam Chow,avivt@berkeley.edu,khash@osaro.com,yldick.chow@gmail.com,6,ap,0,19,-1,14,11
+Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks,Shankar Krishnan,Ying Xiao,Rif. A. Saurous,skrishnan@google.com,yingxiao@google.com,rif@google.com,6,ap,1,37,53,15,35
+TD or not TD: Analyzing the Role of Temporal Differencing in Deep Reinforcement Learning,Artemij Amiranashvili,Alexey Dosovitskiy,Vladlen Koltun,amiranas@cs.uni-freiburg.de,adosovitskiy@gmail.com,vkoltun@gmail.com,7,ap,1,3,32,63,33
+All-but-the-Top: Simple and Effective Postprocessing for Word Representations,Jiaqi Mu,Pramod Viswanath,,jiaqimu2@illinois.edu,pramodv@illinois.edu,,6,ap,0,5,45,-2,25
+Spectral Normalization for Generative Adversarial Networks,Takeru Miyato,Toshiki Kataoka,Masanori Koyama,miyato@preferred.jp,kataoka@preferred.jp,koyama.masanori@gmail.com,7,a,1,8,-1,17,8
+Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models,Wieland Brendel *,Jonas Rauber *,Matthias Bethge,wieland.brendel@bethgelab.org,jonas.rauber@bethgelab.org,matthias.bethge@bethgelab.org,7,ap,1,12,-1,48,20
+Relational Neural Expectation Maximization: Unsupervised Discovery of Objects and their Interactions,Sjoerd van Steenkiste,Michael Chang,Klaus Greff,sjoerd@idsia.ch,mbchang@berkeley.edu,klaus@idsia.ch,8,ap,1,5,6,13,8
+cGANs with Projection Discriminator,Takeru Miyato,Masanori Koyama,,miyato@preferred.jp,koyama.masanori@gmail.com,,6,ap,1,8,17,-2,12
+Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models,Jesse Engel,Matthew Hoffman,Adam Roberts,jesseengel@google.com,mhoffman@google.com,adarob@google.com,7,ap,1,17,28,19,21
+Learning Intrinsic Sparse Structures within Long Short-Term Memory,Wei Wen,Yuxiong He,Samyam Rajbhandari,wei.wen@duke.edu,yuxhe@microsoft.com,samyamr@microsoft.com,7,ap,1,13,27,8,16
+Coupled Ensembles of Neural Networks,Anuvabh Dutt,Denis Pellerin,Georges Quénot,anuvabh.dutt@univ-grenoble-alpes.fr,denis.pellerin@gipsa-lab.grenoble-inp.fr,georges.quenot@imag.fr,6,r,1,4,20,27,17
+Exploring Sentence Vectors Through Automatic Summarization,Adly Templeton,Jugal Kalita,,at7@williams.edu,jkalita@uccs.edu,,2,r,0,1,35,-2,18
+Super-Convergence: Very Fast Training of Residual Networks Using Large Learning Rates,Leslie N. Smith,Nicholay Topin,,leslie.smith@nrl.navy.mil,ntopin1@umbc.edu,,4,r,0,12,16,-2,14
+DOUBLY STOCHASTIC ADVERSARIAL AUTOENCODER,Mahdi Azarafrooz,,,mazarafrooz@cylance.com,,,3,r,0,-1,-2,-2,0
+Incremental Learning through Deep Adaptation,Amir Rosenfeld,John K. Tsotsos,,amir.rosenfeld@gmail.com,,,6,r,1,7,-2,-2,7
+Spontaneous Symmetry Breaking in Deep Neural Networks,Ricky Fok,Aijun An,Xiaogang Wang,ricky.fok3@gmail.com,,,3,r,0,-1,-2,-2,0
+Distributed non-parametric deep and wide networks,Biswa Sengupta,Yu Qian,,biswasengupta@yahoo.com,yu.qian@cortexica.com,,3,r,0,20,21,-2,20
+Ensemble Methods as a Defense to Adversarial Perturbations Against Deep Neural Networks,Thilo Strauss,Markus Hanselmann,Andrej Junginger,thilo.strauss@etas.com,markus.hanselmann@etas.com,andrej.junginger@etas.com,7,r,1,4,-1,-1,1
+Learning Less-Overlapping Representations,Hongbao Zhang,Pengtao Xie,Eric Xing,hongbao.zhang@petuum.com,pengtaox@cs.cmu.edu,eric.xing@petuum.com,5,r,1,-1,17,84,34
+Reward Design in Cooperative Multi-agent Reinforcement Learning for Packet Routing,Hangyu Mao,Zhibo Gong,Zhen Xiao,pku.hy.mao@gmail.com,gongzhibo@huawei.com,gtxaio@gmail.com,5,r,0,-1,4,61,22
+Iterative temporal differencing with fixed random feedback alignment support spike-time dependent plasticity in vanilla backpropagation for deep learning,Aras Dargazany,Kunal Mankodiya,,arasdar@uri.edu,,,3,r,0,5,-2,-2,5
+Reinforcement Learning via Replica Stacking of Quantum Measurements for the Training of Quantum Boltzmann Machines,Anna Levit, Daniel Crawford,Navid Ghadermarzy,anna.levit@1qbit.com,daniel.crawford@1qbit.com,navid.ghadermarzy@1qbit.com,4,r,0,-1,40,4,15
+Pixel Deconvolutional Networks,Hongyang Gao,Hao Yuan,Zhengyang Wang,hongyang.gao@wsu.edu,hao.yuan@wsu.edu,zwang6@eecs.wsu.edu,5,r,1,7,4,8,6
+Building effective deep neural networks one feature at a time,Martin Mundt,Tobias Weis,Kishore Konda,mundt@fias.uni-frankfurt.de,weis@ccc.cs.uni-frankfurt.de,kishore.konda@insofe.edu.in,4,r,0,6,2,11,6
+Adversary A3C for Robust Reinforcement Learning,Zhaoyuan Gu,Zhenzhong Jia,Howie Choset,guzhaoyuan14@gmail.com,zhenzhong.jia@gmail.com,choset@cs.cmu.edu,4,r,0,-1,11,65,25
+Deep Function Machines: Generalized Neural Networks for Topological Layer Expression,William H. Guss,,,wguss@cs.cmu.edu,,,7,r,1,3,-2,-2,3
+Enhance Word Representation for Out-of-Vocabulary on Ubuntu Dialogue Corpus,JIANXIONG DONG,Jim Huang,,jdongca2003@gmail.com,ccjimhuang@gmail.com,,6,r,1,-1,41,-2,20
+On Optimality Conditions for Auto-Encoder Signal Recovery,Devansh Arpit,Yingbo Zhou,Hung Q. Ngo,devansharpit@gmail.com,zybzmhhj@gmail.com,hungngo@buffalo.edu,4,r,1,13,16,28,19
+Multi-label Learning for Large Text Corpora using Latent Variable Model with Provable Gurantees,Sayantan Dasgupta,,,sayandg@umich.edu,,,4,r,0,-1,-2,-2,0
+Egocentric Spatial Memory Network,Mengmi Zhang,Keng Teck Ma,Joo Hwee Lim,a0091624@u.nus.edu,makt@i2r.a-star.edu.sg,joohwee@i2r.a-star.edu.sg,5,r,0,-1,7,36,14
+Entropy-SGD optimizes the prior of a PAC-Bayes bound: Data-dependent PAC-Bayes priors via differential privacy,Gintare Karolina Dziugaite,Daniel M. Roy,,gkd22@cam.ac.uk,droy@utstat.toronto.edu,,6,r,0,9,23,-2,16
+Decoupling the Layers in Residual Networks,Ricky Fok,Aijun An,Zana Rashidi,ricky.fok3@gmail.com,aan@cse.yorku.ca,rashidi.zana@gmail.com,6,ap,0,-1,33,-1,11
+ENRICHMENT OF FEATURES FOR CLASSIFICATION USING AN OPTIMIZED LINEAR/NON-LINEAR COMBINATION OF INPUT FEATURES,Mehran Taghipour-Gorjikolaie,Seyyed Mohammad Razavi,Javad Sadri,mehran.tg.88@gmail.com,razavism@gmail.com,j_sadri@encs.concordia.ca,1,r,0,6,40,14,20
+Thinking like a machine — generating visual rationales through latent space optimization,Jarrel Seah,Jennifer Tang,Andy Kitchen,jarrelscy@gmail.com,,,4,r,0,5,-2,-2,5
+AANN: Absolute Artificial Neural Network,Animesh Karnewar,,,animeshsk3@gmail.com,,,2,r,0,3,-2,-2,3
+Dependent Bidirectional RNN with Extended-long Short-term Memory,Yuanhang Su,Yuzhong Huang,C.-C. Jay Kuo,yuanhans@usc.edu,yuzhongh@usc.edu,cckuo@sipi.usc.edu,3,r,0,4,3,80,29
+Make SVM great again with Siamese kernel for  few-shot learning,Bence Tilk,,,bence.tilk@gmail.com,,,5,r,0,-1,-2,-2,0
+Some Considerations on Learning to Explore via Meta-Reinforcement Learning,Bradly Stadie,Ge Yang,Rein Houthooft,bstadie@berkeley.edu,yangge1987@gmail.com,rein.hh@gmail.com,7,wp,1,6,23,10,13
+Learning non-linear transform with discriminative and minimum information loss priors,Dimche Kostadinov,Slava Voloshynovskiy,,dimche.kostadinov@unige.ch,svolos@unige.ch,,5,r,0,6,33,-2,20
+Continuous Convolutional Neural Networks for Image Classification,Vitor Guizilini,Fabio Ramos,,vitor.guizilini@sydney.edu.au,fabio.ramos@sydney.edu.au,,5,r,0,10,31,-2,20
+Learning Representations and Generative Models for 3D Point Clouds,Panos Achlioptas,Olga Diamanti,Ioannis Mitliagkas,optas@cs.stanford.edu,diamanti@stanford.edu,ioannis@iro.umontreal.ca,6,wp,1,4,12,18,11
+Siamese Survival Analysis with Competing Risks,Anton Nemchenko,Kartik Ahuja,Mihaela Van Der Schaar,santon834@g.ucla.edu,ahujak@ucla.edu,mihaela@ee.ucla.edu,4,r,1,-1,4,55,20
+Training and Inference with Integers in Deep Neural Networks,Shuang Wu,Guoqi Li,Feng Chen,wus15@mails.tsinghua.edu.cn,liguoqi@mail.tsinghua.edu.cn,chenfeng@mail.tsinghua.edu.cn,7,r,1,3,24,93,40
+Associative Conversation Model: Generating Visual Information from Textual Information,Yoichi Ishibashi,Hisashi Miyamori,,g1445539@cc.kyoto-su.ac.jp,miya@cc.kyoto-su.ac.jp,,4,r,0,1,-1,-2,0
+The Principle of Logit Separation,Gil Keren,Sivan Sabato,Björn Schuller,cruvadom@gmail.com,sivan.sabato@gmail.com,bjoern.schuller@imperial.ac.uk,6,r,0,9,16,79,35
+Improving image generative models with human interactions,Andrew Kyle Lampinen,David So,Douglas Eck,lampinen@stanford.edu,davidso@google.com,deck@google.com,4,r,1,4,17,44,22
+Large Batch Training of Convolutional Networks with Layer-wise Adaptive Rate Scaling,Boris Ginsburg,Igor Gitman,Yang You,bginsburg@nvidia.com,igitman@andrew.cmu.edu,youyang@cs.berkeley.edu,5,r,0,28,5,11,15
+ResBinNet: Residual Binary Neural Network,Mohammad Ghasemzadeh,Mohammad Samragh,Farinaz Koushanfar,mghasemzadeh@ucsd.edu,msamragh@ucsd.edu,farinaz@ucsd.edu,4,r,0,17,8,53,26
+Exponentially vanishing sub-optimal local minima in multilayer neural networks,Daniel Soudry,Elad Hoffer,,daniel.soudry@gmail.com,elad.hoffer@gmail.com,,5,wp,1,22,9,-2,16
+A New Method of Region Embedding for Text Classification,chao qiao,bo huang,guocheng niu,chao.qiao@outlook.com,bohuang0321@gmail.com,niuguocheng@baidu.com,6,ap,0,31,42,-1,24
+Predicting Auction Price of Vehicle License Plate with Deep Recurrent Neural Network,Vinci Chow,,,vincichow@cuhk.edu.hk,,,6,r,1,3,-2,-2,3
+Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures,Ding Liu,Shi-Ju Ran,Peter Wittek,dingliu_thu@126.com,shi-ju.ran@icfo.eu,peter.wittek@icfo.eu,6,r,0,51,15,18,28
+Learning to play slot cars and Atari 2600 games in just minutes,Lionel Cordesses,Omar Bentahar,Julien Page,lionel.cordesses@renault.com,omar.bentahar@renault.com,ju.page@hotmail.com,3,r,0,10,5,1,5
+Learning how to explain neural networks: PatternNet and PatternAttribution,Pieter-Jan Kindermans,Kristof T. Schütt,Maximilian Alber,pikinder@google.com,kristof.schuett@tu-berlin.de,maximilian.aber@tu-berlin.de,8,ap,1,20,13,56,30
+Memory Augmented Control Networks,Arbaaz Khan,Clark Zhang,Nikolay Atanasov,arbaazk@seas.upenn.edu,clarkz@seas.upenn.edu,natanasov@ucsd.edu,4,ap,1,5,20,20,15
+Trace norm regularization and faster inference for embedded speech recognition RNNs,Markus Kliegl,Siddharth Goyal,Kexin Zhao,mkliegl@gmail.com,goyalsiddharth@baidu.com,zhaokexin01@baidu.com,4,r,1,5,12,45,21
+Exploring the Hidden Dimension in Accelerating Convolutional Neural Networks,Zhihao Jia,Sina Lin,Charles R. Qi,zhihao@cs.stanford.edu,silin@microsoft.com,rqi@stanford.edu,4,r,0,13,-1,13,9
+Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions,Nadav Cohen,Ronen Tamari,Amnon Shashua,cohennadav@ias.edu,ronent@cs.huji.ac.il,shashua@cs.huji.ac.il,7,a,1,14,5,67,29
+Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification,Chong Wang,Xipeng Lan,Yangang Zhang,chongwang.nlpr@gmail.com,xipeng.lan@gmail.com,caveman1984@gmail.com,3,r,1,34,-1,-1,11
+Distribution Regression Network,Connie Kou,Hwee Kuan Lee,Teck Khim Ng,koukl@comp.nus.edu.sg,leehk@bii.a-star.edu.sg,ngtk@comp.nus.edu.sg,5,r,0,2,21,-1,8
+Graph Classification with 2D Convolutional Neural Networks,Antoine J.-P. Tixier,Giannis Nikolentzos,Polykarpos Meladianos,antoine.tixier-1@colorado.edu,giannisnik@hotmail.com,p.meladianos@gmail.com,3,r,1,11,10,10,10
+Unsupervised Deep Structure Learning by Recursive Dependency Analysis,Raanan Y. Yehezkel Rohekar,Guy Koren,Shami Nisimov,raanan.y.yehezkel.rohekar@intel.com,guy.koren@intel.com,shami.nisimov@intel.com,4,r,0,8,53,2,21
+Dynamic Integration of Background Knowledge in Neural NLU Systems,Dirk Weissenborn,Tomas Kocisky,Chris Dyer,dirk.weissenborn@dfki.de,tkocisky@google.com,cdyer@google.com,5,r,1,10,10,59,26
+Post-training for Deep Learning,Thomas Moreau,Julien Audiffren,,thomas.moreau@cmla.ens-cachan.fr,julien.audiffren@cmla.ens-cachan.fr,,5,r,0,6,7,-2,6
+Image Segmentation by Iterative Inference from Conditional Score Estimation,Adriana Romero,Michal Drozdzal,Akram Erraqabi,adriana.romsor@gmail.com,michal.drozdzal@gmail.com,akram.er-raqabi@umontreal.ca,5,r,1,15,14,-1,10
+Towards Safe Deep Learning: Unsupervised Defense Against Generic Adversarial Attacks,Bita Darvish Rouhani,Mohammad Samragh,Tara Javidi,bita@ucsd.edu,msamragh@ucsd.edu,tjavidi@ucsd.edu,5,r,0,12,8,32,17
+GeoSeq2Seq: Information Geometric Sequence-to-Sequence Networks,Alessandro Bay,Biswa Sengupta,,alessandro.bay@cortexica.com,biswasengupta@yahoo.com,,5,wp,1,-1,20,-2,10
+Hybed: Hyperbolic Neural Graph Embedding,Benjamin Paul Chamberlain,James R Clough,Marc Peter Deisenroth,benjamin.chamberlain@gmail.com,james.clough@kcl.ac.uk,m.deisenroth@imperial.ac.uk,4,r,0,6,7,34,16
+Image Quality Assessment Techniques Improve Training and Evaluation of Energy-Based Generative Adversarial Networks,Michael O. Vertolli,Jim Davies,,michaelvertolli@gmail.com,jim@jimdavies.org,,5,r,0,5,32,-2,18
+Regularizing and Optimizing LSTM Language Models,Stephen Merity,Nitish Shirish Keskar,Richard Socher,smerity@smerity.com,keskar.nitish@u.northwestern.edu,richard@socher.org,7,ap,1,10,13,47,23
+Dynamic Evaluation of Neural Sequence Models,Ben Krause,Emmanuel Kahembwe,Iain Murray,ben.krause@ed.ac.uk,e.kahembwe@ed.ac.uk,i.murray@ed.ac.uk,7,r,1,12,3,28,14
+Taking Apart Autoencoders: How do They Encode Geometric Shapes ?,Alasdair Newson,Andres Almansa,Yann Gousseau,alasdairnewson@gmail.com,andres.almansa@parisdescartes.fr,yann.gousseau@telecom-paristech.fr,4,r,0,5,21,30,19
+Diffusing Policies : Towards Wasserstein Policy Gradient Flows,Pierre H. Richemond,Brendan Maginnis,,phr17@imperial.ac.uk,b.maginnis@imperial.ac.uk,,4,r,0,-1,2,-2,1
+"To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression",Michael H. Zhu,Suyog Gupta,,mhzhu@cs.stanford.edu,suyoggupta@google.com,,5,wp,0,-1,21,-2,10
+Training Deep AutoEncoders for Recommender Systems,Oleksii Kuchaiev,Boris Ginsburg,,kuchaev@gmail.com,boris.ginsburg@gmail.com,,4,r,0,14,28,-2,21
+Neural Networks with Block Diagonal Inner Product Layers,Amy Nesky,Quentin Stout,,anesky@umich.edu,qstout@umich.edu,,5,r,0,-1,44,-2,22
+Balanced and Deterministic Weight-sharing Helps Network Performance,Oscar Chang,Hod Lipson,,oscar.chang@columbia.edu,hod.lipson@columbia.edu,,4,r,0,8,73,-2,40
+Learning Discrete Weights Using the Local Reparameterization Trick,Oran Shayer,Dan Levi,Ethan Fetaya,oran.sh@gmail.com,dan.levi@gm.com,ethanf@cs.toronto.edu,6,ap,1,2,14,12,9
+End-to-End Abnormality Detection in Medical Imaging,Dufan Wu,Kyungsang Kim,Bin Dong,dwu6@mgh.harvard.edu,kkim24@mgh.harvard.edu,dongbin@math.pku.edu.cn,4,r,0,8,97,25,43
+Understanding Deep Learning Generalization by Maximum Entropy,Guanhua Zheng,Jitao Sang,Changsheng Xu,zhenggh@mail.ustc.edu.cn,jtsang@bjtu.edu.cn,csxu@nlpr.ia.ac.cn,2,r,1,33,-1,63,32
+Compact Encoding of Words for Efficient Character-level Convolutional Neural Networks Text Classification,Wemerson Marinho,Luis Marti,Nayat Sanchez-pi,wemerson_marinho@id.uff.br,lmarti@ic.uff.br,nayat@ime.uerj.br,4,r,0,1,63,11,25
+Rotational Unit of Memory ,Rumen Dangovski,Li Jing,Marin Soljacic,rumenrd@mit.edu,ljing@mit.edu,soljacic@mit.edu,4,wp,1,-1,10,156,55
+Style Memory: Making a Classifier Network Generative,Rey Wiyatno,Jeff Orchard,,rrwiyatn@uwaterloo.ca,jorchard@uwaterloo.ca,,3,r,1,2,18,-2,10
+CrescendoNet: A Simple Deep Convolutional Neural Network with Ensemble Behavior,Xiang Zhang,Nishant Vishwamitra,Hongxin Hu,xzhang7@clemson.edu,nvishwa@clemson.edu,luofeng@clemson.edu,4,r,1,121,5,36,54
+Anytime Neural Network: a Versatile Trade-off Between Computation and Accuracy,Hanzhang Hu,Debadeepta Dey,Martial Hebert,hanzhang@cs.cmu.edu,dedey@microsoft.com,hebert@ri.cmu.edu,7,r,0,6,16,104,42
+Adversarial Policy Gradient for Alternating Markov Games,Chao Gao,Martin Mueller,Ryan Hayward,cgao3@ualberta.ca,mmueller@ualberta.ca,hayward@ualberta.ca,5,wp,0,6,28,22,19
+THE EFFECTIVENESS OF A TWO-LAYER NEURAL NETWORK FOR RECOMMENDATIONS,Oleg Rybakov,Vijai Mohan,Avishkar Misra,rybakovo@amazon.com,vijaim@amazon.com,avishkar@gmail.com,6,wp,0,6,6,5,6
+Normalized Direction-preserving Adam,Zijun Zhang,Lin Ma,Zongpeng Li,zijun.zhang@ucalgary.ca,linmawhu@gmail.com,zongpeng@ucalgary.ca,5,r,1,26,77,38,47
+Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior,Charles H. Martin,Michael W. Mahoney,,charles@calculationconsulting.com,mmahoney@stat.berkeley.edu,,3,r,1,-1,-1,-2,0
+Learning Non-Metric Visual Similarity for Image Retrieval,Noa Garcia,George Vogiatzis,,garciadn@aston.ac.uk,g.vogiatzis@aston.ac.uk,,7,r,1,6,21,-2,14
+Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks,Víctor Campos,Brendan Jou,Xavier Giró-i-Nieto,victor.campos@bsc.es,bjou@google.com,xavier.giro@upc.edu,6,ap,1,6,13,21,13
+Iterative Deep Compression : Compressing Deep Networks for Classification and Semantic Segmentation,Sugandha Doda,Vitor Fortes Rey,Dr. Nadereh Hatami,sugandhadoda672@gmail.com,vitor.fortes@dfki.uni-kl.de,nadereh.hatamimazinani@de.bosch.com,6,r,0,-1,-1,-1,0
+Do Deep Reinforcement Learning Algorithms really Learn to Navigate?,Shurjo Banerjee,Vikas Dhiman,Brent Griffin,shurjo@umich.edu,dhiman@umich.edu,griffb@umich.edu,7,r,0,-1,5,10,5
+Adversarial Learning for Semi-Supervised Semantic Segmentation,Wei-Chih Hung,Yi-Hsuan Tsai,Yan-Ting Liou,whung8@ucmerced.edu,ytsai@nec-labs.com,lyt@csie.ntu.edu.tw,5,r,1,6,11,-1,6
+Towards Interpretable Chit-chat: Open Domain Dialogue Generation with Dialogue Acts,Wei Wu,Can Xu,Yu Wu,wuwei@microsoft.com,can.xu@microsoft.com,wumark@126.com,7,r,0,15,22,78,38
+PDE-Net: Learning PDEs from Data,Zichao Long,Yiping Lu,Xianzhong Ma,zlong@pku.edu.cn,luyiping9712@pku.edu.cn,xianzhongma@pku.edu.cn,7,wp,0,2,5,-1,2
+Unleashing the Potential of CNNs for Interpretable Few-Shot Learning,Boyang Deng,Qing Liu,Siyuan Qiao,billydeng@buaa.edu.cn,qingliu@jhu.edu,siyuan.qiao@jhu.edu,5,r,0,3,2,10,5
+Clipping Free Attacks Against Neural Networks,Boussad ADDAD,,,boussad.addad@thalesgroup.com,boussad83@yahoo.fr,,3,r,0,-1,-1,-2,0
+Noisy Networks For Exploration,Meire Fortunato,Mohammad Gheshlaghi Azar,Bilal Piot,meirefortunato@google.com,mazar@google.com,piot@google.com,5,ap,1,4,14,18,12
+The Set Autoencoder: Unsupervised Representation Learning for Sets,Malte Probst,,,malte.probst@honda-ri.de,,,4,r,0,5,-2,-2,5
+Learning to Count Objects in Natural Images for Visual Question Answering,Yan Zhang,Jonathon Hare,Adam Prügel-Bennett,yz5n12@ecs.soton.ac.uk,jsh2@ecs.soton.ac.uk,apb@ecs.soton.ac.uk,6,ap,1,3,25,35,21
+Sensor Transformation Attention Networks,Stefan Braun,Daniel Neil,Enea Ceolini,brauns@ethz.ch,daniel.l.neil@gmail.com,enea.ceolini@ini.uzh.ch,7,r,1,157,18,6,60
+CAYLEYNETS: SPECTRAL GRAPH CNNS WITH COMPLEX RATIONAL FILTERS,Ron Levie,Federico Monti,Xavier Bresson,ronlevie@gmail.com,federico.monti@usi.ch,xavier.bresson@gmail.com,6,r,0,114,10,38,54
+Convolutional Normalizing Flows,Guoqing Zheng,Yiming Yang,Jaime Carbonell,gzheng@cs.cmu.edu,yiming@cs.cmu.edu,jgc@cs.cmu.edu,3,r,1,24,55,73,51
+Baseline-corrected space-by-time non-negative matrix factorization for decoding single trial population spike trains,Arezoo Alizadeh,Marion Mutter,Thomas Münch,arezoo.alizadehkhajehiem@iit.it,marion.mutter@gmx.de,thomas.muench@cin.uni-tuebingen.de,4,r,0,-1,-1,13,4
+DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images,Taihong Xiao,Jiapeng Hong,Jinwen Ma,xiaotaihong@pku.edu.cn,jphong@pku.edu.cn,jwma@math.pku.edu.cn,4,wp,0,3,6,4,4
+Avoiding Catastrophic States with Intrinsic Fear,Zachary C. Lipton,Kamyar Azizzadenesheli,Abhishek Kumar,zlipton@cmu.edu,kazizzad@uci.edu,abkumar@ucsd.edu,5,r,0,26,10,81,39
+DDRprog: A CLEVR Differentiable Dynamic Reasoning Programmer,Joseph Suarez,Justin Johnson,Fei-Fei Li,joseph15@stanford.edu,jcjohns@cs.stanford.edu,feifeili@cs.stanford.edu,5,r,1,1,14,100,38
+Espresso: Efficient Forward Propagation for Binary Deep Neural Networks,Fabrizio Pedersoli,George Tzanetakis,Andrea Tagliasacchi,fpeder@uvic.ca,gtzan@uvic.ca,ataiya@uvic.ca,6,ap,0,5,38,18,20
+LatentPoison -- Adversarial Attacks On The Latent Space,Antonia Creswell,Biswa Sengupta,Anil A. Bharath,ac2211@ic.ac.uk,b.sengupta@imperial.ac.uk,a.bharath@imperial.ac.uk,5,r,0,8,20,24,17
+PACT: Parameterized Clipping Activation for Quantized Neural Networks,Jungwook Choi,Zhuo Wang,Swagath Venkataramani,choij@us.ibm.com,,,5,r,1,14,-2,-2,14
+Understanding Grounded Language Learning Agents,Felix Hill,Karl Moritz Hermann,Phil Blunsom,felixhill@google.com,kmh@google.com,pblunsom@google.com,4,r,0,23,21,45,30
+APPLICATION OF DEEP CONVOLUTIONAL NEURAL NETWORK TO PREVENT ATM FRAUD BY FACIAL DISGUISE IDENTIFICATION,Suraj Nandkishor Kothawade,Sumit Baburao Tamgale,,kothawadesuraj@sggs.ac.in,tamgalesumit@sggs.ac.in,,1,r,0,-1,-1,-2,0
+Discrete Sequential Prediction of Continuous Actions for Deep RL,Luke Metz,Julian Ibarz,Navdeep Jaitly,lmetz@google.com,julianibarz@google.com,njaitly@google.com,7,r,1,8,15,41,21
+An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems.,Yiping Song,Rui Yan,Cheng-Te Li,songyiping@pku.edu.cn,ruiyan@pku.edu.cn,chengte@mail.ncku.edu.tw,5,r,0,8,28,17,18
+Multi-Advisor Reinforcement Learning,Romain Laroche,Mehdi Fatemi,Joshua Romoff,romain.laroche@gmail.com,mehdi.fatemi@microsoft.com,joshua.romoff@mail.mcgill.ca,4,r,1,15,7,6,9
+Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control,Glen Berseth,Cheng Xie,Paul Cernek,gberseth@gmail.com,cheng.k.xie@gmail.com,pcernek@cs.ubc.ca,7,ap,1,11,29,-1,13
+UNSUPERVISED METRIC LEARNING VIA NONLINEAR FEATURE SPACE TRANSFORMATIONS,Pin Zhang,Bibo Shi,JundongLiu,pz335412@ohio.edu,bibo.shi@duke.edu,liuj1@ohio.edu,6,r,0,8,9,32,16
+Learning Deep Generative Models With Discrete Latent Variables,Hengyuan Hu,Ruslan Salakhutdinov,,hengyuah@andrew.cmu.edu,rsalakhu@cs.cmu.edu,,4,r,0,2,83,-2,42
+Novelty Detection with GAN,Mark Kliger,Shachar Fleishman,,mark.kliger@gmail.com,shacharfl@gmail.com,,4,r,1,16,15,-2,16
+A Self-Organizing Memory Network,Callie Federer,Joel Zylberberg,,callie.federer@ucdenver.edu,joel.zylberberg@ucdenver.edu,,3,r,0,2,17,-2,10
+The Cramer Distance as a Solution to Biased Wasserstein Gradients,Marc G. Bellemare,Ivo Danihelka,Will Dabney,bellemare@google.com,danihelka@google.com,shakir@google.com,5,r,1,25,15,27,22
+DEEP DENSITY NETWORKS AND UNCERTAINTY IN RECOMMENDER SYSTEMS,Yoel Zeldes,Stavros Theodorakis,Efrat Solodnik,yoel.z@taboola.com,sth@deeplab.ai,efrat.s@taboola.com,4,r,0,-1,10,-1,3
+PrivyNet: A Flexible Framework for Privacy-Preserving Deep Neural Network Training,Meng Li,Liangzhen Lai,Naveen Suda,meng_li@utexas.edu,liangzhen.lai@arm.com,naveen.suda@arm.com,6,r,1,78,13,11,34
+Simple Fast Convolutional Feature Learning,David Macêdo,Cleber Zanchettin,Teresa Ludermir,dlm@cin.ufpe.br,cz@cin.ufpe.br,tbl@cin.ufpe.br,3,r,0,3,12,38,18
+Enhancing Batch Normalized Convolutional Networks using Displaced Rectifier Linear Units: A Systematic Comparative Study,David Macêdo,Cleber Zanchettin,Adriano L. I. Oliveira,dlm@cin.ufpe.br,cz@cin.ufpe.br,alio@cin.ufpe.br,3,r,0,3,12,22,12
+ANALYSIS ON GRADIENT PROPAGATION IN BATCH NORMALIZED RESIDUAL NETWORKS,Abhishek Panigrahi,Yueru Chen,C.-C. Jay Kuo,abhishekpanigrahi@iitkgp.ac.in,yueruche@usc.edu,cckuo@sipi.usc.edu,4,r,0,2,5,80,29
+Deterministic Policy Imitation Gradient Algorithm,Fumihiro Sasaki,Atsuo Kawaguchi,,fumihiro.fs.sasaki@nts.ricoh.co.jp,atsuo.kawaguchi@nts.ricoh.co.jp,,6,r,0,-1,10,-2,5
+Data augmentation instead of explicit regularization,Alex Hernández-García,Peter König,,alexhg15@gmail.com,pkoenig@uos.de,,5,r,1,6,60,-2,33
+Neural Clustering By Predicting And Copying Noise,Sam Coope,Andrej Zukov-Gregoric,Yoram Bachrach,sam@digitalgenius.com,andrej@digitalgenius.com,yoram@digitalgenius.com,5,r,0,34,-1,33,22
+Generative Adversarial Networks using Adaptive Convolution,Nhat M. Nguyen,Nilanjan Ray,,nmnguyen@ualberta.ca,nray1@ualberta.ca,,4,r,1,4,26,-2,15
+Deep Rewiring: Training very sparse deep networks,Guillaume Bellec,David Kappel,Wolfgang Maass,bellec@igi.tugraz.at,kappel@igi.tugraz.at,maass@igi.tugraz.at,8,ap,1,6,8,68,27
+Network Iterative Learning for Dynamic Deep Neural Networks via Morphism,Tao Wei,Changhu Wang,Chang Wen Chen,taowei@buffalo.edu,wangchanghu@toutiao.com,chencw@buffalo.edu,7,r,0,74,29,10,38
+Generalized Graph Embedding Models,Qiao Liu,Xiaohui Yang,Rui Wan,qliu@uestc.edu.cn,yangxhui@uestc.std.edu.cn,rwan@uestc.std.edu.cn,6,r,0,21,12,76,36
+Discriminative k-shot learning using probabilistic models,Matthias Bauer,Mateo Rojas-Carulla,Jakub Bartłomiej Świątkowski,msb55@cam.ac.uk,mrojascarulla@gmail.com,kuba.swiatkowski@gmail.com,5,r,0,5,5,-1,3
+Link Weight Prediction with Node Embeddings,Yuchen Hou,Lawrence B. Holder,,yuchen.hou@wsu.edu,holder@wsu.edu,,3,r,0,6,36,-2,21
+Learning Independent Causal Mechanisms,Giambattista Parascandolo,Mateo Rojas Carulla,Niki Kilbertus,gparascandolo@tue.mpg.de,mrojascarulla@gmail.com,nkilbertus@tue.mpg.de,6,r,1,10,5,-1,5
+DNN Feature Map Compression using Learned Representation over GF(2),Denis A. Gudovskiy,Alec Hodgkinson,Luca Rigazio,denis.gudovskiy@us.panasonic.com,alec.hodgkinson@us.panasonic.com,luca.rigazio@us.panasonic.com,7,r,1,-1,2,27,10
+A Bayesian Perspective on Generalization and Stochastic Gradient Descent,Samuel L. Smith and Quoc V. Le,,,slsmith@google.com,qvl@google.com,,3,ap,1,7,-1,-2,4
+Mixed Precision Training,Paulius Micikevicius,Sharan Narang,Jonah Alben,pauliusm@nvidia.com,sharan@baidu.com,alben@nvidia.com,8,ap,1,-1,10,-1,3
+Multiscale Hidden Markov Models For Covariance Prediction,João Sedoc,Jordan Rodu,Dean Foster,joao@cis.upenn.edu,jsr6q@virginia.edu,dean@foster.net,5,r,0,5,-1,51,19
+Latent Topic Conversational Models,Tsung-Hsien Wen,Minh-Thang Luong,,thw28@cam.ac.uk,thangluong@google.com,,4,r,1,20,24,-2,22
+Recurrent Auto-Encoder Model for Multidimensional Time Series Representation,Timothy Wong,Zhiyuan Luo,,timothy.wong@centrica.com,zhiyuan.luo@cs.rhul.ac.uk,,2,r,0,29,-1,-2,14
+Sparse-Complementary Convolution for Efficient Model Utilization on CNNs,Chun-Fu (Richard) Chen,Jinwook Oh,Quanfu Fan,chenrich@us.ibm.com,ohj@us.ibm.com,qfan@us.ibm.com,6,r,0,9,14,22,15
+Achieving morphological agreement with Concorde,Daniil Polykovskiy,Dmitry Soloviev,,daniil.polykovskiy@gmail.com,d.soloviev@corp.mail.ru,,2,r,0,5,17,-2,11
+Discrete-Valued Neural Networks Using Variational Inference,Wolfgang Roth,Franz Pernkopf,,roth@tugraz.at,pernkopf@tugraz.at,,6,r,0,-1,25,-2,12
+Improving Deep Learning by Inverse Square Root Linear Units (ISRLUs),Brad Carlile,Guy Delamarter,Paul Kinney,bradcarlile@yahoo.com,info@aiperf.com,,4,r,1,-1,-1,-2,0
+Feat2Vec:  Dense Vector Representation for Data with Arbitrary Features,Luis Armona,José P. González-Brenes,Ralph Edezhath,luisarmona@gmail.com,jgonzalez@chegg.com,ralph.angelus@gmail.com,7,r,0,3,14,-1,6
+Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs,Jean Maillard,Stephen Clark,Dani Yogatama,jean@maillard.it,sc609@cam.ac.uk,dyogatama@google.com,5,r,1,6,67,20,31
+COLD FUSION: TRAINING SEQ2SEQ MODELS TOGETHER WITH LANGUAGE MODELS,Anuroop Sriram,Heewoo Jun,Sanjeev Satheesh,anuroop.sriram@gmail.com,junheewoo@baidu.com,sanjeevsatheesh@baidu.com,5,wp,0,8,15,16,13
+Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum,Omer Levy,Kenton Lee,Nicholas FitzGerald,omerlevy@gmail.com,kentonl@cs.washington.edu,nfitz@cs.washington.edu,6,r,1,27,19,9,18
+AUTOMATED DESIGN USING NEURAL NETWORKS AND GRADIENT DESCENT,Oliver Hennigh,,,loliverhennigh101@gmail.com,,,5,wp,0,4,-2,-2,4
+Tensor Contraction & Regression Networks,Jean Kossaifi,Zack Chase Lipton,Aran Khanna,jean.kossaifi@gmail.com,zlipton@cmu.edu,arankhan@amazon.com,4,r,0,11,26,4,14
+Fixing Weight Decay Regularization in Adam,Ilya Loshchilov,Frank Hutter,,ilya.loshchilov@gmail.com,fh@cs.uni-freiburg.de,,7,r,0,20,52,-2,36
+Exploring the Space of Black-box Attacks on Deep Neural Networks,Arjun Nitin Bhagoji,Warren He,Bo Li,abhagoji@princeton.edu,_w@eecs.berkeley.edu,lxbosky@gmail.com,5,r,1,7,-1,74,27
+Code Synthesis with Priority Queue Training,Daniel A. Abolafia,Quoc V. Le,Mohammad Norouzi,danabo@google.com,qvl@google.com,mnorouzi@google.com,6,r,0,-1,74,26,33
+Implicit Causal Models for Genome-wide Association Studies,Dustin Tran,David M. Blei,,dustin@cs.columbia.edu,david.blei@columbia.edu,,5,ap,1,17,85,-2,51
+Learning what to learn in a neural program,Richard Shin,Dawn Song,,ricshin@berkeley.edu,dawnsong.travel@gmail.com,,5,r,0,13,110,-2,62
+Generative Models for Alignment and Data Efficiency in Language,Dustin Tran,Yura Burda,Ilya Sutskever,dustin@cs.columbia.edu,yburda@openai.com,ilyasu@openai.com,5,r,0,17,8,54,26
+Maintaining cooperation in complex social dilemmas using deep reinforcement learning,Alexander Peysakhovich,Adam Lerer,,alex.peys@gmail.com,alerer@fb.com,,4,r,1,16,17,-2,16
+TRAINING GENERATIVE ADVERSARIAL NETWORKS VIA PRIMAL-DUAL SUBGRADIENT METHODS: A LAGRANGIAN PERSPECTIVE ON GAN,Xu Chen,Jiang Wang,Hao Ge,chenxugz@gmail.com,wangjiangb@gmail.com,haoge2013@u.northwestern.edu,7,ap,0,68,92,20,60
+Stochastic Training of Graph Convolutional Networks,Jianfei Chen,Jun Zhu,,chenjian14@mails.tsinghua.edu.cn,dcszj@mail.tsinghua.edu.cn,,3,r,0,12,43,-2,28
+Transformation Autoregressive Networks,Junier Oliva,Avinava Dubey,Barnabás Póczos,joliva@cs.cmu.edu,akdubey@cs.cmu.edu,bapoczos@cs.cmu.edu,5,r,1,11,15,-1,9
+SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning,Xiaojun Xu,Chang Liu,Dawn Song,xuxiaojun1005@gmail.com,liuchang@eecs.berkeley.edu,dawnsong@cs.berkeley.edu,4,r,1,16,21,110,49
+Nearest Neighbour Radial Basis Function Solvers for Deep Neural Networks,Benjamin J. Meyer,Ben Harwood,Tom Drummond,benjamin.meyer@monash.edu,ben.harwood@monash.edu,tom.drummond@monash.edu,5,r,0,3,3,38,15
+Deep Learning Inferences with Hybrid Homomorphic Encryption,Anthony Meehan,Ryan K L Ko,Geoff Holmes,anthonymeehan@anthonymeehan.com,ryan.ko@waikato.ac.nz,geoff@waikato.ac.nz,4,r,0,-1,-1,50,17
+Adversarial reading networks for machine comprehension,Quentin Grail,Julien Perez,,julien.perez@naverlabs.com,,,4,r,0,15,-2,-2,15
+Log-DenseNet: How to Sparsify a DenseNet,Hanzhang Hu,Debadeepta Dey,Allie Del Giorno,hanzhang@cs.cmu.edu,dedey@microsoft.com,adelgior@ri.cmu.edu,6,r,0,6,16,-1,7
+Contextual memory bandit for pro-active dialog engagement,julien perez,Tomi Silander,,julien.perez@naverlabs.com,,,2,r,0,15,-2,-2,15
+Sequence Transfer Learning for Neural Decoding,Venkatesh Elango*,Aashish N Patel*,Kai J Miller,velango@eng.ucsd.edu,anp054@eng.ucsd.edu,kai.miller@stanford.edu,4,r,0,-1,-1,-1,0
+Unbiased scalable softmax optimization,Francois Fagan,Garud Iyengar,,ff2316@columbia.edu,garud@ieor.columbia.edu,,5,r,1,4,27,-2,16
+BLOCK-DIAGONAL HESSIAN-FREE OPTIMIZATION FOR TRAINING NEURAL NETWORKS,Huishuai Zhang,Caiming Xiong,James Bradbury,hzhan23@syr.edu,cxiong@salesforce.com,james.bradbury@salesforce.com,6,r,0,10,29,9,16
+Polar Transformer Networks,Carlos Esteves,Christine Allen-Blanchette,Xiaowei Zhou,machc@seas.upenn.edu,allec@seas.upenn.edu,xiaowz@seas.upenn.edu,7,ap,1,5,5,20,10
+Softmax Q-Distribution Estimation for Structured Prediction: A Theoretical Interpretation for RAML,Xuezhe Ma,Pengcheng Yin,Jingzhou Liu,xuezhem@cs.cmu.edu,pcyin@cs.cmu.edu,liujingzhou@cs.cmu.edu,5,r,0,11,10,5,9
+Learning to Optimize Neural Nets,Ke Li,Jitendra Malik,,ke.li@eecs.berkeley.edu,jitendram@google.com,,5,r,1,9,132,-2,70
+Character Level Based Detection of DGA Domain Names,Bin Yu,Jie Pan,Jiaming Hu,biny@infoblox.com,jiep@uw.edu,huj22@uw.edu,7,r,0,62,59,4,42
+Data Augmentation by Pairing Samples for Images Classification,Hiroshi Inoue,,,inouehrs@jp.ibm.com,,,4,r,1,18,-2,-2,18
+Weighted Transformer Network for Machine Translation,Karim Ahmed,Nitish Shirish Keskar,Richard Socher,karim.mmm@gmail.com,keskar.nitish@u.northwestern.edu,richard@socher.org,9,r,1,8,13,47,23
+Principled Hybrids of Generative and Discriminative Domain Adaptation,Han Zhao,Zhenyao Zhu,Junjie Hu,han.zhao@cs.cmu.edu,zhenyaozhu@baidu.com,junjieh@cmu.edu,6,r,1,11,13,18,14
+Integrating Episodic Memory into a Reinforcement Learning Agent Using Reservoir Sampling,Kenny J. Young,Shuo Yang,Richard S. Sutton,kjyoung@ualberta.ca,rsutton@ualberta.ca,s-yan14@mails.tsinghua.edu.cn,4,r,1,12,86,86,61
+Relational Multi-Instance Learning for Concept Annotation from Medical Time Series,Sanjay Purushotham,Zhengping Che,Bo Jiang,spurusho@usc.edu,zche@usc.edu,boj@usc.edu,6,r,0,12,11,29,17
+VOCABULARY-INFORMED VISUAL FEATURE AUGMENTATION FOR ONE-SHOT LEARNING,jianqi ma,hangyu lin,yinda zhang,14302010017@fudan.edu.cn,16210240036@fudan.edu.cn,yindaz@cs.princeton.edu,4,r,0,2,-1,15,6
+Understanding Local Minima in Neural Networks by Loss Surface Decomposition,Hanock Kwak,Byoung-Tak Zhang,,hnkwak@bi.snu.ac.kr,btzhang@bi.snu.ac.kr,,4,r,0,2,47,-2,24
+Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio,Dongsoo Lee,Daehyun Ahn,Taesu Kim,dslee3@gmail.com,daehyun.ahn@postech.ac.kr,taesukim@postech.ac.kr,6,ap,0,81,3,5,30
+Toward learning better metrics for sequence generation training with policy gradient,Joji Toyama,Yusuke Iwasawa,Kotaro Nakayama,toyama@weblab.t.u-tokyo.ac.jp,iwasawa@weblab.t.u-tokyo.ac.jp,nakayama@weblab.t.u-tokyo.ac.jp,7,r,0,-1,7,19,9
+Classifier-to-Generator Attack: Estimation of Training Data Distribution from Classifier,Kosuke Kusano,Jun Sakuma,,cocuh@mdl.cs.tsukuba.ac.jp,jun@cs.tsukuba.ac.jp,,7,r,0,-1,21,-2,10
+Large scale distributed neural network training through online distillation,Rohan Anil,Gabriel Pereyra,Alexandre Passos,rohananil@google.com,pereyra@google.com,apassos@google.com,8,ap,1,5,24,9,13
+Better Generalization by Efficient Trust Region Method,Xuanqing Liu,Jason D. Lee,Cho-Jui Hsieh,xqliu@ucdavis.edu,jasondlee88@gmail.com,chohsieh@ucdavis.edu,6,r,0,6,36,39,27
+Enhancing the Transferability of Adversarial Examples with Noise Reduced Gradient,Lei Wu,Zhanxing Zhu,Cheng Tai,leiwu@pku.edu.cn,zhanxing.zhu@pku.edu.cn,chengt@math.princeton.edu,4,r,0,7,13,43,21
+Discovering Order in Unordered Datasets: Generative Markov Networks,Yao-Hung Hubert Tsai,Han Zhao,Nebojsa Jojic,yaohungt@cs.cmu.edu,han.zhao@cs.cmu.edu,jojic@microsoft.com,4,r,0,10,11,44,22
+Kronecker Recurrent Units,Cijo Jose,Moustapha Cisse,Francois Fleuret,cijo.jose@idiap.ch,moustaphacisse@fb.com,francois.fleuret@idiap.ch,6,wp,1,5,13,34,17
+Characterizing Sparse Connectivity Patterns in Neural Networks,Sourya Dey,Kuan-Wen Huang,Peter A. Beerel,souryade@usc.edu,kuanwenh@usc.edu,pabeerel@usc.edu,4,r,1,5,-1,-1,2
+Multi-level Residual Networks from Dynamical Systems View,Bo Chang,Lili Meng,Eldad Haber,bchang@stat.ubc.ca,lilimeng1103@gmail.com,haber@math.ubc.ca,7,ap,1,8,9,46,21
+Pointing Out SQL Queries From Text,Chenglong Wang,Marc Brockschmidt,Rishabh Singh,clwang@cs.washington.edu,mabrocks@microsoft.com,risin@microsoft.com,4,r,0,7,21,28,19
+Learning Graph Convolution Filters from Data Manifold,Guokun Lai,Hanxiao Liu,Yiming Yang,guokun@cs.cmu.edu,hanxiaol@cs.cmu.edu,yiming@cs.cmu.edu,4,r,0,6,12,55,24
+Interpreting Deep Classification Models With Bayesian Inference,Hanshu Yan,Jiashi Feng,,eleyanh@nus.edu.sg,elefjia@nus.edu.sg,,3,r,0,1,51,-2,26
+Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization,Ozsel Kilinc,Ismail Uysal,,ozsel@mail.usf.edu,iuysal@usf.edu,,6,ap,1,6,12,-2,9
+Parametric Manifold Learning Via Sparse Multidimensional Scaling,Gautam Pai,Ronen Talmon,Ron Kimmel,paigautam@cs.technion.ac.il,ronen@ef.technion.ac.il,ron@cs.technion.ac.il,5,r,0,3,22,72,32
+Fast and Accurate Inference with Adaptive Ensemble Prediction for Deep Networks,Hiroshi Inoue,,,inouehrs@jp.ibm.com,,,6,r,0,18,-2,-2,18
+Counterfactual Image Networks,Deniz Oktay,Carl Vondrick,Antonio Torralba,denizokt@mit.edu,vondrick@google.com,torralba@mit.edu,4,r,0,2,21,99,41
+Massively Parallel Hyperparameter Tuning,Lisha Li,Kevin Jamieson,Afshin Rostamizadeh,lishal@cs.ucla.edu,jamieson@cs.washington.edu,rostami@google.com,5,r,0,2,16,24,14
+Hallucinating brains with artificial brains,Peiye Zhuang,Alexander G. Schwing,Oluwasanmi Koyejo,py_zhuang@bupt.edu.cn,aschwing@illinois.edu,sanmi@illinois.edu,8,r,0,6,34,18,19
+Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks,Brenden Lake,Marco Baroni,,brenden@nyu.edu,marco.baroni@unitn.it,,6,wp,0,14,49,-2,32
+FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension,Hsin-Yuan Huang,Chenguang Zhu,Yelong Shen,momohuang@gmail.com,chezhu@microsoft.com,yeshen@microsoft.com,7,ap,1,6,10,18,11
+Multi-task Learning on MNIST Image Datasets,Po-Chen Hsieh,Chia-Ping Chen,,st70712@gmail.com,cpchen@cse.nsysu.edu.tw,,5,r,0,-1,-1,-2,0
+A closer look at the word analogy problem,Siddharth Krishna Kumar,,,siddharthkumar@upwork.com,,,2,r,0,-1,-2,-2,0
+Learning Deep ResNet Blocks Sequentially using Boosting Theory,Furong Huang,Jordan T. Ash,John Langford,furongh@cs.umd.edu,jordantash@gmail.com,jcl@microsoft.com,5,r,1,10,4,62,25
+A Flexible Approach to Automated RNN Architecture Generation,Martin Schrimpf,Stephen Merity,James Bradbury,msch@mit.edu,smerity@smerity.com,james.bradbury@salesforce.com,6,wp,1,6,10,9,8
+Large Scale Multi-Domain Multi-Task Learning with MultiModel,Lukasz Kaiser,Aidan N. Gomez,Noam Shazeer,lukaszkaiser@google.com,aidan.n.gomez@gmail.com,noam@google.com,6,r,0,27,7,-1,11
+Learning Generative Models with Locally Disentangled Latent Factors,Brady Neal,Alex Lamb,Sherjil Ozair,nealb@seas.upenn.edu,alex6200@gmail.com,sherjilozair@gmail.com,4,r,0,1,12,10,8
+Towards Reverse-Engineering Black-Box Neural Networks,Seong Joon Oh,Max Augustin,Mario Fritz,joon@mpi-inf.mpg.de,maxaug@mpi-inf.mpg.de,mfritz@mpi-inf.mpg.de,7,ap,1,11,17,45,24
+A Deep Predictive Coding Network for Learning Latent Representations,Shirin Dora,Cyriel Pennartz,Sander Bohte,shirin.dora@gmail.com,c.m.a.pennartz@uva.nl,s.m.bohte@cwi.nl,4,r,0,7,58,23,29
+On Batch Adaptive Training for Deep Learning: Lower Loss and Larger Step Size,Runyao Chen,Kun Wu,Ping Luo,chenrunyao14@mails.ucas.ac.cn,WuKun14@mails.ucas.ac.cn,luop@ict.ac.cn,5,r,0,-1,60,40,33
+Training with Growing Sets: A Simple Alternative to Curriculum Learning and Self Paced Learning,Melike Nur Mermer,Mehmet Fatih Amasyali,,melike.mermer@izu.edu.tr,mfatih@ce.yildiz.edu.tr,,4,r,0,-1,-1,-2,0
+Learning to Mix n-Step Returns: Generalizing Lambda-Returns for Deep Reinforcement Learning,Sahil Sharma,Girish Raguvir J *,Srivatsan Ramesh *,sahil@cse.iitm.ac.in,girishraguvir@gmail.com,sriramesh4@gmail.com,5,r,0,21,-1,1,7
+Piecewise Linear Neural Networks verification: A comparative study,Rudy Bunel,Ilker Turkaslan,Philip H.S. Torr,rudy@robots.ox.ac.uk,ilker.turkaslan@lmh.ox.ac.uk,philip.torr@eng.ox.ac.uk,6,r,0,10,-1,-1,3
+Ensemble Robustness and Generalization of Stochastic Deep Learning Algorithms,Tom Zahavy,Bingyi Kang,Alex Sivak,tomzahavy@gmail.com,bingykang@gmail.com,silex@campus.technion.ac.il,4,wp,1,8,5,10,8
+Heterogeneous Bitwidth Binarization in Convolutional Neural Networks,Josh Fromm,Matthai Philipose,Shwetak Patel,jwfromm@uw.edu,matthaip@microsoft.com,shwetak@cs.washington.edu,6,r,1,7,43,56,35
+Residual Gated Graph ConvNets,Xavier Bresson,Thomas Laurent,,xbresson@ntu.edu.sg,tlaurent@lmu.edu,,7,r,1,38,18,-2,28
+WHAT ARE GANS USEFUL FOR?,Pablo M. Olmos,Briland Hitaj,Paolo Gasti,olmos@tsc.uc3m.es,bhitaj@stevens.edu,pgasti@nyit.edu,3,r,0,14,3,22,13
+Learning objects from pixels,David Saxton,,,saxton@google.com,,,3,r,0,10,-2,-2,10
+Learning to Compute Word Embeddings On the Fly,Dzmitry Bahdanau,Tom Bosc,Stanisław Jastrzębski,dimabgv@gmail.com,bosc.tom@gmail.com,staszek.jastrzebski@gmail.com,5,r,1,18,56,11,28
+SIC-GAN: A Self-Improving Collaborative GAN for Decoding Sketch RNNs,Chi-Chun Chuang,Zheng-Xin Weng,Shan-Hung Wu,ccchuang@datalab.cs.nthu.edu.tw,zxweng@datalab.cs.nthu.edu.tw,shwu@cs.nthu.edu.tw,5,r,0,-1,-1,20,7
+On the Construction and Evaluation of Color Invariant Networks,Konrad Groh,,,konrad.groh@de.bosch.com,,,4,r,0,-1,-2,-2,0
+The Mutual Autoencoder: Controlling Information in Latent Code Representations,Mary Phuong,Max Welling,Nate Kushman,bphuong@ist.ac.at,m.welling@uva.nl,nkushman@microsoft.com,4,r,0,3,68,16,29
+Avoiding degradation in deep feed-forward networks by phasing out skip-connections,Ricardo Pio Monti,Sina Tootoonian,Robin Cao,r.monti@ucl.ac.uk,sina@gatsby.ucl.ac.uk,robin.cao@ucl.ac.uk,6,r,0,9,-1,-1,3
+Capturing Human Category Representations by Sampling in Deep Feature Spaces,Joshua Peterson,Krishan Aghi,Jordan Suchow,peterson.c.joshua@gmail.com,kaghi@berkeley.edu,suchow@berkeley.edu,6,wp,0,9,-1,8,6
+Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks,Jinsung Yoon,William R. Zame,Mihaela van der Schaar,jsyoon0823@gmail.com,zame@econ.ucla.edu,mihaela.vanderschaar@oxford-man.ox.ac.uk,8,ap,0,12,-1,55,22
+"Universality, Robustness, and Detectability of Adversarial Perturbations under Adversarial Training",Jan Hendrik Metzen,,,janhendrik.metzen@de.bosch.com,,,3,r,0,19,-2,-2,19
+Autoregressive Generative Adversarial Networks,Yasin Yazici,Kim-Hui Yap,Stefan Winkler,yasin001@e.ntu.edu.sg,ekhyap@ntu.edu.sg,stefan.winkler@adsc.com.sg,5,wp,0,2,25,42,23
+"Learning to Select: Problem, Solution, and Applications",Heechang Ryu,Donghyun Kim,Hayong Shin,rhc93@kaist.ac.kr,dhk618@kaist.ac.kr,hyshin@kaist.ac.kr,4,r,0,3,141,15,53
+Sample-Efficient Deep Reinforcement Learning via Episodic Backward Update,Su Young Lee,Sungik Choi,Sae-Young Chung,sy9424@kaist.ac.kr,si_choi@kaist.ac.kr,schung@kaist.ac.kr,4,r,1,125,-1,33,53
+Policy Gradient For Multidimensional Action Spaces: Action Sampling and Entropy Bonus,Vuong Ho Quan,Yiming Zhang,Kenny Song,quan.hovuong@gmail.com,yiming.zhang@nyu.edu,kenny.song@nyu.edu,6,r,0,1,49,1,17
+GENERATIVE LOW-SHOT NETWORK EXPANSION,Adi Hayat,Mark Kliger,Shachar Fleishman,adi.hayat3@gmail.com,mark.kliger@gmail.com,shacharfl@gmail.com,6,r,0,1,16,15,11
+Cheap DNN Pruning with Performance Guarantees ,Konstantinos Pitas,Mike Davies,Pierre Vandergheynst,konstantinos.pitas@epfl.ch,mike.davies@ed.ac.uk,pierre.vandergheynst@epfl.ch,6,r,0,1,52,67,40
+Alternating Multi-bit Quantization for Recurrent Neural Networks,Chen Xu,Jianqiang Yao,Zhouchen Lin,xuen@pku.edu.cn,tianduo@taobao.com,zlin@pku.edu.cn,8,ap,1,6,1,55,21
+Learning to Generate Filters for Convolutional Neural Networks,Wei Shen,Rujie Liu,,shenwei@cn.fujitsu.com,rjliu@cn.fujitsu.com,,4,r,0,44,16,-2,30
+Theoretical properties of the global optimizer of two-layer Neural Network,Digvijay Boob,Guanghui Lan,,digvijaybb40@gatech.edu,george.lan@isye.gatech.edu,,4,r,1,2,27,-2,14
+Regularization for Deep Learning: A Taxonomy,Jan Kukačka,Vladimir Golkov,Daniel Cremers,jan.kukacka@tum.de,vladimir.golkov@tum.de,cremers@tum.de,5,r,1,3,9,88,33
+Kernel Graph Convolutional Neural Nets,Giannis Nikolentzos,Polykarpos Meladianos,Antoine J-P Tixier,giannisnik@hotmail.com,pmeladianos@aueb.gr,antoine.tixier-1@colorado.edu,5,r,0,10,10,-1,7
+Improving Search Through A3C Reinforcement Learning Based Conversational Agent,Milan Aggarwal,Aarushi Arora,Shagun Sodhani,milan.ag1994@gmail.com,aarushi.arora043@gmail.com,sshagunsodhani@gmail.com,5,r,1,7,6,4,6
+Now I Remember! Episodic Memory For Reinforcement Learning,Ricky Loynd,Matthew Hausknecht,Lihong Li,riloynd@microsoft.com,mahauskn@microsoft.com,lihongli.cs@gmail.com,4,r,0,-1,18,46,21
+An Out-of-the-box Full-network Embedding for Convolutional Neural Networks,Dario Garcia-Gasulla,Armand Vilalta,Ferran Parés,dario.garcia@bsc.es,armand.vilalta@bsc.es,ferran.pares@bsc.es,3,r,1,9,4,13,9
+Parameter Space Noise for Exploration,Matthias Plappert,Rein Houthooft,Prafulla Dhariwal,matthiasplappert@me.com,rein.houthooft@openai.com,prafulla@openai.com,6,ap,1,10,10,8,9
+Global Convergence of Policy Gradient Methods for Linearized  Control Problems,Maryam Fazel,Rong Ge,Sham M. Kakade,mfazel@uw.edu,rongge@cs.duke.edu,sham@cs.washington.edu,6,r,0,24,30,62,39
+A Bayesian Nonparametric Topic Model with Variational Auto-Encoders,Xuefei Ning,Yin Zheng,Zhuxi Jiang,foxdoraame@gmail.com,yzheng3xg@gmail.com,zjiang9310@gmail.com,7,r,0,-1,12,3,5
+DropMax: Adaptive Stochastic Softmax,Hae Beom Lee,Juho Lee,Eunho Yang,hblee@unist.ac.kr,stonecold@postech.ac.kr,yangeh@gmail.com,6,wp,0,13,29,-1,14
+Graph Partition Neural Networks for Semi-Supervised Classification,Renjie Liao,Marc Brockschmidt,Daniel Tarlow,rjliao@cs.toronto.edu,mabrocks@microsoft.com,dtarlow@google.com,6,wp,1,20,21,23,21
+Semi-supervised Outlier Detection using Generative And Adversary Framework,Jindong Gu,Matthias Schubert,Volker Tresp,jindong.gu@siemens.com,schubert@dbs.ifi.lmu.de,volker.tresp@siemens.com,4,r,0,2,25,54,27
+Deep Asymmetric Multi-task Feature Learning,Hae Beom Lee,Eunho Yang,Sung Ju Hwang,hblee@unist.ac.kr,yangeh@gmail.com,sjhwang@unist.ac.kr,6,r,1,13,-1,16,10
+Cross-Corpus Training with TreeLSTM for the Extraction of Biomedical Relationships from Text,Legrand Joël,Yannick Toussaint,Chedy Raïssi,joel.legrand@loria.fr,yannick.toussaint@loria.fr,chedy.raissi@inria.fr,4,wp,0,6,-1,18,8
+Learning to navigate by distilling visual information and natural language instructions,Abhishek Sinha,Akilesh B,Mausoom Sarkar,abhsinha@adobe.com,akb@adobe.com,msarkar@adobe.com,4,r,0,9,3,3,5
+Statestream: A toolbox to explore layerwise-parallel deep neural networks,Volker Fischer,,,volker.fischer@de.bosch.com,,,3,r,0,6,-2,-2,6
+Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations,Yiping Lu,Aoxiao Zhong,Quanzheng Li,luyiping9712@pku.edu.cn,zhongaoxiao@gmail.com,quanzhengli5@gmail.com,7,wp,1,5,5,-1,3
+Training RNNs as Fast as CNNs,Tao Lei,Yu Zhang,Yoav Artzi,tao@asapp.com,yzhang87@csail.mit.edu,yoav@cs.cornell.edu,7,r,0,16,99,23,46
+Revisiting Bayes by Backprop,Meire Fortunato,Charles Blundell,Oriol Vinyals,meirefortunato@google.com,cblundell@google.com,vinyals@google.com,5,r,0,4,23,67,31
+PARAMETRIZED DEEP Q-NETWORKS LEARNING: PLAYING ONLINE BATTLE ARENA WITH DISCRETE-CONTINUOUS HYBRID ACTION SPACE,Jiechao Xiong,Qing Wang,Zhuoran Yang,jcxiong@tencent.com,drwang@tencent.com,pythonsun@tencent.com,5,r,0,8,86,11,35
+Towards Building Affect sensitive Word Distributions,Kushal Chawla,Sopan Khosla,Niyati Chhaya,kchawla@adobe.com,skhosla@adobe.com,nchhaya@adobe.com,6,r,0,3,2,7,4
+Unsupervised Learning of Entailment-Vector Word Embeddings,James Henderson,,,james.henderson@idiap.ch,,,3,r,0,25,-2,-2,25
+Overcoming the vanishing gradient problem in plain recurrent networks,Yuhuang Hu,Adrian Huber,Shih-Chii Liu,yuhuang.hu@ini.uzh.ch,huberad@ini.uzh.ch,shih@ini.uzh.ch,4,r,1,6,11,36,18
+VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop,Yaniv Taigman,Lior Wolf,Adam Polyak,yaniv@fb.com,wolf@fb.com,adampolyak@fb.com,8,ap,1,19,56,6,27
+Graph Topological Features via GAN,Weiyi Liu,Hal Cooper,Min-Hwan Oh,weiyiliu@us.ibm.com,hal.cooper@columbia.edu,m.oh@columbia.edu,3,r,0,27,4,5,12
+Improve Training Stability of Semi-supervised Generative Adversarial Networks with Collaborative Training,Dalei Wu,Xiaohua Liu,,daleiwu@gmail.com,dalei.wu@huawei.com,liuxh3@huawei.com,3,r,0,22,68,-1,30
+Disentangled activations in deep networks,Mikael Kågebäck,Olof Mogren,,kageback@chalmers.se,olof@mogren.one,,6,r,0,7,8,-2,8
+On the State of the Art of Evaluation in Neural Language Models,Gábor Melis,Chris Dyer,Phil Blunsom,melisgl@google.com,cdyer@cs.cmu.edu,phil.blunsom@cs.ox.ac.uk,7,ap,1,7,59,45,37
+Interpretable Classification via Supervised Variational Autoencoders and Differentiable Decision Trees,Eleanor Quint,Garrett Wirka,Jacob Williams,pquint@cse.unl.edu,gwirka@cse.unl.edu,jwilliam@cse.unl.edu,3,r,0,1,1,8,3
+Zero-shot Cross Language Text Classification,Dan Svenstrup,Jonas Meinertz Hansen,Ole Winther,dsve@dtu.dk,jonas@meinertz.org,olwi@dtu.dk,4,r,0,-1,2,44,15
+Long Term Memory Network for Combinatorial Optimization Problems,Hazem A. A. Nomer,Abdallah Aboutahoun,Ashraf Elsayed,hazemahmed@alexu.edu.eg,abdallah_aboutahoun@alexu.edu.eg,ashraf.elsayed@alexu.edu.eg,4,r,0,-1,4,30,11
+Autoregressive Convolutional Neural Networks for Asynchronous Time Series,Mikolaj Binkowski,Gautier Marti,Philippe Donnat,mikbinkowski@gmail.com,gautier.marti@gmail.com,pdonnat@helleborecapital.com,4,r,1,5,7,10,7
+Towards Unsupervised Classification with Deep Generative Models,Dimitris Kalatzis,Konstantia Kotta,Ilias Kalamaras,dkal@iti.gr,ntina_kotta@yahoo.com,kalamar@iti.gr,4,r,0,2,-1,6,3
+Topic-Based Question Generation,Wenpeng Hu,Bing Liu,Rui Yan,wenpeng.hu@pku.edu.cn,liub@cs.uic.edu,ruiyan@pku.edu.cn,3,wp,0,-1,90,28,39
+Variance Regularized Counterfactual Risk Minimization via Variational Divergence Minimization,Hang Wu,,,hwu340@gatech.edu,hangwu@gatech.edu,,4,r,0,30,-1,-2,15
+Lifelong Learning with Output Kernels,Keerthiram Murugesan,Jaime Carbonell,,kmuruges@cs.cmu.edu,jgc@cs.cmu.edu,,3,r,0,8,73,-2,40
+Deep Continuous Clustering,Sohil Atul Shah,Vladlen Koltun,,sohilas@umd.edu,vkoltun@gmail.com,,6,r,1,6,63,-2,34
+Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks,Xu Sun,Bingzhen Wei,Xuancheng Ren,xusun@pku.edu.cn,weibz@pku.edu.cn,renxc@pku.edu.cn,4,r,1,48,4,-1,17
+Semantic Code Repair using Neuro-Symbolic Transformation Networks,Jacob Devlin,Jonathan  Uesato,Rishabh Singh,jacobdevlin@google.com,juesato@gmail.com,risin@microsoft.com,4,wp,1,-1,-1,28,9
+Simple and efficient architecture search for Convolutional Neural Networks,Thomas Elsken,Jan Hendrik Metzen,Frank Hutter,thomas.elsken@de.bosch.com,janhendrik.metzen@de.bosch.com,fh@cs.uni-freiburg.de,6,wp,1,4,19,52,25
+Natural Language Inference with External Knowledge,Qian Chen,Xiaodan Zhu,Zhen-Hua Ling,cq1231@mail.ustc.edu.cn,xiaodan.zhu@queensu.ca,zhling@ustc.edu.cn,6,wp,0,8,27,27,21
+AirNet: a machine learning dataset for air quality forecasting,Songgang Zhao,Xingyuan Yuan,Da Xiao,gfgkmn@gmail.com,yuan@caiyunapp.com,xiaoda99@gmail.com,5,r,0,-1,26,61,29
+Recursive Binary Neural Network Learning Model  with 2-bit/weight Storage Requirement,Tianchan Guan,Xiaoyang Zeng,Mingoo Seok,tg2569@columbia.edu,xyzeng@fudan.edu,ms4415@columbia.edu,6,r,0,-1,23,28,17
+Learning Dynamic State Abstractions for Model-Based Reinforcement Learning,Lars Buesing,Theophane Weber,Sebastien Racaniere,lbuesing@google.com,theophane@google.com,sracaniere@google.com,6,r,0,22,17,9,16
+Towards Effective GANs for Data Distributions with Diverse Modes,Sanchit Agrawal,Gurneet Singh,Mitesh Khapra,sanchit@cse.iitm.ac.in,garry@cse.iitm.ac.in,miteshk@cse.iitm.ac.in,6,wp,0,4,-1,20,8
+Unsupervised Adversarial Anomaly  Detection using One-Class Support Vector Machines,Prameesha Sandamal Weerasinghe,Tansu Alpcan,Sarah Monazam Erfani,pweerasinghe@student.unimelb.edu.au,tansu.alpcan@unimelb.edu.au,sarah.erfani@unimelb.edu.au,4,r,0,-1,40,-1,13
+Estimation of cross-lingual news similarities using text-mining methods,Zhouhao Wang,Enda Liu,Hiroki Sakaji,wangzhouhao94@gmail.com,m2015eliu@socsim.org,sakaji@sys.t.u-tokyo.ac.jp,2,r,0,-1,-1,9,3
+Data-driven Feature Sampling for Deep Hyperspectral Classification and Segmentation,William M. Severa,Jerilyn A. Timlin,Suraj Kholwadwala,wmsever@sandia.gov,jatimli@sandia.gov,skholwadwala@gmail.com,3,r,1,-1,-1,-1,0
+Grouping-By-ID: Guarding Against Adversarial Domain Shifts,Christina Heinze-Deml,Nicolai Meinshausen,,heinzedeml@stat.math.ethz.ch,meinshausen@stat.math.ethz.ch,,7,r,0,8,32,-2,20
+"MACH: Embarrassingly parallel $K$-class classification in $O(d\log{K})$ memory and $O(K\log{K} + d\log{K})$ time, instead of $O(Kd)$",Qixuan Huang,Anshumali Shrivastava,Yiqiu Wang,qh5@rice.edu,anshumali@rice.edu,yiqiu.wang@rice.edu,6,r,0,-1,17,-1,6
+SHADE: SHAnnon DEcay Information-Based Regularization for Deep Learning,Michael Blot,Thomas Robert,Nicolas Thome,michael.blot@lip6.fr,thomas.robert@lip6.fr,nicolas.thome@lip6.fr,4,r,0,4,150,28,61
+Lifelong Generative Modeling,Jason Ramapuram,Magda Gregorova,Alexandros Kalousis,jason.ramapuram@etu.unige.ch,magda.gregorova@unige.ch,alexandros.kalousis@hesge.ch,9,r,1,2,3,28,11
+A Self-Training Method for Semi-Supervised GANs,Alan Do-Omri,Dalei Wu,Xiaohua Liu,alan.do-omri@mail.mcgill.ca,daleiwu@gmail.com,liuxiaohua3@huawei.com,3,r,1,-1,22,68,30
+Neighbor-encoder,Chin-Chia Michael Yeh,Yan Zhu,Evangelos E. Papalexakis,myeh003@ucr.edu,yzhu015@ucr.edu,epapalex@cs.ucr.edu,5,r,0,14,67,26,36
+Benefits of Depth for Long-Term Memory of Recurrent Networks,Yoav Levine,Or Sharir,Amnon Shashua,yoavlevine@cs.huji.ac.il,or.sharir@cs.huji.ac.il,shashua@cs.huji.ac.il,5,wp,0,6,8,67,27
+A Neural Method for Goal-Oriented Dialog Systems to interact with Named Entities,Janarthanan Rajendran,Jatin Ganhotra,Xiaoxiao Guo,rjana@umich.edu,jatinganhotra@us.ibm.com,xiaoxiao.guo@ibm.com,6,r,0,6,5,13,8
+Loss Functions for Multiset Prediction,Sean Welleck,Zixin Yao,Yu Gai,wellecks@nyu.edu,zy566@nyu.edu,yg1246@nyu.edu,5,r,1,5,-1,-1,2
+Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction,Da Xiao,Jo-Yu Liao,Xingyuan Yuan,xiaoda99@gmail.com,liaoruoyu@caiyunapp.com,yuan@caiyunapp.com,3,ap,1,61,-1,26,29
+Efficiently applying attention to sequential data with the Recurrent Discounted Attention unit,Brendan Maginnis,Pierre Richemond,,brendan.maginnis@gmail.com,pierre.richemond@gmail.com,,4,r,1,2,21,-2,12
+Comparison of Paragram and GloVe Results for Similarity Benchmarks,Jakub Dutkiewicz,Czesław Jędrzejek,,jakub.dutkiewicz@put.poznan.pl,czeslaw.jedrzejek@put.poznan.pl,,2,r,0,-1,-1,-2,0
+Domain Adaptation for Deep Reinforcement Learning in Visually Distinct Games,Dino S. Ratcliffe,Luca Citi,Sam Devlin,d.ratcliffe@qmul.ac.uk,lciti@essex.ac.uk,sam.devlin@york.ac.uk,3,r,0,-1,57,15,24
+Flexible Prior Distributions for Deep Generative Models,Yannic Kilcher,Aurelien Lucchi,Thomas Hofmann,yannic.kilcher@inf.ethz.ch,aurelien.lucchi@inf.ethz.ch,thomas.hofmann@inf.ethz.ch,6,r,1,4,24,58,29
+Ego-CNN: An Ego Network-based Representation of Graphs Detecting Critical Structures,Ruo-Chun Tzeng,Shan-Hung Wu,,rctzeng@datalab.cs.nthu.edu.tw,shwu@cs.nthu.edu.tw,,7,r,0,-1,-1,-2,0
+Lifelong Learning by Adjusting Priors,Ron Amit,Ron Meir,,ronamit@campus.technion.ac.il,rmeir@ee.technion.ac.il,,6,r,0,-1,37,-2,18
+A Simple Fully Connected Network for Composing Word Embeddings from Characters,Michael Traynor,Thomas Trappenberg,,mike.sk.traynor@gmail.com,trappenberg@gmail.com,,3,r,0,29,26,-2,28
+"Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients",Lukas Balles,Philipp Hennig,,lukas.balles@tuebingen.mpg.de,ph@tue.mpg.de,,4,r,1,5,26,-2,16
+Censoring Representations with Multiple-Adversaries over Random Subspaces,Yusuke Iwasawa,Kotaro Nakayama,Yutaka Matsuo,iwasawa@weblab.t.u-tokyo.ac.jp,nakayama@weblab.t.u-tokyo.ac.jp,matsuo@weblab.t.u-tokyo.ac.jp,6,r,0,7,19,37,21
+Evolutionary Expectation Maximization for Generative Models with Binary Latents,Enrico Guiraud,Jakob Drefs,Joerg Luecke,enrico.guiraud@cern.ch,jakob.heinrich.drefs@uni-oldenburg.de,joerg.luecke@uni-oldenburg.de,4,r,0,-1,-1,17,6
+Learnability of Learned Neural Networks,Rahul Anand Sharma,Navin Goyal,Monojit Choudhury,t-rahsha@microsoft.com,navingo@microsoft.com,monojitc@microsoft.com,7,r,0,3,9,23,12
+Compact Neural Networks based on the Multiscale Entanglement Renormalization Ansatz,Andrew Hallam,Edward Grant,Vid Stojevic,andrew.hallam.10@ucl.ac.uk,edward.grant.16@ucl.ac.uk,vstojevic@gtn.ai,5,r,1,48,73,8,43
+Online Hyper-Parameter Optimization,Damien Vincent,Sylvain Gelly,Nicolas Le Roux,damienv@google.com,sylvain.gelly@gmail.com,nicolas@le-roux.name,4,r,0,39,25,24,29
+Learning to Teach,Yang Fan,Fei Tian,Tao Qin,fyabc@mail.ustc.edu.cn,fetia@microsoft.com,taoqin@microsoft.com,8,ap,1,51,15,35,34
+Word2net: Deep Representations of Language,Maja Rudolph,Francisco Ruiz,David Blei,marirudolph@gmail.com,f.ruiz@columbia.edu,david.blei@columbia.edu,5,r,0,5,13,85,34
+The loss surface and expressivity of deep convolutional neural networks,Quynh Nguyen,Matthias Hein,,quynh@cs.uni-saarland.de,hein@cs.uni-saarland.de,,4,wp,0,9,39,-2,24
+Combination of Supervised and Reinforcement Learning For Vision-Based Autonomous Control,Dmitry Kangin,Nicolas Pugeault,,d.kangin@exeter.ac.uk,n.pugeault@exeter.ac.uk,,4,r,0,8,22,-2,15
+Gating out sensory noise in a spike-based Long Short-Term Memory network,Davide Zambrano,Isabella Pozzi,Roeland Nusselder,d.zambrano@cwi.nl,isabella.pozzi@cwi.nl,roeland.nusselder@gmail.com,5,r,0,9,2,-1,4
+Learning to Infer Graphics Programs from Hand-Drawn Images,Kevin Ellis,Daniel Ritchie,Armando Solar-Lezama,ellisk@mit.edu,daniel_richie@brown.edu,asolar@csail.mit.edu,4,r,1,7,15,30,17
+Federated Learning: Strategies for Improving Communication Efficiency,Jakub Konečný,H. Brendan McMahan,Felix X. Yu,konkey@google.com,mcmahan@google.com,felixyu@google.com,5,r,1,16,32,22,23
+Convolutional Sequence Modeling Revisited,Shaojie Bai,J. Zico Kolter,Vladlen Koltun,shaojieb@cs.cmu.edu,zkolter@cs.cmu.edu,vkoltun@gmail.com,8,wp,0,6,34,63,34
+Searching for Activation Functions,Prajit Ramachandran,Barret Zoph,Quoc V. Le,prajitram@gmail.com,barretzoph@google.com,qvl@google.com,4,wp,1,7,17,74,33
+On Convergence and Stability of GANs,Naveen Kodali,James Hays,Jacob Abernethy,nkodali3@gatech.edu,hays@gatech.edu,prof@gatech.edu,5,r,1,2,39,23,21
+Training Autoencoders by Alternating Minimization,Sneha Kudugunta,Adepu Shankar,Surya Chavali,cs14btech11020@iith.ac.in,cs14resch11001@iith.ac.in,cs13b1028@iith.ac.in,6,r,0,2,-1,-1,1
+Learning temporal evolution of probability distribution with Recurrent Neural Network,Kyongmin Yeo,Igor Melnyk,Nam Nguyen,kyeo@us.ibm.com,igor.melnyk@ibm.com,nnguyen@us.ibm.com,6,r,0,15,12,67,31
+Causal Generative Neural Networks,Olivier Goudet,Diviyan Kalainathan,David Lopez-Paz,olivier.goudet@lri.fr,diviyan.kalainathan@lri.fr,dlp@fb.com,0,r,1,6,4,-1,3
+LEARNING TO ORGANIZE KNOWLEDGE WITH N-GRAM MACHINES,Fan Yang,Jiazhong Nie,William W. Cohen,fanyang1@cs.cmu.edu,niejiazhong@google.com,wcohen@cs.cmu.edu,4,wp,0,51,-1,79,43
+Stabilizing GAN Training with Multiple Random Projections,Behnam Neyshabur,Srinadh Bhojanapalli,Ayan Chakrabarti,bneyshabur@ttic.edu,srinadh@ttic.edu,ayan@wustl.edu,5,r,1,19,15,18,17
+Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm,Chelsea Finn,Sergey Levine,,cbfinn@eecs.berkeley.edu,svlevine@eecs.berkeley.edu,,6,ap,1,31,74,-2,52
+TCAV: Relative concept importance testing with Linear Concept Activation Vectors,Been Kim,Justin Gilmer,Martin Wattenberg,beenkim@google.com,viegas@google.com,wattenberg@google.com,4,r,0,56,15,48,40
+Shifting Mean Activation Towards Zero with Bipolar Activation Functions,Lars Hiller Eidnes,Arild Nøkland,,larseidnes@gmail.com,arild.nokland@gmail.com,,4,wp,1,-1,4,-2,2
+Continuous-Time Flows for Efficient Inference and Density Estimation,Changyou Chen,Chunyuan Li,Liqun Chen,cchangyou@gmail.com,chunyuan.li@duke.edu,lc267@duke.edu,3,r,1,23,27,10,20
+Large-scale Cloze Test Dataset Designed by Teachers,Qizhe Xie,Guokun Lai,Zihang Dai,qizhex@gmail.com,guokun@cs.cmu.edu,zander.dai@gmail.com,4,r,0,7,6,-1,4
+Deep Learning is Robust to Massive Label Noise,David Rolnick,Andreas Veit,Serge Belongie,drolnick@mit.edu,av443@cornell.edu,sjb344@cornell.edu,5,r,1,11,15,84,37
+Unsupervised Hierarchical Video Prediction,Nevan Wichers,Dumitru Erhan,Honglak Lee,wichersn@google.com,dumitru@google.com,honglak@google.com,4,r,0,1,32,61,31
+One-shot and few-shot learning of word embeddings,Andrew Kyle Lampinen,James Lloyd McClelland,,lampinen@stanford.edu,mcclelland@stanford.edu,,4,r,1,4,-1,-2,2
+Unbiasing Truncated Backpropagation Through Time,Corentin Tallec,Yann Ollivier,,corentin.tallec@polytechnique.edu,yann@yann-ollivier.org,,6,r,1,5,3,-2,4
+Joint autoencoders: a flexible meta-learning framework,Baruch Epstein,Ron Meir,Tomer Michaeli,baruch.epstein@gmail.com,rmeir@ee.technion.ac.il,tomer.m@ee.technion.ac.il,4,r,0,-1,37,17,18
+On the Use of Word Embeddings Alone to Represent Natural Language Sequences,Dinghan Shen,Guoyin Wang,Wenlin Wang,dinghan.shen@duke.edu,guoyin.wang@duke.edu,wenlin.wang@duke.edu,7,r,0,14,38,13,22
+Byte-Level Recursive Convolutional Auto-Encoder for Text,Xiang Zhang,Yann LeCun,,xiang@cs.nyu.edu,yann@cs.nyu.edu,,7,r,1,9,122,-2,66
+Phase Conductor on Multi-layered Attentions for Machine Comprehension,Rui Liu,Wei Wei,Weiguang Mao,ult.rui.liu@gmail.com,weiwei@cs.cmu.edu,mwg10.thu@gmail.com,8,r,1,69,120,-1,63
+Gaussian Prototypical Networks for Few-Shot Learning on Omniglot,Stanislav Fort,,,sfort1@stanford.edu,,,4,r,1,4,-2,-2,4
+Anomaly Detection with Generative Adversarial Networks,Lucas Deecke,Robert Vandermeulen,Lukas Ruff,ldeecke@gmail.com,vandermeulen@cs.uni-kl.de,contact@lukasruff.com,4,r,0,5,5,3,4
+Learning Gaussian Policies from Smoothed Action Value Functions,Ofir Nachum,Mohammad Norouzi,George Tucker,ofirnachum@google.com,mnorouzi@google.com,gjt@google.com,6,r,0,13,26,82,40
+Spectral Graph Wavelets for Structural Role Similarity in Networks,Claire Donnat,Marinka Zitnik,David Hallac,cdonnat@stanford.edu,marinka@cs.stanford.edu,hallac@stanford.edu,5,r,0,5,17,8,10
+Adversarial Spheres,Justin Gilmer,Luke Metz,Fartash Faghri,gilmer@google.com,lmetz@google.com,fartash.faghri@google.com,4,wp,1,15,8,4,9
+Modifying memories in a Recurrent Neural Network Unit,Vlad Velici,Adam Prügel-Bennett,,vsv1g12@soton.ac.uk,apb@soton.ac.uk,,4,r,0,-1,-1,-2,0
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,Tuomas Haarnoja,Aurick Zhou,Pieter Abbeel,haarnoja@berkeley.edu,azhou42@berkeley.edu,pabbeel@cs.berkeley.edu,3,wp,0,8,5,94,36
+Challenges in Disentangling Independent Factors of Variation,Attila  Szabo,Qiyang  Hu,Tiziano  Portenier,szabo@inf.unibe.ch,hu@inf.unibe.ch,portenier@inf.unibe.ch,6,wp,1,5,5,-1,3
+Ground-Truth Adversarial Examples,Nicholas Carlini,Guy Katz,Clark Barrett,nicholas@carlini.com,katz911@gmail.com,barrett@cs.stanford.edu,5,r,0,20,13,43,25
+Learning Parsimonious Deep Feed-forward Networks,Zhourong Chen,Xiaopeng Li,Nevin L. Zhang,zchenbb@cse.ust.hk,xlibo@cse.ust.hk,lzhang@cse.ust.hk,5,r,0,6,5,33,15
+Learning Deep Generative Models of Graphs,Yujia Li,Oriol Vinyals,Chris Dyer,yujiali@google.com,vinyals@google.com,cdyer@google.com,5,wp,1,16,67,59,47
+An information-theoretic analysis of deep latent-variable models,Alex Alemi,Ben Poole,Ian Fischer,alemi@google.com,poole@cs.stanford.edu,iansf@google.com,5,r,0,17,16,15,16
+Trust-PCL: An Off-Policy Trust Region Method for Continuous Control,Ofir Nachum,Mohammad Norouzi,Kelvin Xu,ofirnachum@google.com,mnorouzi@google.com,iamkelvinxu@gmail.com,6,ap,0,13,26,10,16
+Modular Continual Learning in a Unified Visual Environment,Kevin T. Feigelis,Blue Sheffer,Daniel L. K. Yamins,feigelis@stanford.edu,bsheffer@stanford.edu,yamins@stanford.edu,6,ap,1,1,2,-1,1
+PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples,Yang Song,Taesup Kim,Sebastian Nowozin,yangsong@cs.stanford.edu,taesup.kim@umontreal.ca,sebastian.nowozin@microsoft.com,7,ap,1,7,9,40,19
+BinaryFlex: On-the-Fly Kernel Generation in Binary Convolutional Networks,Vincent W.-S. Tseng,Sourav Bhattachary,Javier Fernández Marqués,wt262@cornell.edu,sourav.bhattacharya@nokia-bell-labs.com,javier.fernandezmarques@cs.ox.ac.uk,5,r,0,-1,19,4,8
+Neural Networks for irregularly observed continuous-time Stochastic Processes,Francois W. Belletti,Alexander Ku,Joseph E. Gonzalez,francois.belletti@berkeley.edu,alexku@berkeley.edu,jegonzal@berkeley.edu,5,r,0,-1,50,32,27
+Learning to diagnose from scratch by exploiting dependencies among labels,Li Yao,Eric Poblenz,Dmitry Dagunts,li@enlitic.com,eric@enlitic.com,dmitry@enlitic.com,6,r,1,62,-1,-1,21
+Towards Provable Control for Unknown Linear Dynamical Systems,Sanjeev Arora,Elad Hazan,Holden Lee,arora@cs.princeton.edu,ehazan@cs.princeton.edu,holdenl@princeton.edu,4,wp,0,61,45,15,40
+Depth separation and weight-width trade-offs for sigmoidal neural networks,Amit Deshpande,Navin Goyal,Sushrut Karmalkar,amitdesh@microsoft.com,navingo@microsoft.com,sushrutk@cs.utexas.edu,6,r,0,14,9,3,9
+Time Limits in Reinforcement Learning,Fabio Pardo,Arash Tavakoli,Vitaly Levdik,f.pardo@imperial.ac.uk,a.tavakoli@imperial.ac.uk,v.levdik@imperial.ac.uk,5,r,1,2,3,-1,2
+Learning Independent Features with Adversarial Nets for Non-linear ICA,Philemon Brakel,Yoshua Bengio,,pbpop3@gmail.com,yoshua.bengio@umontreal.ca,,5,r,1,18,158,-2,88
+Discovering the mechanics of hidden neurons,Simon Carbonnelle,Christophe De Vleeschouwer,,simon.carbonnelle@uclouvain.be,christophe.devleeschouwer@uclouvain.be,,7,r,0,2,36,-2,19
+DNN Model Compression Under Accuracy Constraints,Soroosh Khoram,Jing Li,,khoram@wisc.edu,jli@ece.wisc.edu,,4,r,0,6,127,-2,66
+Using Deep Reinforcement Learning to Generate Rationales for Molecules,Benson Chen,Connor Coley,Regina Barzilay,bensonc@mit.edu,ccoley@mit.edu,regina@csail.mit.edu,5,r,0,2,18,-1,7
+Fast Node Embeddings: Learning Ego-Centric Representations,Tiago Pimentel,Adriano Veloso,Nivio Ziviani,tpimentel@dcc.ufmg.br,adrianov@dcc.ufmg.br,nivio@dcc.ufmg.br,5,wp,0,12,27,40,26
+HybridNet: A Hybrid Neural Architecture to Speed-up Autoregressive  Models,Yanqi Zhou,Wei Ping,Sercan Arik,zhouyanqi@baidu.com,pingwei01@baidu.com,sercanarik@baidu.com,6,r,0,13,11,17,14
+Sparse Regularized Deep Neural Networks For Efficient Embedded Learning,Jia Bi,,,jb4e14@soton.ac.uk,,,4,r,0,8,-2,-2,8
+GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets,Jinsung Yoon,James Jordon,Mihaela van der Schaar,jsyoon0823@gmail.com,james.jordon@hertford.ox.ac.uk,mihaela.vanderschaar@oxford-man.ox.ac.uk,6,ap,0,12,15,55,27
+Network Signatures from Image Representation of Adjacency Matrices: Deep/Transfer Learning for Subgraph Classification,Kshiteesh Hegde,Malik Magdon-Ismail,Ram Ramanathan,hegdek2@rpi.edu,magdon@rpi.edu,ram@gotenna.com,3,r,1,2,-1,46,16
+SCAN: Learning Hierarchical Compositional Visual Concepts,Irina Higgins,Nicolas Sonnerat,Loic Matthey,irinah@google.com,sonnerat@google.com,lmatthey@google.com,5,ap,1,9,-1,15,8
+Variance-based Gradient Compression for Efficient Distributed Deep Learning,Yusuke Tsuzuku,Hiroto Imachi,Takuya Akiba,tsuzuku@ms.k.u-tokyo.ac.jp,imachi@preferred.jp,akiba@preferred.jp,6,wp,1,4,-1,19,8
+Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks,Yau-Shian Wang,Hung-Yi Lee,,king6101@gmail.com,tlkagkb93901106@gmail.com,,5,r,1,2,18,-2,10
+Subspace Network: Deep Multi-Task Censored Regression for Modeling Neurodegenerative Diseases,Mengying Sun,Inci M. Baytas,Zhangyang Wang,sunmeng2@msu.edu,baytasin@msu.edu,atlaswang@tamu.edu,4,r,1,-1,6,26,11
+UCB EXPLORATION VIA Q-ENSEMBLES,Richard Y. Chen,Szymon Sidor,Pieter Abbeel,richardchen@openai.com,szymon@openai.com,pabbeel@cs.berkeley.edu,6,r,0,12,12,94,39
+Convergence rate of sign stochastic gradient descent for non-convex functions,Jeremy Bernstein,Kamyar Azizzadenesheli,Yu-Xiang Wang,bernstein@caltech.edu,kazizzad@uci.edu,yuxiangw@cs.cmu.edu,4,r,0,4,10,22,12
+Empirical Analysis of the Hessian of Over-Parametrized Neural Networks,Levent Sagun,Utku Evci,V. Ugur Guney,leventsagun@gmail.com,ue225@nyu.edu,vug@fb.com,5,wp,1,12,4,6,7
+CNNs as Inverse Problem Solvers and Double Network Superresolution,Cem TARHAN,Gözde BOZDAĞI AKAR,,cemtarhan@aselsan.com.tr,bozdagi@metu.edu.tr,,6,r,0,-1,-1,-2,0
+IVE-GAN: Invariant Encoding Generative Adversarial Networks,Robin Winter,Djork-Arnè Clevert,,robin.winter@bayer.com,djork-arne.clevert@bayer.com,,5,r,0,2,19,-2,10
+Composable Planning with Attributes,Amy Zhang,Adam Lerer,Sainbayar Sukhbaatar,amyzhang@fb.com,alerer@fb.com,sainbar@cs.nyu.edu,5,r,1,7,17,11,12
+How do deep convolutional neural networks learn from raw audio waveforms?,Yuan Gong,Christian Poellabauer,,ygong1@nd.edu,cpoellab@nd.edu,,3,r,0,27,26,-2,26
+Relevance of Unsupervised Metrics in Task-Oriented Dialogue for Evaluating Natural Language Generation,Shikhar Sharma,Layla El Asri,Hannes Schulz,shikhar.sharma@microsoft.com,layla.elasri@microsoft.com,hannes.schulz@microsoft.com,4,r,1,8,12,18,13
+Evaluation of generative networks through their data augmentation capacity,Timothée Lesort,Florian Bordes,Jean-Francois Goudou,t.lesort@gmail.com,florian.bordes@umontreal.ca,jean-francois.goudou@thalesgroup.com,3,r,0,7,2,-1,3
+FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling,Jie Chen,Tengfei Ma,Cao Xiao,chenjie@us.ibm.com,tengfei.ma1@ibm.com,cxiao@us.ibm.com,6,ap,1,18,12,26,19
+Interpretable and Pedagogical Examples,Smitha Milli,Pieter Abbeel,Igor Mordatch,smilli@berkeley.edu,pabbeel@cs.berkeley.edu,igor.mordatch@gmail.com,8,r,1,7,94,28,43
+On the Generalization Effects of DenseNet Model Structures ,Yin Liu,Vincent Chen,,liuyin14@mails.tsinghua.edu.cn,389091983@qq.com,,2,r,0,78,18,-2,48
+INTERPRETATION OF NEURAL NETWORK IS FRAGILE,Amirata Ghorbani,Abubakar Abid,James Zou,amiratag@stanford.edu,a12d@stanford.edu,jamesz@stanford.edu,6,r,0,5,9,28,14
+Faster Discovery of Neural Architectures by Searching for Paths in a Large Model,Hieu Pham,Melody Y. Guan,Barret Zoph,hyhieu@cmu.edu,mguan@stanford.edu,barretzoph@google.com,6,wp,0,9,6,17,11
+Deep Lipschitz networks and Dudley GANs,Ehsan Abbasnejad,Javen Shi,Anton van den Hengel,ehsan.abbasnejad@adelaide.edu.au,javen.shi@adelaide.edu.au,anton.vandenhengel@adelaide.edu.au,8,r,0,14,28,56,33
+Acquiring Target Stacking Skills by Goal-Parameterized Deep Reinforcement Learning,Wenbin Li,Jeannette Bohg,Mario Fritz,wenbinli@mpi-inf.mpg.de,bohg@stanford.edu,mfritz@mpi-inf.mpg.de,5,r,1,12,22,45,26
+XGAN: Unsupervised Image-to-Image Translation for many-to-many Mappings,Amelie Royer,Konstantinos Bousmalis,Stephan Gouws,aroyer@ist.ac.at,konstantinos@google.com,sgouws@google.com,3,r,1,3,12,13,9
+Meta-Learning Transferable Active Learning Policies by Deep Reinforcement Learning,Kunkun Pang,Mingzhi Dong,Timothy Hospedales,k.pang@ed.ac.uk,mingzhi.dong.13@ucl.ac.uk,t.hospedales@ed.ac.uk,6,r,1,-1,7,41,16
+Feature Map Variational Auto-Encoders,Lars Maaløe,Ole Winther,,larsma@dtu.dk,olwi@dtu.dk,,5,r,0,8,44,-2,26
+Structured Exploration via Hierarchical Variational Policy Networks,Stephan Zheng,Yisong Yue,,stephan@caltech.edu,yyue@caltech.edu,,4,r,0,27,30,-2,28
+Bayesian Time Series Forecasting with Change Point and Anomaly Detection,Anderson Y. Zhang,Miao Lu,Deguang Kong,ye.zhang@yale.edu,mlu@oath.com,dkong@oath.com,5,r,0,59,8,17,28
+An empirical study on evaluation metrics of generative adversarial networks,Gao Huang,Yang Yuan,Qiantong Xu,gh349@cornell.edu,yy528@cornell.edu,qx57@cornell.edu,8,r,1,21,15,6,14
+Explaining the Mistakes of Neural Networks with Latent Sympathetic Examples,Riaan Zoetmulder,Efstratios Gavves,Peter O'Connor,riaan.zoetmulder@student.uva.nl,egavves@uva.nl,peter.ed.oconnor@gmail.com,4,r,0,-1,26,31,19
+FAST READING COMPREHENSION WITH CONVNETS,Felix Wu,Ni Lao,John Blitzer,fw245@cornell.edu,nlao@google.com,blitzer@google.com,4,r,0,10,16,24,17
+Block-Sparse Recurrent Neural Networks,Sharan Narang,Eric Undersander,Gregory Diamos,sharan@baidu.com,undersandereric@baidu.com,gdiamos@baidu.com,5,r,1,10,-1,25,12
+Bias-Variance Decomposition for Boltzmann Machines,Mahito Sugiyama,Koji Tsuda,Hiroyuki Nakahara,mahito@nii.ac.jp,tsuda@k.u-tokyo.ac.jp,hiro@brain.riken.jp,5,r,0,9,42,26,26
+Unseen Class Discovery in Open-world Classification,Lei Shu,Hu Xu,Bing Liu,lshu3@uic.edu,hxu48@uic.edu,liub@uic.edu,5,r,1,8,9,90,36
+DLVM: A modern compiler infrastructure for deep learning systems,Richard Wei,Lane Schwartz,Vikram Adve,xwei12@illinois.edu,lanes@illinois.edu,vadve@illinois.edu,5,wp,1,3,11,47,20
+Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design,Daniel Neil,Marwin Segler,Laura Guasch,daniel.neil@benevolent.ai,marwin.segler@benevolent.ai,laura.guasch@benevolent.ai,4,wp,0,18,12,-1,10
+Transfer Learning to Learn with Multitask Neural Model Search,Catherine Wong,Andrea Gesmundo,,catwong@cs.stanford.edu,agesmundo@google.com,,5,r,1,29,8,-2,18
+Multiple Source Domain Adaptation with Adversarial Learning,Han Zhao,Shanghang Zhang,Guanhang Wu,han.zhao@cs.cmu.edu,shanghaz@andrew.cmu.edu,guanhanw@andrew.cmu.edu,6,wp,0,11,116,5,44
+Deep Generative Dual Memory Network for Continual Learning,Nitin Kamra,Umang Gupta,Yan Liu,nkamra@usc.edu,umanggup@usc.edu,yanliu.cs@usc.edu,5,r,1,4,-1,43,16
+Learning to Infer,Joseph Marino,Yisong Yue,Stephan Mandt,jmarino@caltech.edu,yyue@caltech.edu,stephan.mandt@disneyresearch.com,5,wp,0,4,30,19,18
+Latent Space Oddity: on the Curvature of Deep Generative Models,Georgios Arvanitidis,Lars Kai Hansen,Søren Hauberg,gear@dtu.dk,lkai@dtu.dk,sohau@dtu.dk,3,ap,1,4,61,18,28
+The Context-Aware Learner,Conor Durkan,Amos Storkey,Harrison Edwards,conor.durkan@ed.ac.uk,a.storkey@ed.ac.uk,h.l.edwards@sms.ed.ac.uk,6,r,0,4,35,9,16
+When and where do feed-forward neural networks learn localist representations?,Ella M. Gale,Nicolas Martin,Jeffrey Bowers,eg16993@bristol.ac.uk,nm13850@bristol.ac.uk,j.bowers@bristol.ac.uk,3,r,1,-1,1,18,6
+Generating Differentially Private Datasets Using GANs,Aleksei Triastcyn,Boi Faltings,,aleksei.triastcyn@epfl.ch,boi.faltings@epfl.ch,,6,r,0,3,62,-2,32
+Auxiliary Guided Autoregressive Variational Autoencoders,Thomas Lucas,Jakob Verbeek,,thomas.lucas@inria.fr,jakob.verbeek@inria.fr,,5,r,1,4,47,-2,26
+Orthogonal Recurrent Neural Networks with Scaled Cayley Transform,Kyle Helfrich,Devin Willmott,Qiang Ye,kyle.helfrich@uky.edu,devin.willmott@uky.edu,qiang.ye@uky.edu,7,r,1,-1,3,30,11
+Can Deep Reinforcement Learning solve Erdos-Selfridge-Spencer Games?,Maithra Raghu,Alex Irpan,Jacob Andreas,maithrar@gmail.com,alexirpan@google.com,j.d.andreas@gmail.com,5,wp,1,9,6,22,12
+DNN Representations as Codewords: Manipulating Statistical Properties via Penalty Regularization,Daeyoung Choi,Changho Shin,Hyunghun Cho,choid@snu.ac.kr,ch.shin@snu.ac.kr,webofthink@snu.ac.kr,5,r,0,9,2,4,5
+A Tensor Analysis on Dense Connectivity via Convolutional Arithmetic Circuits,Emilio Rafael Balda,Arash Behboodi,Rudolf Mathar,emilio.balda@ti.rwth-aachen.de,arash.behboodi@ti.rwth-aachen.de,mathar@ti.rwth-aachen.de,4,r,0,4,-1,33,12
+Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach,Pierre Courtiol,Eric W. Tramel,Marc Sanselme,pierre.courtiol@owkin.com,eric.tramel@owkin.com,marc.sanselme@owkin.com,5,r,1,-1,16,-1,5
+Realtime query completion via deep language models,Po-Wei Wang,J. Zico Kolter,Vijai Mohan,poweiw@cs.cmu.edu,zkolter@cs.cmu.edu,vijaim@amazon.com,4,r,0,7,34,6,16
+LEARNING SEMANTIC WORD RESPRESENTATIONS VIA TENSOR FACTORIZATION,Eric Bailey,Charles Meyer,Shuchin Aeron,popcorncolonel@gmail.com,cmey63@gmail.com,shuchin@ece.tufts.edu,5,r,0,7,42,18,22
+Finding ReMO (Related Memory Object): A Simple neural architecture for Text based Reasoning,Jihyung Moon,Hyochang Yang,Sungzoon Cho,jhmoon@dm.snu.ac.kr,hyochang@dm.snu.ac.kr,zoon@snu.ac.kr,4,r,1,10,-1,40,17
+Representing dynamically: An active process for describing sequential data,Juan Sebastian Olier,Emilia Barakova,Matthias Rauterberg,j.s.olier.jauregui@tue.nl,e.i.barakova@tue.nl,g.w.m.rauterberg@tue.nl,6,r,0,4,19,34,19
+Modeling Latent Attention Within Neural Networks,Christopher Grimm,Dilip Arumugam,Siddharth Karamcheti,crgrimm@umich.edu,dilip_arumugam@brown.edu,siddharth_karamcheti@brown.edu,4,r,1,2,7,5,5
+Deep Active Learning for Named Entity Recognition,Yanyao Shen,Hyokun Yun,Zachary C. Lipton,shenyanyao@utexas.edu,yunhyoku@amazon.com,zlipton@cmu.edu,6,ap,1,8,7,26,14
+On the limitations of first order approximation in GAN dynamics,Jerry Li,Aleksander Madry,John Peebles,jerryzli@mit.edu,madry@mit.edu,jpeebles@mit.edu,4,wp,1,18,26,-1,15
+Learning Covariate-Specific Embeddings with Tensor Decompositions,Kevin Tian,Teng Zhang,James Zou,kjtian@stanford.edu,tengz@stanford.edu,jamesz@stanford.edu,5,r,0,5,44,28,26
+"LSD-Net: Look, Step and Detect for Joint Navigation and Multi-View Recognition with Deep Reinforcement Learning",N dinesh reddy,,,dnarapur@andrew.cmu.edu,,,4,r,0,6,-2,-2,6
+Cross-View Training for Semi-Supervised Learning,Kevin Clark,Thang Luong,Quoc V. Le,kevclark@cs.stanford.edu,qvl@google.com,thangluong@google.com,2,wp,0,9,24,24,19
+Learning Weighted Representations for Generalization Across Designs,Fredrik D. Johansson,Nathan Kallus,Uri Shalit,fredrikj@mit.edu,kallus@cornell.edu,urish22@gmail.com,5,r,1,12,18,13,14
+Exploring Asymmetric Encoder-Decoder Structure for Context-based Sentence Representation Learning,Shuai Tang,Hailin Jin,Chen Fang,shuaitang93@ucsd.edu,hljin@adobe.com,cfang@adobe.com,7,r,0,3,44,18,22
+Data Augmentation Generative Adversarial Networks,Anthreas Antoniou,Amos Storkey,Harrison Edwards,a.antoniou@sms.ed.ac.uk,a.storkey@ed.ac.uk,h.l.edwards@sms.ed.ac.uk,4,wp,1,-1,35,9,15
+Long-term Forecasting using Tensor-Train RNNs,Rose Yu,Stephan Zheng,Anima Anandkumar,rose@caltech.edu,stephan@caltech.edu,anima@caltech.edu,4,r,0,12,27,42,27
+Autostacker: an Automatic Evolutionary Hierarchical  Machine Learning System,Boyuan Chen,Warren Mo,Ishanu Chattopadhyay,boyuan.chen@columbia.edu,warrenmo@uchicago.edu,ishanu@uchicago.edu,4,r,0,4,1,12,6
+Inducing Grammars with and for Neural Machine Translation,Ke Tran,Yonatan Bisk,,ketranmanh@gmail.com,ybisk@yonatanbisk.com,,3,r,1,8,17,-2,12
+Reinforcement and Imitation Learning for Diverse Visuomotor Skills,Yuke Zhu,Ziyu Wang,Josh Merel,yukez@cs.stanford.edu,ziyu@google.com,jsmerel@google.com,4,r,1,20,21,16,19
+Regret Minimization for Partially Observable Deep Reinforcement Learning,Peter H. Jin,Sergey Levine,Kurt Keutzer,phj@eecs.berkeley.edu,svlevine@eecs.berkeley.edu,keutzer@berkeley.edu,4,wp,1,-1,74,74,49
+Dense Recurrent Neural Network with Attention Gate,Yong-Ho Yoo,Kook Han,Sanghyun Cho,yhyoo@rit.kaist.ac.kr,khan@rit.kaist.ac.kr,scho@rit.kaist.ac.kr,2,r,0,-1,22,28,17
+Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization,Jiong Zhang,Qi Lei,Inderjit S. Dhillon,zhangjiong724@utexas.edu,leiqi@ices.utexas.edu,inderjit@cs.utexas.edu,7,r,1,3,11,86,33
+Semantic Interpolation in Implicit Models,Yannic Kilcher,Aurelien Lucchi,Thomas Hofmann,yannic.kilcher@inf.ethz.ch,aurelien.lucchi@inf.ethz.ch,thomas.hofmann@inf.ethz.ch,6,ap,1,4,24,58,29
+A Painless Attention Mechanism for Convolutional Neural Networks,Pau Rodríguez,Guillem Cucurull,Jordi Gonzàlez,pau.rodriguez@cvc.uab.es,gcucurull@cvc.uab.cat,poal@cvc.uab.cat,5,r,0,8,7,31,15
+Bayesian Hypernetworks,David Krueger,Chin-Wei Huang,Riashat Islam,david.scott.krueger@gmail.com,chin-wei.huang@umontreal.ca,riashat.islam@mail.mcgill.ca,6,r,1,30,5,7,14
+Distributional Adversarial Networks,Chengtao Li,David Alvarez-Melis,Keyulu Xu,ctli@mit.edu,dalvmel@mit.edu,keyulu@mit.edu,6,wp,1,-1,11,7,6
+Structured Deep Factorization Machine: Towards General-Purpose Architectures,José P. González-Brenes,Ralph Edezhath,,jgonzalez@chegg.com,redezhath@chegg.com,,3,r,0,14,-1,-2,7
+Learning to search with MCTSnets,Arthur Guez,Theophane Weber,Ioannis Antonoglou,aguez@google.com,theophane@google.com,ioannisa@google.com,7,r,1,17,17,-1,11
+Open Loop Hyperparameter Optimization and Determinantal Point Processes,Jesse Dodge,Kevin Jamieson,Noah A. Smith,jessed@cs.cmu.edu,jamieson@cs.washington.edu,nasmith@cs.washington.edu,4,r,1,10,16,66,31
+Understanding and Exploiting the Low-Rank Structure of Deep Networks,Craig Bakker,Michael J. Henry,Nathan O. Hodas,craig.bakker@pnnl.gov,michael.j.henry@pnnl.gov,nathan.hodas@pnnl.gov,4,r,0,5,5,-1,3
+Adversarially Regularized Autoencoders,Junbo (Jake) Zhao,Yoon Kim,Kelly Zhang,jakezhao@cs.nyu.edu,yoonkim@seas.harvard.edu,kz918@nyu.edu,5,wp,1,11,15,13,13
+Expressive power of recurrent neural networks,Valentin Khrulkov,Alexander Novikov,Ivan Oseledets,khrulkov.v@gmail.com,sasha.v.novikov@gmail.com,i.oseledets@skoltech.ru,6,ap,1,6,39,33,26
+The (Un)reliability of saliency methods,Pieter-Jan Kindermans,Sara Hooker,Julius Adebayo,pikinder@google.com,shooker@google.com,juliusad@google.com,5,r,1,20,4,9,11
+Three factors influencing minima in SGD,Stanisław Jastrzębski,Zac Kenton,Devansh Arpit,staszek.jastrzebski@gmail.com,zakenton@gmail.com,devansh.arpit@umontreal.ca,6,r,1,11,7,13,10
+A Deep Learning Approach for Survival Clustering without End-of-life Signals,S Chandra Mouli,Bruno Ribeiro,Jennifer Neville,chandr@purdue.edu,ribeiro@cs.purdue.edu,neville@cs.purdue.edu,6,r,0,2,22,39,21
+Predicting Multiple Actions for Stochastic Continuous Control,Sanjeev Kumar,Christian Rupprecht,Federico Tombari,sanjeev.kumar@in.tum.de,christian.rupprecht@in.tum.de,tombari@in.tum.de,3,r,0,2,10,40,17
+Multi-Task Learning by Deep Collaboration and Application in Facial Landmark Detection,Ludovic Trottier,Philippe Giguère,Brahim Chaib-draa,ludovic.trottier.1@ulaval.ca,philippe.giguere@ift.ulaval.ca,brahim.chaib-draa@ift.ulaval.ca,5,r,1,4,19,-1,8
+State Space LSTM Models with Particle MCMC Inference,Xun Zheng,Manzil Zaheer,Amr Ahmed,xunzheng90@gmail.com,manzil@cmu.edu,amra@google.com,3,r,1,28,16,31,25
+NOVEL AND EFFECTIVE PARALLEL MIX-GENERATOR GENERATIVE ADVERSARIAL NETWORKS,Xia Xiao,Sanguthevar Rajasekaran,,xia.xiao@uconn.edu,sanguthevar.rajasekaran@uconn.edu,,3,r,0,13,40,-2,26
+Topology Adaptive Graph Convolutional  Networks,Jian Du,Shanghang Zhang,Guanhang Wu,jiand@andrew.cmu.edu,shanghaz@andrew.cmu.edu,guanhanw@andrew.cmu.edu,6,r,1,11,116,5,44
+From Information Bottleneck To Activation Norm Penalty,Allen Nie,Mihir Mongia,James Zou,anie@stanford.edu,mihir.mongia@mssm.edu,jamesz@stanford.edu,7,r,0,4,-1,28,11
+TESLA: Task-wise Early Stopping and Loss Aggregation for Dynamic Neural Network Inference,Chun-Min Chang,Chia-Ching Lin,Hung-Yi Ou Yang,cmchang@iis.sinica.edu.tw,d05921018@ntu.edu.tw,frank840925@gmail.com,4,r,0,3,10,-1,4
+Stochastic Hyperparameter Optimization through Hypernetworks,Jonathan Lorraine,David Duvenaud,,lorraine@cs.toronto.edu,duvenaud@cs.toronto.edu,,6,r,1,3,28,-2,16
+Analyzing and Exploiting NARX Recurrent Neural Networks for Long-Term Dependencies,Robert DiPietro,Christian Rupprecht,Nassir Navab,rdipietro@gmail.com,christian.rupprecht@in.tum.de,nassir.navab@tum.de,3,wp,1,10,10,83,34
+Deep Temporal Clustering: Fully unsupervised learning of time-domain features,Naveen Sai Madiraju,Seid M. Sadat,Dimitry Fisher,naveen@avlab.ai,behnam@avlab.ai,dimitry@avlab.ai,3,r,1,1,-1,-1,0
+Hierarchical Adversarially Learned Inference,Mohamed Ishmael Belghazi,Sai Rajeswar,Olivier Mastropietro,ishmael.belghazi@gmail.com,rajsai24@gmail.com,oli.mastro@gmail.com,5,r,1,5,8,-1,4
+Intriguing Properties of Adversarial Examples,Ekin Dogus Cubuk,Barret Zoph,Samuel Stern Schoenholz,cubuk@google.com,barretzoph@google.com,schsam@google.com,5,wp,1,25,17,24,22
+TRL: Discriminative Hints for Scalable Reverse Curriculum Learning,Chen Wang,Xiangyu Chen,Zelin Ye,jere.wang@sjtu.edu.cn,cxy_1997@sjtu.edu.cn,h_e_r_o@sjtu.edu.cn,4,r,0,7,29,-1,12
+Continuous-fidelity Bayesian Optimization with Knowledge Gradient,Jian Wu,Peter I. Frazier,,jw926@cornell.edu,pf98@cornell.edu,,5,r,0,93,27,-2,60
+Neural Program Search: Solving Data Processing Tasks from Description and Examples,Illia Polosukhin,Alexander Skidanov,,illia@near.ai,alex@near.ai,,4,wp,0,7,5,-2,6
+GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks,Zhao Chen,Vijay Badrinarayanan,Chen-Yu Lee,zchen@magicleap.com,vbadrinarayanan@magicleap.com,clee@magicleap.com,6,r,1,13,14,11,13
+Lung Tumor Location and Identification with AlexNet and a Custom CNN,Allison M Rossetto,Wenjin Zhou,,allison_rossetto@student.uml.edu,wenjin_zhou@uml.edu,,2,r,0,-1,15,-2,8
+Image Transformer,Ashish Vaswani,Niki Parmar,Jakob Uszkoreit,avaswani@google.com,nikip@google.com,uszkoreit@google.com,6,r,1,21,11,21,18
+Not-So-CLEVR: Visual Relations Strain Feedforward Neural Networks,Junkyung Kim,Matthew Ricci,Thomas Serre,junkyung_kim@brown.edu,matthew_ricci_1@brown.edu,thomas_serre@brown.edu,6,wp,0,6,5,35,15
+No Spurious Local Minima in a Two Hidden Unit ReLU Network,Chenwei Wu,Jiajun Luo,Jason D. Lee,wucw14@mails.tsinghua.edu.cn,jiajunlu@usc.edu,jasonlee@marshall.usc.edu,4,wp,0,1,4,36,14
+Semi-Supervised Learning via New Deep Network Inversion,Balestriero R.,Roger V.,Glotin H.,randallbalestriero@gmail.com,roger.dyni@gmail.com,herve.glotin@univ-tln.fr,5,r,1,5,72,30,36
+Stable Distribution Alignment Using the Dual of the Adversarial Distance,Ben Usman,Kate Saenko,Brian Kulis,usmn@bu.edu,saenko@bu.edu,bkulis@bu.edu,5,wp,1,3,51,32,29
+Discovery of Predictive Representations With a Network of General Value Functions,Matthew Schlegel,Andrew Patterson,Adam White,mkschleg@ualberta.ca,andnpatt@indiana.edu,amw8@ualberta.ca,4,r,0,3,4,14,7
+Generation and Consolidation of Recollections for Efficient Deep Lifelong Learning,Matt Riemer,Michele Franceschini,and Tim Klinger,mdriemer@us.ibm.com,franceschini@us.ibm.com,tklinger@us.ibm.com,5,r,0,8,24,-1,11
+CyCADA: Cycle-Consistent Adversarial Domain Adaptation,Judy Hoffman,Eric Tzeng,Taesung Park,jhoffman@eecs.berkeley.edu,etzeng@eecs.berkeley.edu,taesung_park@berkeley.edu,5,r,1,30,13,4,16
+The Manifold Assumption and Defenses Against Adversarial Perturbations,Xi Wu,Uyeong Jang,Lingjiao Chen,xiwu@cs.wisc.edu,wjang@cs.wisc.edu,lchen@cs.wisc.edu,3,r,0,13,-1,3,5
+Graph2Seq: Scalable Learning Dynamics for Graphs,Shaileshh Bojja Venkatakrishnan,Mohammad Alizadeh,Pramod Viswanath,bjjvnkt@csail.mit.edu,alizadeh@csail.mit.edu,pramodv@illinois.edu,4,r,1,-1,39,45,28
+Reinforcement Learning from Imperfect Demonstrations,Yang Gao,Huazhe(Harry) Xu,Ji Lin,yg@eecs.berkeley.edu,huazhe_xu@eecs.berkeley.edu,lin-j14@mails.tsinghua.edu.cn,5,wp,1,10,7,9,9
+FigureQA: An Annotated Figure Dataset for Visual Reasoning,Samira Ebrahimi Kahou,Adam Atkinson,Vincent Michalski,samira.ebrahimi@microsoft.com,adatkins@microsoft.com,vincent.michalski@umontreal.ca,6,wp,1,13,2,11,9
+Seq2SQL: Generating Structured Queries From Natural Language Using Reinforcement Learning ,Victor Zhong,Caiming Xiong,Richard Socher,victor@victorzhong.com,cxiong@salesforce.com,richard@socher.org,5,r,1,10,29,47,29
+Learning to select examples for program synthesis,Yewen Pu,Zachery Miranda,Armando Solar-Lezama,yewenpu@mit.edu,zmiranda@mit.edu,asolar@csail.mit.edu,4,r,0,6,-1,30,12
+Neuron as an Agent,Shohei Ohsawa,Kei Akuzawa,Tatsuya Matsushima,ohsawa@weblab.t.u-tokyo.ac.jp,akuzawa-kei@weblab.t.u-tokyo.ac.jp,matsushima@weblab.t.u-tokyo.ac.jp,6,wp,0,3,2,1,2
+Toward predictive machine learning for active vision,Emmanuel Daucé,,,emmanuel.dauce@centrale-marseille.fr,,,5,r,1,9,-2,-2,9
+Value Propagation Networks,Nantas Nardelli,Gabriel Synnaeve,Zeming Lin,nantas@robots.ox.ac.uk,gab@fb.com,zlin@fb.com,5,wp,1,7,22,10,13
+Correcting Nuisance Variation using Wasserstein Distance,Gil Tabak,Minjie Fan,Samuel J. Yang,tabak.gil@gmail.com,mjfan@google.com,samuely@google.com,5,r,1,2,4,15,7
+Parametric Adversarial Divergences are Good Task Losses for Generative Modeling,Gabriel Huang,Hugo Berard,Ahmed Touati,gbxhuang@gmail.com,berard.hugo@gmail.com,ahmed.touati@umontreal.ca,6,wp,1,4,3,6,4
+Adaptive Memory Networks,Daniel Li,Asim Kadav,,li.daniel@berkeley.edu,asim@nec-labs.com,,5,wp,1,71,15,-2,43
+Discrete Autoencoders for Sequence Models,Lukasz Kaiser,Samy Bengio,,lukaszkaiser@google.com,bengio@google.com,,5,r,1,27,74,-2,50
+“Style” Transfer for Musical Audio Using Multiple Time-Frequency Representations,Shaun Barry,Youngmoo Kim,,smb484@drexel.edu,ykim@drexel.edu,,6,r,0,1,27,-2,14
+Model-based imitation learning from state trajectories,Subhajit Chaudhury,Daiki Kimura,Tadanobu Inoue,subhajit@jp.ibm.com,daiki@jp.ibm.com,inouet@jp.ibm.com,7,r,0,6,-1,-1,2
+Neural Task Graph Execution,Sungryull Sohn,Junhyuk Oh,Honglak Lee,srsohn@umich.edu,junhyuk@umich.edu,honglak@eecs.umich.edu,6,r,0,4,12,61,26
+Efficient Exploration through Bayesian   Deep Q-Networks,Kamyar Azizzadenesheli,Emma Brunskill,Animashree Anandkumar,kazizzad@uci.edu,ebrun@cs.stanford.edu,animakumar@gmail.com,6,r,0,10,29,42,27
+UNSUPERVISED SENTENCE EMBEDDING USING DOCUMENT STRUCTURE-BASED CONTEXT,Taesung Lee,Youngja Park,,taesung.lee@ibm.com,young_park@us.ibm.com,,7,r,0,7,25,-2,16
+Time-Dependent Representation for Neural Event Sequence Prediction,Yang Li,Nan Du,Samy Bengio,liyang@google.com,dunan@google.com,bengio@google.com,4,wp,1,13,26,74,38
+Directing Generative Networks with Weighted Maximum Mean Discrepancy,Maurice Diesendruck,Guy W. Cole,Sinead Williamson,momod@utexas.edu,guywcole@utexas.edu,sinead.williamson@mccombs.utexas.edu,4,r,0,2,-1,13,5
+Decoding Decoders: Finding Optimal Representation Spaces for Unsupervised Similarity Tasks,Vitalii Zhelezniak,Dan Busbridge,April Shen,vitali.zhelezniak@babylonhealth.com,dan.busbridge@babylonhealth.com,april.shen@babylonhealth.com,6,wp,1,-1,4,13,6
+Learning Parametric Closed-Loop Policies for Markov Potential Games,Sergio Valcarcel Macua,Javier Zazo,Santiago Zazo,sergio@prowler.io,javier.zazo.ruiz@upm.es,santiago@gaps.ssr.upm.es,7,ap,1,9,6,22,12
+Soft Value Iteration Networks for Planetary Rover Path Planning,Max Pflueger,Ali Agha,Gaurav S. Sukhatme,mpflueger@gmail.com,aliahga@jpl.nasa.gov,gaurav@usc.edu,3,r,0,2,15,91,36
+A Classification-Based Perspective on GAN Distributions,Shibani Santurkar,Ludwig Schmidt,Aleksander Madry,shibani@mit.edu,ludwigs@mit.edu,madry@mit.edu,5,r,0,10,22,26,19
+Inference Suboptimality in Variational Autoencoders,Chris Cremer,Xuechen Li,David Duvenaud,ccremer@cs.toronto.edu,lxuechen@cs.toronto.edu,duvenaud@cs.toronto.edu,6,wp,1,3,3,28,11
+Achieving Strong Regularization for Deep Neural Networks,Dae Hoon Park,Chiu Man Ho,Yi Chang,pdhvip@gmail.com,chiuman100@gmail.com,yi.chang@huawei.com,6,r,0,17,19,45,27
+A Spectral Approach to Generalization and Optimization in Neural Networks,Farzan Farnia,Jesse Zhang,David Tse,farnia@stanford.edu,jessez@stanford.edu,dntse@stanford.edu,6,r,0,6,5,81,31
+Small Coresets to Represent Large Training Data for Support Vector Machines,Cenk Baykal,Murad Tukan,Dan Feldman,baykal@mit.edu,muradtuk@gmail.com,dannyf.post@gmail.com,5,r,0,5,-1,26,10
+Investigating Human Priors for Playing Video Games,Rachit Dubey,Pulkit Agrawal,Deepak Pathak,rach0012@berkeley.edu,pulkitag@berkeley.edu,pathak@berkeley.edu,4,wp,1,5,15,13,11
+Learning Deep Models: Critical Points and Local Openness,Maher Nouiehed,Meisam Razaviyayn,,nouiehed@usc.edu,razaviya@usc.edu,,6,wp,1,4,22,-2,13
+Contextual Explanation Networks,Maruan Al-Shedivat,Avinava Dubey,Eric P. Xing,alshedivat@cs.cmu.edu,akdubey@cs.cmu.edu,epxing@cs.cmu.edu,6,r,1,13,15,84,37
+LSH Softmax: Sub-Linear Learning and Inference of the Softmax Layer in Deep Architectures,Daniel Levy,Danlu Chan,Stefano Ermon,danilevy@cs.stanford.edu,taineleau@gmail.com,ermon@cs.stanford.edu,5,r,0,5,-1,28,11
+Recurrent Relational Networks for complex relational reasoning,Rasmus Berg Palm,Ulrich Paquet,Ole Winther,rasmusbergpalm@gmail.com,upaq@google.com,olwi@dtu.dk,3,r,0,4,-1,44,16
+Influence-Directed Explanations for Deep Convolutional Networks,Anupam Datta,Matt Fredrikson,Klas Leino,danupam@cmu.edu,mfredrik@cs.cmu.edu,kleino@cs.cmu.edu,5,r,1,40,22,-1,21
+Recurrent Neural Networks with Top-k Gains for Session-based Recommendations,Balázs Hidasi,Alexandros Karatzoglou,,hidasib@gmail.com,alexk@tid.es,,8,r,0,13,32,-2,22
+ Explicit Induction Bias for Transfer Learning with Convolutional Networks,Xuhong LI,Yves GRANDVALET,Franck DAVOINE,xuhong.li@utc.fr,yves.grandvalet@utc.fr,franck.davoine@utc.fr,6,r,1,-1,26,25,17
+Simple Nearest Neighbor Policy Method for Continuous Control Tasks,Elman Mansimov,Kyunghyun Cho,,mansimov@cs.nyu.edu,kyunghyun.cho@nyu.edu,,4,r,0,5,58,-2,32
+Deep Mean Field Theory: Layerwise Variance and Width Variation as Methods to Control Gradient Explosion,Greg Yang,Sam S. Schoenholz,,gregyang@microsoft.com,schsam@google.com,,7,wp,0,8,24,-2,16
+Optimizing the Latent Space of Generative Networks,Piotr Bojanowski,Armand Joulin,David Lopez-Paz,bojanowski@fb.com,ajoulin@fb.com,dlp@fb.com,4,r,1,18,31,-1,16
+Accelerating Neural Architecture Search using Performance Prediction,Bowen Baker*,Otkrist Gupta*,Ramesh Raskar,bowen@mit.edu,otkrist@mit.edu,raskar@mit.edu,6,wp,1,-1,-1,84,28
+Data-efficient Deep Reinforcement Learning for Dexterous Manipulation,Ivo Popov,Nicolas Heess,Timothy P. Lillicrap,ivaylo.popov@hotmail.com,heess@google.com,countzero@google.com,4,r,1,-1,35,41,25
+Routing Networks: Adaptive Selection of Non-Linear Functions for Multi-Task Learning,Clemens Rosenbaum,Tim Klinger,Matthew Riemer,crosenbaum@umass.edu,tklinger@us.ibm.com,mdriemer@us.ibm.com,7,ap,1,5,16,8,10
+Gradients explode - Deep Networks are shallow - ResNet explained,George Philipp,Dawn Song,Jaime G. Carbonell,george.philipp@email.de,dawnsong@gmail.com,jgc@cs.cmu.edu,3,wp,0,90,110,-1,67
+GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders,Martin Simonovsky,Nikos Komodakis,,simonovm@imagine.enpc.fr,nikos.komodakis@enpc.fr,,5,r,1,5,42,-2,24
+UPS: optimizing Undirected Positive Sparse graph for neural graph filtering,Mikhail Yurochkin,Dung Thai,Hung Hai Bui,moonfolk@umich.edu,dthai@iesl.cs.umass.edu,bui.h.hung@gmail.com,6,r,0,5,9,32,15
+Learning Document Embeddings With CNNs,Shunan Zhao,Chundi Lui,Maksims Volkovs,shunan@layer6.ai,chundi@layer6.ai,maksims.volkovs@gmail.com,6,r,0,5,3,13,7
+Predict Responsibly: Increasing Fairness by Learning to Defer,David Madras,Toniann Pitassi,Richard Zemel,david.madras@mail.utoronto.ca,zemel@cs.toronto.edu,toni@cs.toronto.edu,5,wp,0,28,58,58,48
+Reward Estimation via State Prediction,Daiki Kimura,Subhajit Chaudhury,Ryuki Tachibana,daiki@jp.ibm.com,subhajit@jp.ibm.com,ryuki@jp.ibm.com,4,r,0,-1,6,16,7
+Sparse Attentive Backtracking: Long-Range Credit Assignment in Recurrent Networks,Nan Rosemary Ke,Anirudh Goyal,Olexa Bilaniuk,rosemary.nan.ke@gmail.com,anirudhgoyal9119@gmail.com,obilaniu@gmail.com,5,r,1,13,11,6,10
+GraphGAN: Generating Graphs via Random Walks,Aleksandar Bojchevski,Oleksandr Shchur,Daniel Zügner,a.bojchevski@in.tum.de,shchur@in.tum.de,daniel.zuegner@gmail.com,6,r,0,10,4,5,6
+LEAP: Learning Embeddings for Adaptive Pace,Vithursan Thangarasa,Graham W. Taylor,,vthangar@uoguelph.ca,gwtaylor@uoguelph.ca,,6,r,0,1,33,-2,17
+Prototype Matching Networks for Large-Scale Multi-label  Genomic Sequence Classification,Jack Lanchantin,Arshdeep Sekhon,Ritambhara Singh,jjl5sw@virginia.edu,as5cu@virginia.edu,rs3zz@virginia.edu,5,r,1,6,3,10,6
+Forced Apart: Discovering Disentangled Representations Without Exhaustive Labels,Alexey Romanov,Anna Rumshisky,,jgc128@outlook.com,arum@cs.uml.edu,,5,r,0,10,21,-2,16
+Beyond Shared Hierarchies: Deep Multitask Learning through Soft Layer Ordering,Elliot Meyerson,Risto Miikkulainen,,ekm@cs.utexas.edu,risto@cs.utexas.edu,,7,ap,1,10,62,-2,36
+Attention-based Graph Neural Network for Semi-supervised Learning,Kiran K. Thekumparampil,Sewoong Oh,Chong Wang,kirankoshy@gmail.com,sewoong79@gmail.com,chongw@google.com,6,r,1,6,29,34,23
+Attacking Binarized Neural Networks,Angus Galloway,Graham W. Taylor,Medhat Moussa,gallowaa@uoguelph.ca,gwtaylor@uoguelph.ca,mmoussa@uoguelph.ca,7,ap,1,4,33,18,18
+A Semantic Loss Function for Deep Learning with Symbolic Knowledge,Jingyi Xu,Zilu Zhang,Tal Friedman,jixu@g.ucla.edu,zhangzilu@pku.edu.cn,tal@cs.ucla.edu,7,r,1,2,7,3,4
+Representing Entropy : A short proof of the equivalence between soft Q-learning and policy gradients,Pierre H. Richemond,Brendan Maginnis,,phr17@imperial.ac.uk,b.maginnis@imperial.ac.uk,,5,r,0,-1,2,-2,1
+Generative Discovery of Relational Medical Entity Pairs,Chenwei Zhang,Yaliang Li,Nan Du,czhang99@uic.edu,yaliangli@baidu.com,nandu@baidu.com,4,r,0,16,19,26,20
+Understanding GANs: the LQG Setting,Soheil Feizi,Changho Suh,Fei Xia,sfeizi@stanford.edu,chsuh@kaist.ac.kr,feixia@stanford.edu,4,r,1,16,33,7,19
+Synthesizing Robust Adversarial Examples,Anish Athalye,Logan Engstrom,Andrew Ilyas,aathalye@mit.edu,engstrom@mit.edu,ailyas@mit.edu,5,r,1,7,12,11,10
+Extending the Framework of Equilibrium Propagation to General Dynamics,Benjamin Scellier,Anirudh Goyal,Jonathan Binas,benjamin.scellier@polytechnique.edu,anirudhgoyal9119@gmail.com,jbinas@gmail.com,4,wp,0,6,11,9,9
+Lifelong Word Embedding via Meta-Learning,Hu Xu,Bing Liu,Lei Shu,hxu48@uic.edu,liub@uic.edu,lshu3@uic.edu,4,r,0,9,90,8,36
+A comparison of second-order methods for deep convolutional neural networks,Patrick H. Chen,Cho-jui Hsieh,,phpchen@ucdavis.edu,chohsieh@ucdavis.edu,,5,r,0,-1,39,-2,20
+Automatic Parameter Tying in Neural Networks,Yibo Yang,Nicholas Ruozzi,Vibhav Gogate,yibo.yang@utdallas.edu,nicholas.ruozzi@utdallas.edu,vgogate@hlt.utdallas.edu,6,r,0,11,8,24,14
+Learning to Treat Sepsis with Multi-Output Gaussian Process Deep Recurrent Q-Networks,Joseph Futoma,Anthony Lin,Mark Sendak,jfutoma14@gmail.com,anthony.lin@duke.edu,mark.sendak@duke.edu,6,r,0,6,36,6,16
+Latent forward model for Real-time Strategy game planning with incomplete information,Yuandong Tian,Qucheng Gong,,yuandong@fb.com,qucheng@fb.com,,5,r,0,23,5,-2,14
+WHAI: Weibull Hybrid Autoencoding Inference for Deep Topic Modeling,Hao Zhang,Bo Chen,Dandan Guo,zhanghao_xidian@163.com,bchen@mail.xidian.edu.cn,gdd_xidian@126.com,6,ap,1,12,23,-1,12
+Faster Distributed Synchronous SGD with Weak Synchronization,Cong Xie,Oluwasanmi O. Koyejo,Indranil Gupta,cx2@illinois.edu,sanmi@illinois.edu,indy@illinois.edu,4,r,0,9,18,47,25
+Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge,Emmanuel de Bezenac,Arthur Pajot,Patrick Gallinari,emmanuel.de_bezenac@lip6.fr,arthur.pajot@lip6.fr,patrick.gallinari@lip6.fr,7,ap,1,3,3,43,16
+DeepArchitect: Automatically Designing and Training Deep Architectures,Renato Negrinho,Geoff Gordon,,negrinho@cs.cmu.edu,ggordon@cs.cmu.edu,,4,r,1,4,165,-2,84
+Improving generalization by regularizing in $L^2$ function space,Ari S Benjamin,Konrad Kording,,aarrii@seas.upenn.edu,,,6,r,0,-1,-2,-2,0
+"Fast and Accurate Text Classification: Skimming, Rereading and Early Stopping",Keyi Yu,Yang Liu,Alexander G. Schwing,yu-ky14@mails.tsinghua.edu.cn,liu301@illinois.edu,aschwing@illinois.edu,5,wp,0,109,20,34,54
+Gaussian Process Neurons,Sebastian Urban,Patrick van der Smagt,,surban@tum.de,smagt@brml.org,,5,r,0,9,35,-2,22
+Neural Tree Transducers for Tree to Tree Learning,João Sedoc,Dean Foster,Lyle Ungar,joao@cis.upenn.edu,dean@foster.net,ungar@cis.upenn.edu,3,r,0,5,51,75,44
+Network of Graph Convolutional Networks Trained on Random Walks,Sami Abu-El-Haija,Amol Kapoor,Bryan Perozzi,haija@google.com,ajk2227@columbia.edu,bperozzi@acm.org,5,r,0,12,3,16,10
+LSH-SAMPLING BREAKS THE COMPUTATIONAL CHICKEN-AND-EGG LOOP IN ADAPTIVE STOCHASTIC GRADIENT ESTIMATION,Beidi Chen,Yingchen Xu,Anshumali Shrivastava,beidi.chen@rice.edu,yingchen.xu@rice.edu,anshumali@rice.edu,8,wp,0,4,-1,17,7
+Deep Boosting of Diverse Experts,Wei Zhang,Qiuyu Chen,Jun Yu,weizh@fudan.edu.cn,qchen12@uncc.edu,yujun@hdu.edu.cn,2,r,0,13,1,35,16
+Bounding and Counting Linear Regions of Deep Neural Networks,Thiago Serra,Christian Tjandraatmadja,Srikumar Ramalingam,tserra@gmail.com,ctjandra@andrew.cmu.edu,srikumar.ramalingam@gmail.com,6,r,1,5,-1,29,11
+Jointly Learning to Construct and Control Agents using Deep Reinforcement Learning,Charles Schaff,David Yunis,Ayan Chakrabarti,cbschaff@ttic.edu,dyunis@uchicago.edu,ayan@wustl.edu,9,wp,1,3,-1,18,7
+Tandem Blocks in Deep Convolutional Neural Networks,Chris Hettinger,Tanner Christensen,Jeff Humpherys,chrishettinger@gmail.com,tkchristensen@byu.edu,jeffh@math.byu.edu,5,r,1,-1,-1,17,6
+On the difference between building and extracting patterns: a causal analysis of deep generative models.,Michel Besserve,Dominik Janzing,Bernhard Schoelkopf,michel.besserve@tuebingen.mpg.de,dominik.janzing@tuebingen.mpg.de,bs@tuebingen.mpg.de,2,r,0,13,35,142,63
+Generalization of Learning using Reservoir Computing,Sanjukta Krishnagopal,Yiannis Aloimonos,Michelle Girvan,sanjukta@umd.edu,yiannis@cs.umd.edu,girvan@umd.edu,4,r,0,3,-1,27,10
+Adversarial Examples for Natural Language Classification Problems,Volodymyr Kuleshov,Shantanu Thakoor,Tingfung Lau,vol.kuleshov@gmail.com,shanu.thakoor@gmail.com,ldf921@126.com,4,r,0,3,-1,-1,1
+"Model Specialization for Inference Via End-to-End Distillation, Pruning, and Cascades",Daniel Kang,Karey Shi,Thao Ngyuen,ddkang@stanford.edu,kareyshi@stanford.edu,thao2605@stanford.edu,6,r,0,11,-1,1,4
+Learning Sparse Structured Ensembles with SG-MCMC and Network Pruning,Yichi Zhang,Zhijian Ou,,zhangyic17@mails.tsinghua.edu.cn,ozj@tsinghua.edu.cn,,4,r,1,1,-1,-2,0
+A dynamic game approach to training robust deep policies,Olalekan Ogunmolu,,,opo140030@utdallas.edu,,,5,r,0,5,-2,-2,5
+MACHINE VS MACHINE: MINIMAX-OPTIMAL DEFENSE AGAINST ADVERSARIAL EXAMPLES,Jihun Hamm,,,hammj@cse.ohio-state.edu,,,5,r,0,20,-2,-2,20
+EXPLORING NEURAL ARCHITECTURE SEARCH FOR LANGUAGE TASKS,Minh-Thang Luong,David Dohan,Adams Wei Yu,luong.m.thang@gmail.com,ddohan@google.com,adamsyuwei@gmail.com,3,r,0,24,4,14,14
+Multimodal Sentiment Analysis To Explore the Structure of Emotions,Anthony Hu,Seth Flaxman,,anthony.hu@stats.ox.ac.uk,s.flaxman@imperial.ac.uk,,6,r,1,26,36,-2,31
+Building Generalizable Agents with a Realistic and Rich 3D Environment,Yi Wu,Yuxin Wu,Georgia Gkioxari,jxwuyi@gmail.com,ppwwyyxxc@gmail.com,georgia.gkioxari@gmail.com,4,wp,1,10,12,17,13
+LEARNING TO SHARE: SIMULTANEOUS PARAMETER TYING AND SPARSIFICATION IN DEEP LEARNING,Dejiao Zhang,Haozhu Wang,Mario Figueiredo,dejiao@umich.edu,hzwang@umich.edu,mario.figueiredo@lx.it.pt,6,ap,0,6,5,60,24
+Self-Supervised Learning of Object Motion Through Adversarial Video Prediction,Alex X. Lee,Frederik Ebert,Richard Zhang,rich.zhang@eecs.berkeley.edu,febert@berkeley.edu,cbfinn@eecs.berkeley.edu,7,r,0,11,7,11,10
+ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions,Soham Parikh,Ananya Sai,Preksha Nema,sohamp@cse.iitm.ac.in,ananyasb@cse.iitm.ac.in,preksha@cse.iitm.ac.in,5,r,0,1,2,5,3
+Forward Modeling for Partial Observation Strategy Games - A StarCraft Defogger,Gabriel Synnaeve,Zeming Lin,Jonas Gehring,gab@fb.com,zlin@fb.com,jgehring@fb.com,5,r,0,22,10,11,14
+Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs,Stephanie Hyland,Cristóbal Esteban,Gunnar Rätsch,stephanie.hyland@inf.ethz.ch,cr_est@ethz.ch,raetsch@inf.ethz.ch,4,r,1,6,6,69,27
+Regularization Neural Networks via Constrained Virtual  Movement Field,Zhendong Zhang,Cheolkon Jung,,zhd.zhang.ai@gmail.com,zhengzk@xidian.edu.cn,,5,wp,0,13,18,-2,16
+Learning to Write by Learning the Objective,Ari Holtzman,Jan Buys,Maxwell Forbes,ahai@cs.washington.edu,jbuys@cs.washington.edu,mbforbes@cs.washington.edu,6,wp,0,9,9,6,8
+Key Protected Classification for GAN Attack Resilient Collaborative Learning,Mert Bülent Sarıyıldız,Ramazan Gökberk Cinbiş,Erman Ayday,mbsariyildiz@gmail.com,gokberkcinbis@gmail.com,erman@cs.bilkent.edu.tr,4,r,0,1,15,24,13
+Bit-Regularized Optimization of Neural Nets,Mohamed Amer,Aswin Raghavan,Graham W. Taylor,mohamed.amer@sri.com,aswin.raghavan@sri.com,gwtaylor@uoguelph.ca,4,r,0,15,5,33,18
+ShakeDrop regularization,Yoshihiro Yamada,Masakazu Iwamura,Koichi Kise,yamada@m.cs.osakafu-u.ac.jp,masa@cs.osakafu-u.ac.jp,kise@cs.osakafu-u.ac.jp,5,r,0,20,23,27,23
+AUTOMATA GUIDED HIERARCHICAL REINFORCEMENT LEARNING FOR ZERO-SHOT SKILL COMPOSITION,Xiao Li,Yao Ma,Calin Belta,xli87@bu.edu,yaoma@bu.edu,cbelta@bu.edu,5,r,0,111,6,48,55
+Quadrature-based features for kernel approximation,Marina Munkhoeva,Yermek Kapushev,Evgeny Burnaev,marina.munkhoeva@skolkovotech.ru,kapushev@gmail.com,e.burnaev@skoltech.ru,4,r,1,1,6,20,9
+Parametrizing filters of a CNN with a GAN,Yannic Kilcher,Gary Becigneul,Thomas Hofmann,yannic.kilcher@inf.ethz.ch,gary.becigneul@inf.ethz.ch,thomas.hofmann@inf.ethz.ch,2,r,1,4,4,58,22
+Jiffy: A Convolutional Approach to Learning Time Series Similarity,Divya Shanmugam,Davis Blalock,John Guttag,divyas@mit.edu,dblalock@mit.edu,jguttag@mit.edu,6,r,0,4,34,-1,13
+Transfer Learning on Manifolds via Learned Transport Operators,Marissa Connor,Christopher Rozell,,marissa.connor@gatech.edu,crozell@gatech.edu,,5,r,0,1,24,-2,12
+Visualizing the Loss Landscape of Neural Nets,Hao Li,Zheng Xu,Gavin Taylor,haoli@cs.umd.edu,xuzh@cs.umd.edu,taylor@usna.edu,5,wp,1,7,17,11,12
+Demystifying overcomplete nonlinear auto-encoders: fast SGD convergence towards sparse representation from random initialization,Cheng Tang,Claire Monteleoni,,tangch@gwu.edu,cmontel@gwu.edu,,2,r,0,58,-1,-2,29
+On Characterizing the Capacity of Neural Networks Using Algebraic Topology,William H. Guss,Ruslan Salakhutdinov,,wguss@cs.cmu.edu,rsalakhu@cs.cmu.edu,,3,r,1,3,83,-2,43
+Gated ConvNets for Letter-Based ASR,Vitaliy Liptchinsky,Gabriel Synnaeve,Ronan Collobert,vitaliy888@fb.com,gab@fb.com,locronan@fb.com,3,r,0,8,22,38,23
+Variance Regularizing Adversarial Learning,Karan Grewal,R Devon Hjelm,Yoshua Bengio,karanraj.grewal@mail.utoronto.ca,erroneus@gmail.com,yoshua.umontreal@gmail.com,5,r,1,3,12,158,58
+The Information-Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Modeling,Shengjia Zhao,Jiaming Song,Stefano Ermon,sjzhao@stanford.edu,tsong@cs.stanford.edu,ermon@cs.stanford.edu,4,r,1,11,8,28,16
+Learning Priors for Adversarial Autoencoders,Hui-Po Wang,Wei-Jan Ko,Wen-Hsiao Peng,a88575847@gmail.com,ts771164@gmail.com,wpeng@cs.nctu.edu.tw,6,r,0,1,-1,16,6
+Faster Reinforcement Learning with Expert State Sequences,Xiaoxiao Guo,Shiyu Chang,Mo Yu,xiaoxiao.guo@ibm.com,shiyu.chang@ibm.com,yum@us.ibm.com,6,r,0,13,28,23,21
+Training Neural Machines with Partial Traces,Matthew Mirman,Dimitar Dimitrov,Pavle Djordjevich,matthew.mirman@inf.ethz.ch,dpavle@student.ethz.ch,dimitar.dimitrov@inf.ethz.ch,4,r,0,4,18,-1,7
+STRUCTURED ALIGNMENT NETWORKS,Yang Liu,Matt Gardner,,yang.liu2@ed.ac.uk,mattg@allenai.org,,6,r,0,9,16,-2,12
+Revisiting The Master-Slave Architecture In Multi-Agent Deep Reinforcement Learning,Xiangyu Kong,Fangchen Liu,Bo Xin,kxyzc1992@gmail.com,liufangchen@pku.edu.cn,boxin@microsoft.com,5,r,1,22,10,10,14
+GATED FAST WEIGHTS FOR ASSOCIATIVE RETRIEVAL,Imanol Schlag,Jürgen Schmidhuber,,imanol@idsia.ch,juergen@idsia.ch,,3,r,0,4,96,-2,50
+Connectivity Learning in Multi-Branch Networks,Karim Ahmed,Lorenzo Torresani,,karim.mmm@gmail.com,lt@dartmouth.edu,,5,r,1,8,42,-2,25
+AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks,Alexander L. Gaunt,Matthew A. Johnson,Alan Lawrence,algaunt@microsoft.com,matjoh@microsoft.com,allawr@microsoft.com,6,r,1,16,10,41,22
+POLICY DRIVEN GENERATIVE ADVERSARIAL NETWORKS FOR ACCENTED SPEECH GENERATION,Prannay Khosla,Preethi Jyothi,Vinay P. Namboodiri,prannayk@iitk.ac.in,pjyothi@cse.iitb.ac.in,vinaypn@cse.iitk.ac.in,5,r,0,2,12,13,9
+Autonomous Vehicle Fleet Coordination With Deep Reinforcement Learning,Cane Punma,,,cane.cane@live.com,,,3,r,0,-1,-2,-2,0
+BLOCK-NORMALIZED GRADIENT METHOD: AN EMPIRICAL STUDY FOR TRAINING DEEP NEURAL NETWORK,Adams Wei Yu,Lei Huang,Qihang Lin,weiyu@cs.cmu.edu,huanglei@nlsde.buaa.edu.cn,qihang-lin@uiowa.edu,4,r,0,14,11,18,14
+Learning Representations for Faster Similarity Search,Ludwig Schmidt,Kunal Talwar,,ludwigs@mit.edu,kunal@google.com,,4,r,0,22,48,-2,35
+Optimal transport maps for distribution preserving operations on latent spaces of Generative Models,Eirikur Agustsson,Alexander Sage,Radu Timofte,aeirikur@vision.ee.ethz.ch,sagea@student.ethz.ch,radu.timofte@vision.ee.ethz.ch,4,r,1,13,37,35,28
+Neural Compositional Denotational Semantics for Question Answering,Nitish Gupta,Mike Lewis,,nitishg@cis.upenn.edu,mikelewis@facebook.com,,4,r,1,5,16,-2,10
+Variational Bi-LSTMs,Samira Shabanian,Devansh Arpit,Adam Trischler,s.shabanian@gmail.com,devansharpit@gmail.com,adam.trischler@microsoft.com,4,r,1,8,13,19,13
+TOWARDS ROBOT VISION MODULE DEVELOPMENT WITH EXPERIENTIAL ROBOT LEARNING,Ahmed A Aly,Joanne Bechta Dugan,,aaa2cn@virginia.edu,jbd@virginia.edu,,3,r,0,25,-1,-2,12
+Towards a Testable Notion of Generalization for Generative Adversarial Networks,Robert Cornish,Hongseok Yang,Frank Wood,rcornish@robots.ox.ac.uk,hongseok.yang@cs.ox.ac.uk,fwood@robots.ox.ac.uk,5,r,0,4,40,32,25
+3C-GAN: AN CONDITION-CONTEXT-COMPOSITE GENERATIVE ADVERSARIAL NETWORKS FOR GENERATING IMAGES SEPARATELY,Yeu-Chern Harn,Vladimir Jojic,,ycharn@cs.unc.edu,vjojic@gmail.com,,5,r,0,-1,28,-2,14
+Alpha-divergence bridges maximum likelihood and reinforcement learning in neural sequence generation,Sotetsu Koyamada,Yuta Kikuchi,Atsunori Kanemura,sotetsu.koyamada@gmail.com,,,4,r,0,2,-2,-2,2
+Don't encrypt the data; just approximate the model \ Towards Secure Transaction and Fair Pricing of Training Data,Xinlei Xu,,,xxu@hmc.edu,,,2,r,0,-1,-2,-2,0
+An inference-based policy gradient method for learning options,Matthew J. A. Smith,Herke van Hoof,Joelle Pineau,matthew.smith5@mail.mcgill.ca,herke.vanhoof@mail.mcgill.ca,jpineau@cs.mcgill.ca,3,r,0,1,14,48,21
+Sequential Coordination of Deep Models for Learning Visual Arithmetic,Eric Crawford,Guillaume Rabusseau,Joelle Pineau,eric.crawford@mail.mcgill.ca,guillaume.rabusseau@mail.mcgill.ca,jpineau@cs.mcgill.ca,4,r,1,26,5,48,26
+What is image captioning made of?,Pranava Madhyastha,Josiah Wang,Lucia Specia,p.madhyastha@sheffield.ac.uk,j.k.wang@sheffield.ac.uk,l.specia@sheffield.ac.uk,4,r,0,7,10,40,19
+Fraternal Dropout,Konrad Zolna,Devansh Arpit,Dendi Suhubdy,konrad.zolna@gmail.com,devansh.arpit@umontreal.ca,dasuhubd@ncsu.edu,5,ap,1,5,13,5,8
+TD Learning with Constrained Gradients,Ishan Durugkar,Peter Stone,,ishand@cs.utexas.edu,pstone@cs.utexas.edu,,2,r,0,5,80,-2,42
+WSNet: Learning Compact and Efficient Networks with Weight Sampling,Xiaojie Jin,Yingzhen Yang,Ning Xu,xiaojie.jin@u.nus.edu,superyyzg@gmail.com,ning.xu@snap.com,6,wp,0,12,12,24,16
+Generative Entity Networks: Disentangling Entitites and Attributes in Visual Scenes using Partial Natural Language Descriptions,Charlie Nash,Sebastian Nowozin,Nate Kushman,charlie.nash@ed.ac.uk,sebastian.nowozin@microsoft.com,nate@kushman.org,4,r,0,6,40,16,21
+Prediction Under Uncertainty with Error Encoding Networks,Mikael Henaff,Junbo Zhao,Yann Lecun,mbh305@nyu.edu,j.zhao@nyu.edu,yann@cs.nyu.edu,4,r,1,13,11,122,49
+Noise-Based Regularizers for Recurrent Neural Networks,Adji B. Dieng,Jaan Altosaar,Rajesh Ranganath,abd2141@columbia.edu,altosaar@princeton.edu,rajeshr@cs.princeton.edu,2,r,0,7,6,23,12
+Learning To Generate Reviews and Discovering Sentiment,Alec Radford,Rafal Jozefowicz,Ilya Sutskever,alec@openai.com,rafal@openai.com,ilya@openai.com,4,r,1,12,-1,54,22
+Deep learning mutation prediction enables early stage lung cancer detection in liquid biopsy,Steven T. Kothen-Hill,Asaf Zviran,Rafael C. Schulman,sth2022@med.cornell.edu,azviran@nygenome.org,rschulman@nygenome.org,8,wp,0,6,8,3,6
+Covariant Compositional Networks For Learning Graphs,Risi Kondor,Truong Son Hy,Horace Pan,risi@cs.uchicago.edu,hytruongson@uchicago.edu,hopan@cs.uchicago.edu,5,wp,1,22,3,-1,8
+A novel method to determine the number of latent dimensions with SVD,Asana Neishabouri,Michel Desmarais,,asana.neishabouri@polymtl.ca,michel.desmarais@polymtl.ca,,1,r,0,-1,25,-2,12
+Automatic Goal Generation for Reinforcement Learning Agents,David Held,Xinyang Geng,Carlos Florensa,dheld@andrew.cmu.edu,young.geng@berkeley.edu,florensa@berkeley.edu,8,r,1,15,3,6,8
+A Goal-oriented Neural Conversation Model by Self-Play,Wei Wei,Quoc V. Le,Andrew M. Dai,wewei@google.com,adai@google.com,qvl@google.com,6,r,0,14,19,-1,11
+Bayesian Uncertainty Estimation for Batch Normalized Deep Networks,Mattias Teye,Hossein Azizpour,Kevin Smith,teye@kth.se,azizpour@kth.se,ksmith@kth.se,5,r,1,-1,12,22,11
+Learning Efficient Tensor Representations with Ring Structure Networks,Qibin Zhao,Masashi Sugiyama,Longhao Yuan,qibin.zhao@riken.jp,sugi@k.u-tokyo.ac.jp,longhao.yuan@riken.jp,5,wp,1,28,57,7,31
+Video Action Segmentation with Hybrid Temporal Networks,Li Ding,Chenliang Xu,,liding@rochester.edu,chenliang.xu@rochester.edu,,3,r,0,4,17,-2,10
+The Variational Homoencoder: Learning to Infer High-Capacity Generative Models from Few Examples,Luke Hewitt,Andrea Gane,Tommi Jaakkola,lbh@mit.edu,agane@mit.edu,tommi@csail.mit.edu,7,r,0,4,4,76,28
+Hyperedge2vec: Distributed Representations for Hyperedges,Ankit Sharma,Shafiq Joty,Himanshu Kharkwal,sharm170@umn.edu,srjoty@ntu.edu.sg,himanshukharkwal765@gmail.com,5,r,0,3,23,4,10
+Combining Model-based and Model-free RL via Multi-step Control Variates,Tong Che,Yuchen Lu,George Tucker,gerryche@berkeley.edu,luyuchen.paul@gmail.com,gjt@google.com,5,r,0,8,16,82,35
+Tree2Tree Learning with Memory Unit,Ning Miao,Hengliang Wang,Ran Le,miaoning@pku.edu.cn,wanghl@pku.edu.cn,leran@buaa.edu.cn,2,r,0,2,-1,1,1
+Revisiting Knowledge Base Embedding as Tensor Decomposition,Jiezhong Qiu,Hao Ma,Yuxiao Dong,xptree@gmail.com,haoma@microsoft.com,yuxdong@microsoft.com,3,r,0,7,32,17,19
