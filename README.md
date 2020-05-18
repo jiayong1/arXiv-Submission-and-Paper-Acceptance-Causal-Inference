@@ -1,1 +1,4 @@
-# CMSC828M_Causal_Inference
+# Using Causal Inference in Determining the Influenceof arXiv Submission on Paper Acceptance
+
+
+For various computer science conferences, people have been discussing variousways to improve the submission policy including double-blind reviews, 1-monthnon-anonymized  preprint  submission,  etc. In this work, we are interested in answering the question of whether uploading paper on arXiv before conferencesubmission can influence paper acceptance to computer science conferences. To answer this question, we constructed a causal graph and adapted causal inferencetechniques to measure the causal effect. Data were collected from Open-Review, arXiv and Google Scholar through web scripting. We then implemented and calculated the causal effect using a famous framework "DoWhy". Our final result shows a reasonably significant inference between arXiv submission and Paper Acceptance, though there are more future works required to prove it.
